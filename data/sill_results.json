@@ -1,0 +1,16 @@
+{
+  "sill_all_m": -3.01,
+  "sill_adams_bridge_corridor_m": -3.01,
+  "sill_palk_strait_north_corridor_m": -5.02,
+  "adams_bridge_crest": {
+    "length_km": 105.19,
+    "lowest": {
+      "km": 31.265,
+      "lat": 9.17292,
+      "lon": 79.43125,
+      "elev_m": -3.0
+    },
+    "submerged_from_km": 12.87,
+    "submerged_to_km": 103.798
+  }
+}

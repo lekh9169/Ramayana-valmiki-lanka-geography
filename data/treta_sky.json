@@ -1,0 +1,1171 @@
+{
+ "window_bce": [
+  881000,
+  867000
+ ],
+ "treta_end_bce": 867102,
+ "obliquity_check": [
+  {
+   "kyr": 0,
+   "this_model_deg": 23.439,
+   "berger_loutre_deg": 23.446
+  },
+  {
+   "kyr": -10,
+   "this_model_deg": 24.231,
+   "berger_loutre_deg": 24.229
+  },
+  {
+   "kyr": -41,
+   "this_model_deg": 23.769,
+   "berger_loutre_deg": 23.769
+  },
+  {
+   "kyr": -100,
+   "this_model_deg": 23.665,
+   "berger_loutre_deg": 23.719
+  },
+  {
+   "kyr": -250,
+   "this_model_deg": 24.38,
+   "berger_loutre_deg": 24.36
+  },
+  {
+   "kyr": -500,
+   "this_model_deg": 23.707,
+   "berger_loutre_deg": 23.777
+  },
+  {
+   "kyr": -750,
+   "this_model_deg": 23.636,
+   "berger_loutre_deg": 23.76
+  },
+  {
+   "kyr": -869,
+   "this_model_deg": 23.702,
+   "berger_loutre_deg": 23.748
+  },
+  {
+   "kyr": -880,
+   "this_model_deg": 23.096,
+   "berger_loutre_deg": 23.271
+  }
+ ],
+ "obliquity_correlation_BL91": 0.992,
+ "drift_corrections_deg_at_869ka": {
+  "emb": 19.55,
+  "mercury": -82.56,
+  "venus": -41.65,
+  "mars": -9.7,
+  "jupiter": -0.3,
+  "saturn": -0.1
+ },
+ "anchors": {
+  "Spica = 180\u00b0 (Lahiri / Chitra-paksha)": {
+   "strict_windows": [
+    {
+     "start_bce": 876021,
+     "end_bce": 876021,
+     "days": 14,
+     "sun_sid": 351.7,
+     "tropical_sun": 321.3,
+     "season": "Shishira",
+     "sea_level_m": -99.3,
+     "war_sky_episodes_age_30_45": 1,
+     "years_before_treta_end": 8919
+    },
+    {
+     "start_bce": 870719,
+     "end_bce": 870719,
+     "days": 2,
+     "sun_sid": 351.3,
+     "tropical_sun": 34.9,
+     "season": "Grishma",
+     "sea_level_m": -105.8,
+     "war_sky_episodes_age_30_45": 0,
+     "years_before_treta_end": 3617
+    },
+    {
+     "start_bce": 868951,
+     "end_bce": 868951,
+     "days": 14,
+     "sun_sid": 350.2,
+     "tropical_sun": 58.4,
+     "season": "Grishma",
+     "sea_level_m": -102.1,
+     "war_sky_episodes_age_30_45": 1,
+     "years_before_treta_end": 1849
+    }
+   ],
+   "sun_in_aries_windows": [
+    {
+     "start_bce": 876021,
+     "end_bce": 876021,
+     "days": 22,
+     "sun_sid": 14.5,
+     "tropical_sun": 344.1,
+     "season": "Vasanta",
+     "sea_level_m": -99.3,
+     "war_sky_episodes_age_30_45": 1,
+     "years_before_treta_end": 8919
+    },
+    {
+     "start_bce": 875784,
+     "end_bce": 875784,
+     "days": 22,
+     "sun_sid": 12.9,
+     "tropical_sun": 345.8,
+     "season": "Vasanta",
+     "sea_level_m": -100.0,
+     "war_sky_episodes_age_30_45": 1,
+     "years_before_treta_end": 8682
+    },
+    {
+     "start_bce": 869805,
+     "end_bce": 869805,
+     "days": 2,
+     "sun_sid": 21.9,
+     "tropical_sun": 78.2,
+     "season": "Grishma",
+     "sea_level_m": -104.5,
+     "war_sky_episodes_age_30_45": 0,
+     "years_before_treta_end": 2703
+    }
+   ],
+   "chaitra_seasons": [
+    {
+     "year_bce": 881000,
+     "chaitra_tropical_sun": 259.7,
+     "chaitra_season": "Hemanta",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 880500,
+     "chaitra_tropical_sun": 266.7,
+     "chaitra_season": "Hemanta",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 880000,
+     "chaitra_tropical_sun": 273.8,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 879500,
+     "chaitra_tropical_sun": 280.8,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 879000,
+     "chaitra_tropical_sun": 287.8,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 878500,
+     "chaitra_tropical_sun": 296.0,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 878000,
+     "chaitra_tropical_sun": 303.0,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 877500,
+     "chaitra_tropical_sun": 309.9,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 877000,
+     "chaitra_tropical_sun": 316.9,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 876500,
+     "chaitra_tropical_sun": 323.9,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 876000,
+     "chaitra_tropical_sun": 330.8,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 875500,
+     "chaitra_tropical_sun": 337.8,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 875000,
+     "chaitra_tropical_sun": 344.7,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 874500,
+     "chaitra_tropical_sun": 351.6,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 874000,
+     "chaitra_tropical_sun": 358.5,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 873500,
+     "chaitra_tropical_sun": 5.4,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 873000,
+     "chaitra_tropical_sun": 12.3,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 872500,
+     "chaitra_tropical_sun": 19.2,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 872000,
+     "chaitra_tropical_sun": 26.0,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": false,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 871500,
+     "chaitra_tropical_sun": 32.9,
+     "chaitra_season": "Grishma",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": false,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 871000,
+     "chaitra_tropical_sun": 39.7,
+     "chaitra_season": "Grishma",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": false,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 870500,
+     "chaitra_tropical_sun": 46.6,
+     "chaitra_season": "Grishma",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 870000,
+     "chaitra_tropical_sun": 53.4,
+     "chaitra_season": "Grishma",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 869500,
+     "chaitra_tropical_sun": 60.2,
+     "chaitra_season": "Grishma",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 869000,
+     "chaitra_tropical_sun": 67.0,
+     "chaitra_season": "Grishma",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 868500,
+     "chaitra_tropical_sun": 73.8,
+     "chaitra_season": "Grishma",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 868000,
+     "chaitra_tropical_sun": 80.6,
+     "chaitra_season": "Grishma",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 867500,
+     "chaitra_tropical_sun": 87.4,
+     "chaitra_season": "Grishma",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 867000,
+     "chaitra_tropical_sun": 17.1,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    }
+   ],
+   "all_pairings_pass_years": [
+    877000,
+    876500,
+    876000,
+    875500,
+    875000,
+    874500,
+    874000,
+    873500,
+    873000,
+    872500
+   ]
+  },
+  "zeta Psc = 359\u00b050' (Revati-paksha)": {
+   "strict_windows": [
+    {
+     "start_bce": 880031,
+     "end_bce": 880031,
+     "days": 2,
+     "sun_sid": 342.9,
+     "tropical_sun": 211.6,
+     "season": "Hemanta",
+     "sea_level_m": -87.1,
+     "war_sky_episodes_age_30_45": 1,
+     "years_before_treta_end": 12929
+    },
+    {
+     "start_bce": 874492,
+     "end_bce": 874492,
+     "days": 6,
+     "sun_sid": 355.9,
+     "tropical_sun": 302.8,
+     "season": "Shishira",
+     "sea_level_m": -102.6,
+     "war_sky_episodes_age_30_45": 2,
+     "years_before_treta_end": 7390
+    },
+    {
+     "start_bce": 873875,
+     "end_bce": 873875,
+     "days": 2,
+     "sun_sid": 356.7,
+     "tropical_sun": 312.3,
+     "season": "Shishira",
+     "sea_level_m": -103.7,
+     "war_sky_episodes_age_30_45": 1,
+     "years_before_treta_end": 6773
+    },
+    {
+     "start_bce": 873638,
+     "end_bce": 873638,
+     "days": 6,
+     "sun_sid": 346.8,
+     "tropical_sun": 305.8,
+     "season": "Shishira",
+     "sea_level_m": -104.2,
+     "war_sky_episodes_age_30_45": 1,
+     "years_before_treta_end": 6536
+    },
+    {
+     "start_bce": 873021,
+     "end_bce": 873021,
+     "days": 2,
+     "sun_sid": 343.5,
+     "tropical_sun": 311.2,
+     "season": "Shishira",
+     "sea_level_m": -105.3,
+     "war_sky_episodes_age_30_45": 0,
+     "years_before_treta_end": 5919
+    }
+   ],
+   "sun_in_aries_windows": [
+    {
+     "start_bce": 876497,
+     "end_bce": 876497,
+     "days": 10,
+     "sun_sid": 14.6,
+     "tropical_sun": 293.3,
+     "season": "Shishira",
+     "sea_level_m": -98.0,
+     "war_sky_episodes_age_30_45": 0,
+     "years_before_treta_end": 9395
+    },
+    {
+     "start_bce": 875346,
+     "end_bce": 875346,
+     "days": 2,
+     "sun_sid": 28.2,
+     "tropical_sun": 323.1,
+     "season": "Shishira",
+     "sea_level_m": -101.0,
+     "war_sky_episodes_age_30_45": 1,
+     "years_before_treta_end": 8244
+    },
+    {
+     "start_bce": 874729,
+     "end_bce": 874729,
+     "days": 14,
+     "sun_sid": 25.2,
+     "tropical_sun": 328.8,
+     "season": "Shishira",
+     "sea_level_m": -102.2,
+     "war_sky_episodes_age_30_45": 1,
+     "years_before_treta_end": 7627
+    },
+    {
+     "start_bce": 874492,
+     "end_bce": 874492,
+     "days": 10,
+     "sun_sid": 7.8,
+     "tropical_sun": 314.8,
+     "season": "Shishira",
+     "sea_level_m": -102.6,
+     "war_sky_episodes_age_30_45": 2,
+     "years_before_treta_end": 7390
+    },
+    {
+     "start_bce": 873875,
+     "end_bce": 873875,
+     "days": 6,
+     "sun_sid": 4.6,
+     "tropical_sun": 320.3,
+     "season": "Shishira",
+     "sea_level_m": -103.7,
+     "war_sky_episodes_age_30_45": 1,
+     "years_before_treta_end": 6773
+    }
+   ],
+   "chaitra_seasons": [
+    {
+     "year_bce": 881000,
+     "chaitra_tropical_sun": 213.7,
+     "chaitra_season": "Hemanta",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 880500,
+     "chaitra_tropical_sun": 220.7,
+     "chaitra_season": "Hemanta",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 880000,
+     "chaitra_tropical_sun": 227.6,
+     "chaitra_season": "Hemanta",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 879500,
+     "chaitra_tropical_sun": 234.6,
+     "chaitra_season": "Hemanta",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 879000,
+     "chaitra_tropical_sun": 241.6,
+     "chaitra_season": "Hemanta",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 878500,
+     "chaitra_tropical_sun": 252.4,
+     "chaitra_season": "Hemanta",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 878000,
+     "chaitra_tropical_sun": 259.4,
+     "chaitra_season": "Hemanta",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 877500,
+     "chaitra_tropical_sun": 266.3,
+     "chaitra_season": "Hemanta",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 877000,
+     "chaitra_tropical_sun": 273.2,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 876500,
+     "chaitra_tropical_sun": 280.1,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 876000,
+     "chaitra_tropical_sun": 286.9,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 875500,
+     "chaitra_tropical_sun": 293.8,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 875000,
+     "chaitra_tropical_sun": 300.7,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 874500,
+     "chaitra_tropical_sun": 307.5,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 874000,
+     "chaitra_tropical_sun": 314.3,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 873500,
+     "chaitra_tropical_sun": 321.2,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 873000,
+     "chaitra_tropical_sun": 328.0,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 872500,
+     "chaitra_tropical_sun": 334.8,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 872000,
+     "chaitra_tropical_sun": 341.5,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 871500,
+     "chaitra_tropical_sun": 348.3,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 871000,
+     "chaitra_tropical_sun": 356.3,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 870500,
+     "chaitra_tropical_sun": 3.1,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 870000,
+     "chaitra_tropical_sun": 9.8,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 869500,
+     "chaitra_tropical_sun": 16.6,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 869000,
+     "chaitra_tropical_sun": 23.3,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 868500,
+     "chaitra_tropical_sun": 30.0,
+     "chaitra_season": "Grishma",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": false,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 868000,
+     "chaitra_tropical_sun": 36.7,
+     "chaitra_season": "Grishma",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": false,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 867500,
+     "chaitra_tropical_sun": 43.4,
+     "chaitra_season": "Grishma",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": false,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 867000,
+     "chaitra_tropical_sun": 17.1,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    }
+   ],
+   "all_pairings_pass_years": [
+    873500,
+    873000,
+    872500,
+    872000,
+    871500,
+    871000,
+    870500,
+    870000,
+    869500,
+    869000
+   ]
+  },
+  "delta Cnc = 106\u00b0 (Pushya-paksha)": {
+   "strict_windows": [
+    {
+     "start_bce": 877172,
+     "end_bce": 877172,
+     "days": 14,
+     "sun_sid": 352.2,
+     "tropical_sun": 283.8,
+     "season": "Shishira",
+     "sea_level_m": -96.0,
+     "war_sky_episodes_age_30_45": 1,
+     "years_before_treta_end": 10070
+    },
+    {
+     "start_bce": 872724,
+     "end_bce": 872724,
+     "days": 2,
+     "sun_sid": 355.9,
+     "tropical_sun": 350.2,
+     "season": "Vasanta",
+     "sea_level_m": -105.6,
+     "war_sky_episodes_age_30_45": 1,
+     "years_before_treta_end": 5622
+    },
+    {
+     "start_bce": 872487,
+     "end_bce": 872487,
+     "days": 2,
+     "sun_sid": 346.3,
+     "tropical_sun": 343.8,
+     "season": "Vasanta",
+     "sea_level_m": -105.9,
+     "war_sky_episodes_age_30_45": 1,
+     "years_before_treta_end": 5385
+    },
+    {
+     "start_bce": 871870,
+     "end_bce": 871870,
+     "days": 10,
+     "sun_sid": 347.1,
+     "tropical_sun": 353.3,
+     "season": "Vasanta",
+     "sea_level_m": -106.3,
+     "war_sky_episodes_age_30_45": 0,
+     "years_before_treta_end": 4768
+    }
+   ],
+   "sun_in_aries_windows": [
+    {
+     "start_bce": 877789,
+     "end_bce": 877789,
+     "days": 6,
+     "sun_sid": 18.3,
+     "tropical_sun": 301.1,
+     "season": "Shishira",
+     "sea_level_m": -94.4,
+     "war_sky_episodes_age_30_45": 1,
+     "years_before_treta_end": 10687
+    },
+    {
+     "start_bce": 872724,
+     "end_bce": 872724,
+     "days": 14,
+     "sun_sid": 11.6,
+     "tropical_sun": 5.8,
+     "season": "Vasanta",
+     "sea_level_m": -105.6,
+     "war_sky_episodes_age_30_45": 1,
+     "years_before_treta_end": 5622
+    },
+    {
+     "start_bce": 867185,
+     "end_bce": 867185,
+     "days": 14,
+     "sun_sid": 24.7,
+     "tropical_sun": 96.0,
+     "season": "Varsha",
+     "sea_level_m": -91.1,
+     "war_sky_episodes_age_30_45": 1,
+     "years_before_treta_end": 83
+    }
+   ],
+   "chaitra_seasons": [
+    {
+     "year_bce": 881000,
+     "chaitra_tropical_sun": 236.9,
+     "chaitra_season": "Hemanta",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 880500,
+     "chaitra_tropical_sun": 243.9,
+     "chaitra_season": "Hemanta",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 880000,
+     "chaitra_tropical_sun": 250.9,
+     "chaitra_season": "Hemanta",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 879500,
+     "chaitra_tropical_sun": 257.9,
+     "chaitra_season": "Hemanta",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 879000,
+     "chaitra_tropical_sun": 264.9,
+     "chaitra_season": "Hemanta",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 878500,
+     "chaitra_tropical_sun": 271.9,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 878000,
+     "chaitra_tropical_sun": 278.8,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 877500,
+     "chaitra_tropical_sun": 285.8,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 877000,
+     "chaitra_tropical_sun": 292.7,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 876500,
+     "chaitra_tropical_sun": 299.6,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 876000,
+     "chaitra_tropical_sun": 306.5,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 875500,
+     "chaitra_tropical_sun": 313.5,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 875000,
+     "chaitra_tropical_sun": 321.6,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 874500,
+     "chaitra_tropical_sun": 328.4,
+     "chaitra_season": "Shishira",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 874000,
+     "chaitra_tropical_sun": 335.3,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 873500,
+     "chaitra_tropical_sun": 342.2,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 873000,
+     "chaitra_tropical_sun": 349.0,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 872500,
+     "chaitra_tropical_sun": 355.8,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 872000,
+     "chaitra_tropical_sun": 2.7,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 871500,
+     "chaitra_tropical_sun": 9.5,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 871000,
+     "chaitra_tropical_sun": 20.2,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 870500,
+     "chaitra_tropical_sun": 27.0,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": true,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 870000,
+     "chaitra_tropical_sun": 33.8,
+     "chaitra_season": "Grishma",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": false,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 869500,
+     "chaitra_tropical_sun": 40.6,
+     "chaitra_season": "Grishma",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": false,
+     "kartika_ok": true,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 869000,
+     "chaitra_tropical_sun": 47.4,
+     "chaitra_season": "Grishma",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 868500,
+     "chaitra_tropical_sun": 54.1,
+     "chaitra_season": "Grishma",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 868000,
+     "chaitra_tropical_sun": 60.9,
+     "chaitra_season": "Grishma",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": true
+    },
+    {
+     "year_bce": 867500,
+     "chaitra_tropical_sun": 67.7,
+     "chaitra_season": "Grishma",
+     "caitra_bloom_ok": false,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    },
+    {
+     "year_bce": 867000,
+     "chaitra_tropical_sun": 17.1,
+     "chaitra_season": "Vasanta",
+     "caitra_bloom_ok": true,
+     "sravana_rains_ok": false,
+     "kartika_ok": false,
+     "pausa_hemanta_ok": false
+    }
+   ],
+   "all_pairings_pass_years": [
+    875500,
+    875000,
+    874500,
+    874000,
+    873500,
+    873000,
+    872500,
+    872000,
+    871500,
+    871000,
+    870500
+   ]
+  }
+ },
+ "star_displacement_deg_since_treta_end": {
+  "Spica (Chitra, alf Vir)": 12.6,
+  "Revati (zet Psc)": 41.1,
+  "Pushya (del Cnc)": 57.4,
+  "Pollux (Punarvasu, bet Gem)": 74.7,
+  "Castor (Punarvasu, alf Gem)": 55.6,
+  "Aldebaran (Rohini, alf Tau)": 148.3,
+  "Regulus (Magha, alf Leo)": 53.2
+ }
+}

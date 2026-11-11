@@ -1,0 +1,27 @@
+age_ka,rsl_m,sigma_m,source
+0.0,0.0,0.2,Present datum
+1.0,0.1,0.4,Regional fall after highstand (Ranasinghe et al. 2025; Lambeck et al. 2014 ESL ~0)
+2.0,0.3,0.5,Regional fall after highstand (Ranasinghe et al. 2025)
+3.0,0.5,0.6,Regional fall after highstand (Ranasinghe et al. 2025; Banerjee 2000)
+4.0,0.8,0.7,Gulf of Mannar corals/shells +1.2 to +2.4 m at ~4.4-5.7 14C ka (Banerjee 2000 via Paul 2021)
+5.0,1.0,0.8,Gulf of Mannar microatolls +0.7-0.9 m at ~5 ka (JpGU 2026 abstract); Rameswaram Porites +1.2-1.4 m
+5.5,1.6,0.8,Southern Sri Lanka highstand peak ~1.6 m at ~5.5 cal ka (Ranasinghe et al. 2025)
+6.0,1.2,1.0,Northern Sri Lanka highstand >1.5 m (Ranasinghe et al. 2025); Katupotha 1988/1995
+6.5,0.5,1.5,Modern level reached 6.5-6.25 cal ka in S Sri Lanka; N Sri Lanka >1.5 m by ~6.5 cal ka (Ranasinghe et al. 2025)
+7.0,-1.5,2.0,Lower Gulf of Mannar microatolls ~7 ka (~2 m below the 5 ka set); Lambeck ESL -5 m + far-field offset
+7.5,-6.0,2.5,Lambeck et al. 2014 ESL ~-9 m + far-field hydro-isostatic offset ~+3 m (model assumption)
+8.0,-10.5,3.0,Lambeck et al. 2014 ESL -13 m + offset; Godavari delta -7.5 m at 8.0 cal ka (Nageswara Rao et al. 2015)
+8.2,-12.5,3.0,Lambeck et al. 2014 ESL ~-15 m + offset
+8.5,-16.5,3.0,Lambeck et al. 2014 ESL ~-19 m + offset; seawater enters the Palk Strait ~8.5 ka (Dubey et al. 2023)
+9.0,-23.0,4.0,Lambeck et al. 2014 ESL -25 m + offset
+10.0,-37.0,4.0,Lambeck et al. 2014 ESL -39 m + offset
+11.0,-52.0,4.0,Lambeck et al. 2014 ESL -54 m + offset; Godavari delta -43.5 m at 10.9 cal ka
+11.5,-56.5,4.0,Lambeck et al. 2014 ESL ~-58.5 m (interpolated)
+12.0,-61.0,4.0,Lambeck et al. 2014 ESL -63 m (Younger Dryas slowdown)
+13.0,-70.0,4.0,Lambeck et al. 2014 ESL -72 m
+14.0,-84.0,4.0,Lambeck et al. 2014 ESL -86 m (after Meltwater Pulse 1A)
+14.5,-98.0,5.0,Lambeck et al. 2014 ESL ~-100 m (onset of MWP-1A)
+15.0,-98.0,6.0,Lambeck et al. 2014 ESL -100 m
+16.5,-117.0,5.0,Lambeck et al. 2014 ESL ~-120 m
+19.0,-124.0,5.0,Lambeck et al. 2014 ESL -126 m
+21.0,-131.0,5.0,Lambeck et al. 2014 ESL -134 m (LGM); east-coast LGM ~-130 m (Loveson & Nigam 2019)

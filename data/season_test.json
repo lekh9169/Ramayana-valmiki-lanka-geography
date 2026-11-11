@@ -1,0 +1,2717 @@
+{
+ "all_pass_span": [
+  -2950,
+  2000
+ ],
+ "rows": [
+  {
+   "year": -13000,
+   "ayanamsa_deg": -178.73,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12950,
+   "ayanamsa_deg": -178.08,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12900,
+   "ayanamsa_deg": -177.43,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12850,
+   "ayanamsa_deg": -176.78,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12800,
+   "ayanamsa_deg": -176.12,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12750,
+   "ayanamsa_deg": -175.47,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12700,
+   "ayanamsa_deg": -174.81,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12650,
+   "ayanamsa_deg": -174.16,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12600,
+   "ayanamsa_deg": -173.51,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12550,
+   "ayanamsa_deg": -172.85,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12500,
+   "ayanamsa_deg": -172.2,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12450,
+   "ayanamsa_deg": -171.54,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12400,
+   "ayanamsa_deg": -170.89,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12350,
+   "ayanamsa_deg": -170.24,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12300,
+   "ayanamsa_deg": -169.58,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12250,
+   "ayanamsa_deg": -168.93,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12200,
+   "ayanamsa_deg": -168.27,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12150,
+   "ayanamsa_deg": -167.62,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12100,
+   "ayanamsa_deg": -166.96,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12050,
+   "ayanamsa_deg": -166.31,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -12000,
+   "ayanamsa_deg": -165.65,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11950,
+   "ayanamsa_deg": -164.99,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11900,
+   "ayanamsa_deg": -164.34,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11850,
+   "ayanamsa_deg": -163.68,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11800,
+   "ayanamsa_deg": -163.03,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11750,
+   "ayanamsa_deg": -162.37,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11700,
+   "ayanamsa_deg": -161.71,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11650,
+   "ayanamsa_deg": -161.06,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11600,
+   "ayanamsa_deg": -160.4,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11550,
+   "ayanamsa_deg": -159.74,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11500,
+   "ayanamsa_deg": -159.08,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11450,
+   "ayanamsa_deg": -158.43,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11400,
+   "ayanamsa_deg": -157.77,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11350,
+   "ayanamsa_deg": -157.11,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11300,
+   "ayanamsa_deg": -156.45,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11250,
+   "ayanamsa_deg": -155.8,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11200,
+   "ayanamsa_deg": -155.14,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11150,
+   "ayanamsa_deg": -154.48,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11100,
+   "ayanamsa_deg": -153.82,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11050,
+   "ayanamsa_deg": -153.16,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -11000,
+   "ayanamsa_deg": -152.51,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10950,
+   "ayanamsa_deg": -151.85,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10900,
+   "ayanamsa_deg": -151.19,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10850,
+   "ayanamsa_deg": -150.53,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10800,
+   "ayanamsa_deg": -149.87,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10750,
+   "ayanamsa_deg": -149.21,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10700,
+   "ayanamsa_deg": -148.55,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10650,
+   "ayanamsa_deg": -147.89,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10600,
+   "ayanamsa_deg": -147.23,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10550,
+   "ayanamsa_deg": -146.57,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10500,
+   "ayanamsa_deg": -145.91,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10450,
+   "ayanamsa_deg": -145.25,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10400,
+   "ayanamsa_deg": -144.59,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10350,
+   "ayanamsa_deg": -143.93,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10300,
+   "ayanamsa_deg": -143.27,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10250,
+   "ayanamsa_deg": -142.61,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10200,
+   "ayanamsa_deg": -141.95,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10150,
+   "ayanamsa_deg": -141.29,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10100,
+   "ayanamsa_deg": -140.62,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10050,
+   "ayanamsa_deg": -139.96,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -10000,
+   "ayanamsa_deg": -139.3,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9950,
+   "ayanamsa_deg": -138.64,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9900,
+   "ayanamsa_deg": -137.98,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9850,
+   "ayanamsa_deg": -137.32,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9800,
+   "ayanamsa_deg": -136.65,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9750,
+   "ayanamsa_deg": -135.99,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9700,
+   "ayanamsa_deg": -135.33,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9650,
+   "ayanamsa_deg": -134.67,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9600,
+   "ayanamsa_deg": -134.0,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9550,
+   "ayanamsa_deg": -133.34,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9500,
+   "ayanamsa_deg": -132.68,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9450,
+   "ayanamsa_deg": -132.01,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9400,
+   "ayanamsa_deg": -131.35,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9350,
+   "ayanamsa_deg": -130.69,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9300,
+   "ayanamsa_deg": -130.02,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9250,
+   "ayanamsa_deg": -129.36,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9200,
+   "ayanamsa_deg": -128.7,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9150,
+   "ayanamsa_deg": -128.03,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9100,
+   "ayanamsa_deg": -127.37,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9050,
+   "ayanamsa_deg": -126.7,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -9000,
+   "ayanamsa_deg": -126.04,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8950,
+   "ayanamsa_deg": -125.37,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8900,
+   "ayanamsa_deg": -124.71,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8850,
+   "ayanamsa_deg": -124.04,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8800,
+   "ayanamsa_deg": -123.38,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8750,
+   "ayanamsa_deg": -122.71,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8700,
+   "ayanamsa_deg": -122.05,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8650,
+   "ayanamsa_deg": -121.38,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8600,
+   "ayanamsa_deg": -120.72,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8550,
+   "ayanamsa_deg": -120.05,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8500,
+   "ayanamsa_deg": -119.38,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8450,
+   "ayanamsa_deg": -118.72,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8400,
+   "ayanamsa_deg": -118.05,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8350,
+   "ayanamsa_deg": -117.38,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8300,
+   "ayanamsa_deg": -116.72,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8250,
+   "ayanamsa_deg": -116.05,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8200,
+   "ayanamsa_deg": -115.38,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8150,
+   "ayanamsa_deg": -114.72,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8100,
+   "ayanamsa_deg": -114.05,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8050,
+   "ayanamsa_deg": -113.38,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -8000,
+   "ayanamsa_deg": -112.71,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7950,
+   "ayanamsa_deg": -112.05,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7900,
+   "ayanamsa_deg": -111.38,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7850,
+   "ayanamsa_deg": -110.71,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7800,
+   "ayanamsa_deg": -110.04,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7750,
+   "ayanamsa_deg": -109.37,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7700,
+   "ayanamsa_deg": -108.71,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7650,
+   "ayanamsa_deg": -108.04,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7600,
+   "ayanamsa_deg": -107.37,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7550,
+   "ayanamsa_deg": -106.7,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7500,
+   "ayanamsa_deg": -106.03,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7450,
+   "ayanamsa_deg": -105.36,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7400,
+   "ayanamsa_deg": -104.69,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7350,
+   "ayanamsa_deg": -104.02,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7300,
+   "ayanamsa_deg": -103.35,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7250,
+   "ayanamsa_deg": -102.68,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7200,
+   "ayanamsa_deg": -102.01,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7150,
+   "ayanamsa_deg": -101.34,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7100,
+   "ayanamsa_deg": -100.67,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7050,
+   "ayanamsa_deg": -100.0,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -7000,
+   "ayanamsa_deg": -99.33,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6950,
+   "ayanamsa_deg": -98.66,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6900,
+   "ayanamsa_deg": -97.99,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6850,
+   "ayanamsa_deg": -97.32,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6800,
+   "ayanamsa_deg": -96.65,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6750,
+   "ayanamsa_deg": -95.98,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6700,
+   "ayanamsa_deg": -95.3,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6650,
+   "ayanamsa_deg": -94.63,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6600,
+   "ayanamsa_deg": -93.96,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6550,
+   "ayanamsa_deg": -93.29,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6500,
+   "ayanamsa_deg": -92.62,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6450,
+   "ayanamsa_deg": -91.94,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6400,
+   "ayanamsa_deg": -91.27,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6350,
+   "ayanamsa_deg": -90.6,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6300,
+   "ayanamsa_deg": -89.93,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6250,
+   "ayanamsa_deg": -89.25,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6200,
+   "ayanamsa_deg": -88.58,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6150,
+   "ayanamsa_deg": -87.91,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6100,
+   "ayanamsa_deg": -87.23,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6050,
+   "ayanamsa_deg": -86.56,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -6000,
+   "ayanamsa_deg": -85.89,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5950,
+   "ayanamsa_deg": -85.21,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5900,
+   "ayanamsa_deg": -84.54,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5850,
+   "ayanamsa_deg": -83.86,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5800,
+   "ayanamsa_deg": -83.19,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5750,
+   "ayanamsa_deg": -82.52,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5700,
+   "ayanamsa_deg": -81.84,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5650,
+   "ayanamsa_deg": -81.17,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5600,
+   "ayanamsa_deg": -80.49,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5550,
+   "ayanamsa_deg": -79.82,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5500,
+   "ayanamsa_deg": -79.14,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5450,
+   "ayanamsa_deg": -78.47,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5400,
+   "ayanamsa_deg": -77.79,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5350,
+   "ayanamsa_deg": -77.12,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5300,
+   "ayanamsa_deg": -76.44,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5250,
+   "ayanamsa_deg": -75.76,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5200,
+   "ayanamsa_deg": -75.09,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5150,
+   "ayanamsa_deg": -74.41,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5100,
+   "ayanamsa_deg": -73.74,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5050,
+   "ayanamsa_deg": -73.06,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -5000,
+   "ayanamsa_deg": -72.38,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4950,
+   "ayanamsa_deg": -71.71,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4900,
+   "ayanamsa_deg": -71.03,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4850,
+   "ayanamsa_deg": -70.35,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4800,
+   "ayanamsa_deg": -69.67,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4750,
+   "ayanamsa_deg": -69.0,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4700,
+   "ayanamsa_deg": -68.32,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4650,
+   "ayanamsa_deg": -67.64,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4600,
+   "ayanamsa_deg": -66.96,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4550,
+   "ayanamsa_deg": -66.29,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4500,
+   "ayanamsa_deg": -65.61,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4450,
+   "ayanamsa_deg": -64.93,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4400,
+   "ayanamsa_deg": -64.25,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4350,
+   "ayanamsa_deg": -63.57,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4300,
+   "ayanamsa_deg": -62.89,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4250,
+   "ayanamsa_deg": -62.21,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4200,
+   "ayanamsa_deg": -61.54,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4150,
+   "ayanamsa_deg": -60.86,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4100,
+   "ayanamsa_deg": -60.18,
+   "Caitra - groves in bloom (vasanta)": false,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": false,
+   "all_pass": false
+  },
+  {
+   "year": -4050,
+   "ayanamsa_deg": -59.5,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -4000,
+   "ayanamsa_deg": -58.82,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3950,
+   "ayanamsa_deg": -58.14,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3900,
+   "ayanamsa_deg": -57.46,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3850,
+   "ayanamsa_deg": -56.78,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3800,
+   "ayanamsa_deg": -56.1,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3750,
+   "ayanamsa_deg": -55.42,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": false,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3700,
+   "ayanamsa_deg": -54.74,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3650,
+   "ayanamsa_deg": -54.06,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3600,
+   "ayanamsa_deg": -53.37,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3550,
+   "ayanamsa_deg": -52.69,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3500,
+   "ayanamsa_deg": -52.01,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3450,
+   "ayanamsa_deg": -51.33,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3400,
+   "ayanamsa_deg": -50.65,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3350,
+   "ayanamsa_deg": -49.97,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3300,
+   "ayanamsa_deg": -49.29,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3250,
+   "ayanamsa_deg": -48.6,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3200,
+   "ayanamsa_deg": -47.92,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3150,
+   "ayanamsa_deg": -47.24,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3100,
+   "ayanamsa_deg": -46.56,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3050,
+   "ayanamsa_deg": -45.87,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -3000,
+   "ayanamsa_deg": -45.19,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": false,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": false
+  },
+  {
+   "year": -2950,
+   "ayanamsa_deg": -44.51,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2900,
+   "ayanamsa_deg": -43.83,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2850,
+   "ayanamsa_deg": -43.14,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2800,
+   "ayanamsa_deg": -42.46,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2750,
+   "ayanamsa_deg": -41.78,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2700,
+   "ayanamsa_deg": -41.09,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2650,
+   "ayanamsa_deg": -40.41,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2600,
+   "ayanamsa_deg": -39.72,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2550,
+   "ayanamsa_deg": -39.04,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2500,
+   "ayanamsa_deg": -38.36,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2450,
+   "ayanamsa_deg": -37.67,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2400,
+   "ayanamsa_deg": -36.99,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2350,
+   "ayanamsa_deg": -36.3,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2300,
+   "ayanamsa_deg": -35.62,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2250,
+   "ayanamsa_deg": -34.93,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2200,
+   "ayanamsa_deg": -34.25,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2150,
+   "ayanamsa_deg": -33.56,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2100,
+   "ayanamsa_deg": -32.88,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2050,
+   "ayanamsa_deg": -32.19,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -2000,
+   "ayanamsa_deg": -31.51,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1950,
+   "ayanamsa_deg": -30.82,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1900,
+   "ayanamsa_deg": -30.13,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1850,
+   "ayanamsa_deg": -29.45,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1800,
+   "ayanamsa_deg": -28.76,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1750,
+   "ayanamsa_deg": -28.07,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1700,
+   "ayanamsa_deg": -27.39,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1650,
+   "ayanamsa_deg": -26.7,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1600,
+   "ayanamsa_deg": -26.01,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1550,
+   "ayanamsa_deg": -25.33,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1500,
+   "ayanamsa_deg": -24.64,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1450,
+   "ayanamsa_deg": -23.95,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1400,
+   "ayanamsa_deg": -23.26,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1350,
+   "ayanamsa_deg": -22.58,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1300,
+   "ayanamsa_deg": -21.89,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1250,
+   "ayanamsa_deg": -21.2,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1200,
+   "ayanamsa_deg": -20.51,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1150,
+   "ayanamsa_deg": -19.82,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1100,
+   "ayanamsa_deg": -19.14,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1050,
+   "ayanamsa_deg": -18.45,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -1000,
+   "ayanamsa_deg": -17.76,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -950,
+   "ayanamsa_deg": -17.07,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -900,
+   "ayanamsa_deg": -16.38,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -850,
+   "ayanamsa_deg": -15.69,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -800,
+   "ayanamsa_deg": -15.0,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -750,
+   "ayanamsa_deg": -14.31,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -700,
+   "ayanamsa_deg": -13.62,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -650,
+   "ayanamsa_deg": -12.93,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -600,
+   "ayanamsa_deg": -12.24,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -550,
+   "ayanamsa_deg": -11.55,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -500,
+   "ayanamsa_deg": -10.86,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -450,
+   "ayanamsa_deg": -10.17,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -400,
+   "ayanamsa_deg": -9.48,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -350,
+   "ayanamsa_deg": -8.79,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -300,
+   "ayanamsa_deg": -8.1,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -250,
+   "ayanamsa_deg": -7.41,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -200,
+   "ayanamsa_deg": -6.72,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -150,
+   "ayanamsa_deg": -6.03,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -100,
+   "ayanamsa_deg": -5.33,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": -50,
+   "ayanamsa_deg": -4.64,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 0,
+   "ayanamsa_deg": -3.95,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 50,
+   "ayanamsa_deg": -3.26,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 100,
+   "ayanamsa_deg": -2.57,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 150,
+   "ayanamsa_deg": -1.87,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 200,
+   "ayanamsa_deg": -1.18,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 250,
+   "ayanamsa_deg": -0.49,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 300,
+   "ayanamsa_deg": 0.2,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 350,
+   "ayanamsa_deg": 0.9,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 400,
+   "ayanamsa_deg": 1.59,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 450,
+   "ayanamsa_deg": 2.28,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 500,
+   "ayanamsa_deg": 2.98,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 550,
+   "ayanamsa_deg": 3.67,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 600,
+   "ayanamsa_deg": 4.36,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 650,
+   "ayanamsa_deg": 5.06,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 700,
+   "ayanamsa_deg": 5.75,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 750,
+   "ayanamsa_deg": 6.45,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 800,
+   "ayanamsa_deg": 7.14,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 850,
+   "ayanamsa_deg": 7.83,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 900,
+   "ayanamsa_deg": 8.53,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 950,
+   "ayanamsa_deg": 9.22,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1000,
+   "ayanamsa_deg": 9.92,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1050,
+   "ayanamsa_deg": 10.61,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1100,
+   "ayanamsa_deg": 11.31,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1150,
+   "ayanamsa_deg": 12.0,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1200,
+   "ayanamsa_deg": 12.7,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1250,
+   "ayanamsa_deg": 13.4,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1300,
+   "ayanamsa_deg": 14.09,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1350,
+   "ayanamsa_deg": 14.79,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1400,
+   "ayanamsa_deg": 15.48,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1450,
+   "ayanamsa_deg": 16.18,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1500,
+   "ayanamsa_deg": 16.88,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1550,
+   "ayanamsa_deg": 17.57,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1600,
+   "ayanamsa_deg": 18.27,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1650,
+   "ayanamsa_deg": 18.97,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1700,
+   "ayanamsa_deg": 19.66,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1750,
+   "ayanamsa_deg": 20.36,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1800,
+   "ayanamsa_deg": 21.06,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1850,
+   "ayanamsa_deg": 21.76,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1900,
+   "ayanamsa_deg": 22.45,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 1950,
+   "ayanamsa_deg": 23.15,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  },
+  {
+   "year": 2000,
+   "ayanamsa_deg": 23.85,
+   "Caitra - groves in bloom (vasanta)": true,
+   "Sravana - first month of the rains": true,
+   "Kartika - rains over, campaign season": true,
+   "Pausa - hemanta, Sun firmly in the south": true,
+   "all_pass": true
+  }
+ ]
+}

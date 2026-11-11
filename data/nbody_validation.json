@@ -1,0 +1,48 @@
+{
+ "rows": [
+  {
+   "date": "10 Feb 4498 BCE (Julian cal., astronomical year -4497)",
+   "sun": 0.146,
+   "mercury": 0.338,
+   "venus": -0.035,
+   "mars": -0.018,
+   "jupiter": -0.013,
+   "saturn": -0.01
+  },
+  {
+   "date": "01 Mar 5352 BCE (Julian cal., astronomical year -5351)",
+   "sun": 0.16,
+   "mercury": -0.135,
+   "venus": 0.02,
+   "mars": -0.092,
+   "jupiter": -0.007,
+   "saturn": -0.018
+  },
+  {
+   "date": "29 Jan 6266 BCE (Julian cal., astronomical year -6265)",
+   "sun": 0.183,
+   "mercury": 0.15,
+   "venus": -0.059,
+   "mars": -0.032,
+   "jupiter": -0.012,
+   "saturn": -0.022
+  },
+  {
+   "date": "17 Feb 7120 BCE (Julian cal., astronomical year -7119)",
+   "sun": 0.204,
+   "mercury": -0.179,
+   "venus": -0.03,
+   "mars": -0.154,
+   "jupiter": 0.01,
+   "saturn": -0.021
+  }
+ ],
+ "max_abs_diff_deg": {
+  "sun": 0.204,
+  "mercury": 0.338,
+  "venus": 0.059,
+  "mars": 0.154,
+  "jupiter": 0.013,
+  "saturn": 0.022
+ }
+}

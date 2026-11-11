@@ -1,0 +1,51 @@
+[
+  {
+    "depth_cutoff_m": 3,
+    "gap_length_km": 46.38,
+    "shoal_area_km2": 154.1,
+    "mean_width_km": 3.32,
+    "length_to_width": 14.0
+  },
+  {
+    "depth_cutoff_m": 4,
+    "gap_length_km": 46.19,
+    "shoal_area_km2": 221.9,
+    "mean_width_km": 4.8,
+    "length_to_width": 9.6
+  },
+  {
+    "depth_cutoff_m": 5,
+    "gap_length_km": 46.19,
+    "shoal_area_km2": 377.0,
+    "mean_width_km": 8.16,
+    "length_to_width": 5.7
+  },
+  {
+    "depth_cutoff_m": 6,
+    "gap_length_km": 45.99,
+    "shoal_area_km2": 558.0,
+    "mean_width_km": 12.13,
+    "length_to_width": 3.8
+  },
+  {
+    "depth_cutoff_m": 8,
+    "gap_length_km": 45.99,
+    "shoal_area_km2": 978.5,
+    "mean_width_km": 21.28,
+    "length_to_width": 2.2
+  },
+  {
+    "depth_cutoff_m": 10,
+    "gap_length_km": 45.99,
+    "shoal_area_km2": 1271.1,
+    "mean_width_km": 27.64,
+    "length_to_width": 1.7
+  },
+  {
+    "depth_cutoff_m": 15,
+    "gap_length_km": 45.99,
+    "shoal_area_km2": 1753.9,
+    "mean_width_km": 38.14,
+    "length_to_width": 1.2
+  }
+]

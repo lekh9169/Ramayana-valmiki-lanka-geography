@@ -1,0 +1,38 @@
+{
+ "Talaimannar (Setu landfall), eye 10 m": {
+  "observer": [
+   9.09,
+   79.72,
+   10
+  ],
+  "highest_visible_ge_100m": null,
+  "max_visible_elev_m": 16.0
+ },
+ "Talaimannar, from a 30 m dune/tree": {
+  "observer": [
+   9.09,
+   79.72,
+   30
+  ],
+  "highest_visible_ge_100m": null,
+  "max_visible_elev_m": 34.0
+ },
+ "Rameswaram Gandhamadana hill, 15 m": {
+  "observer": [
+   9.3,
+   79.31,
+   15
+  ],
+  "highest_visible_ge_100m": null,
+  "max_visible_elev_m": null
+ },
+ "Mahendragiri summit 1555 m": {
+  "observer": [
+   8.3854,
+   77.4896,
+   1555
+  ],
+  "highest_visible_ge_100m": null,
+  "max_visible_elev_m": null
+ }
+}

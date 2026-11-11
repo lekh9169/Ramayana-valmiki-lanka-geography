@@ -1,0 +1,1980 @@
+{
+ "mahendragiri_summit_gebco": {
+  "lat": 8.3854,
+  "lon": 77.4896,
+  "elev_m": 1555.0
+ },
+ "launch_to_srilanka": {
+  "Mahendragiri summit": {
+   "coast_at_0m": {
+    "lat": 8.2021,
+    "lon": 79.7021,
+    "elev_m": 4.0,
+    "distance_km": 244.3
+   },
+   "coast_at_-3m": {
+    "lat": 9.1896,
+    "lon": 79.4021,
+    "elev_m": -1.0,
+    "distance_km": 228.4
+   },
+   "coast_at_-10m": {
+    "lat": 9.1146,
+    "lon": 79.4021,
+    "elev_m": -9.0,
+    "distance_km": 225.3
+   },
+   "coast_at_-40m": {
+    "lat": 8.9562,
+    "lon": 79.4021,
+    "elev_m": -27.0,
+    "distance_km": 219.6
+   },
+   "coast_at_-120m": {
+    "lat": 8.9396,
+    "lon": 79.4021,
+    "elev_m": -107.0,
+    "distance_km": 219.1
+   }
+  },
+  "Dhanushkodi / Arichal Munai": {
+   "coast_at_0m": {
+    "lat": 9.0937,
+    "lon": 79.7021,
+    "elev_m": 7.0,
+    "distance_km": 32.4
+   },
+   "coast_at_-3m": {
+    "lat": 9.1812,
+    "lon": 79.4188,
+    "elev_m": -2.0,
+    "distance_km": 0.2
+   },
+   "coast_at_-10m": {
+    "lat": 9.1812,
+    "lon": 79.4188,
+    "elev_m": -2.0,
+    "distance_km": 0.2
+   },
+   "coast_at_-40m": {
+    "lat": 9.1812,
+    "lon": 79.4188,
+    "elev_m": -2.0,
+    "distance_km": 0.2
+   },
+   "coast_at_-120m": {
+    "lat": 9.1812,
+    "lon": 79.4188,
+    "elev_m": -2.0,
+    "distance_km": 0.2
+   }
+  },
+  "Kanyakumari": {
+   "coast_at_0m": {
+    "lat": 8.1854,
+    "lon": 79.7021,
+    "elev_m": 4.0,
+    "distance_km": 237.2
+   },
+   "coast_at_-3m": {
+    "lat": 8.2104,
+    "lon": 79.6937,
+    "elev_m": -2.0,
+    "distance_km": 236.4
+   },
+   "coast_at_-10m": {
+    "lat": 9.1146,
+    "lon": 79.4021,
+    "elev_m": -9.0,
+    "distance_km": 233.9
+   },
+   "coast_at_-40m": {
+    "lat": 8.9562,
+    "lon": 79.4021,
+    "elev_m": -27.0,
+    "distance_km": 225.8
+   },
+   "coast_at_-120m": {
+    "lat": 8.9396,
+    "lon": 79.4021,
+    "elev_m": -107.0,
+    "distance_km": 225.0
+   }
+  }
+ },
+ "surya_siddhanta_lanka": {
+  "lat": 0.0,
+  "lon": 75.7683,
+  "depth_m": -4128.0,
+  "nearest_cell_above_-130m": {
+   "lat": 0.3812,
+   "lon": 73.5812,
+   "elev_m": -2.0,
+   "distance_km": 246.9
+  },
+  "nearest_land_now": {
+   "lat": 0.3771,
+   "lon": 73.5771,
+   "elev_m": 33.0,
+   "distance_km": 247.2
+  },
+  "distance_from_mahendragiri_km": 951.7
+ },
+ "maldives_exposed_km2": {
+  "0": 1151,
+  "-40": 20794,
+  "-80": 25648,
+  "-120": 26780
+ },
+ "srilanka_summits": [
+  {
+   "lat": 7.002083333333331,
+   "lon": 80.77291666666667,
+   "elev_m": 2475.0,
+   "relief_m": 1388.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 259.5
+  },
+  {
+   "lat": 6.797916666666662,
+   "lon": 80.76875000000001,
+   "elev_m": 2284.0,
+   "relief_m": 1249.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 279.8
+  },
+  {
+   "lat": 6.831249999999997,
+   "lon": 80.81875,
+   "elev_m": 2267.0,
+   "relief_m": 1054.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 278.8
+  },
+  {
+   "lat": 6.9687499999999964,
+   "lon": 80.69375,
+   "elev_m": 2127.0,
+   "relief_m": 1094.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 259.1
+  },
+  {
+   "lat": 6.918749999999996,
+   "lon": 80.81458333333333,
+   "elev_m": 2092.0,
+   "relief_m": 982.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 269.8
+  },
+  {
+   "lat": 6.914583333333329,
+   "lon": 80.77291666666667,
+   "elev_m": 2076.0,
+   "relief_m": 716.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 268.2
+  },
+  {
+   "lat": 7.077083333333331,
+   "lon": 80.73541666666667,
+   "elev_m": 2070.0,
+   "relief_m": 1261.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 250.2
+  },
+  {
+   "lat": 6.985416666666662,
+   "lon": 80.83125000000001,
+   "elev_m": 2056.0,
+   "relief_m": 947.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 264.1
+  },
+  {
+   "lat": 6.810416666666665,
+   "lon": 80.49791666666667,
+   "elev_m": 2023.0,
+   "relief_m": 1839.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 267.6
+  },
+  {
+   "lat": 6.831249999999997,
+   "lon": 80.68541666666667,
+   "elev_m": 2012.0,
+   "relief_m": 780.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 272.7
+  },
+  {
+   "lat": 6.768749999999997,
+   "lon": 80.66041666666666,
+   "elev_m": 2012.0,
+   "relief_m": 1367.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 278.1
+  },
+  {
+   "lat": 6.764583333333331,
+   "lon": 80.58958333333334,
+   "elev_m": 1930.0,
+   "relief_m": 1338.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 275.7
+  },
+  {
+   "lat": 6.802083333333329,
+   "lon": 81.01458333333333,
+   "elev_m": 1915.0,
+   "relief_m": 1324.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 291.6
+  },
+  {
+   "lat": 6.793749999999996,
+   "lon": 80.56875,
+   "elev_m": 1911.0,
+   "relief_m": 1134.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 271.9
+  },
+  {
+   "lat": 6.931249999999995,
+   "lon": 81.11458333333334,
+   "elev_m": 1907.0,
+   "relief_m": 1328.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 285.0
+  },
+  {
+   "lat": 6.885416666666664,
+   "lon": 80.64791666666667,
+   "elev_m": 1819.0,
+   "relief_m": 717.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 265.6
+  },
+  {
+   "lat": 7.456249999999997,
+   "lon": 80.74791666666667,
+   "elev_m": 1794.0,
+   "relief_m": 1440.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 214.0
+  },
+  {
+   "lat": 7.40208333333333,
+   "lon": 80.81041666666667,
+   "elev_m": 1778.0,
+   "relief_m": 1483.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 222.8
+  },
+  {
+   "lat": 6.96458333333333,
+   "lon": 80.58958333333334,
+   "elev_m": 1684.0,
+   "relief_m": 886.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 255.0
+  },
+  {
+   "lat": 6.772916666666664,
+   "lon": 80.91875,
+   "elev_m": 1666.0,
+   "relief_m": 1348.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 289.5
+  },
+  {
+   "lat": 6.989583333333329,
+   "lon": 80.91875,
+   "elev_m": 1627.0,
+   "relief_m": 1108.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 268.3
+  },
+  {
+   "lat": 7.331249999999997,
+   "lon": 80.85208333333334,
+   "elev_m": 1508.0,
+   "relief_m": 1026.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 231.9
+  },
+  {
+   "lat": 7.035416666666663,
+   "lon": 81.01041666666667,
+   "elev_m": 1502.0,
+   "relief_m": 1192.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 269.0
+  },
+  {
+   "lat": 6.856249999999996,
+   "lon": 80.56458333333333,
+   "elev_m": 1496.0,
+   "relief_m": 587.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 265.2
+  },
+  {
+   "lat": 7.022916666666664,
+   "lon": 80.61458333333334,
+   "elev_m": 1485.0,
+   "relief_m": 831.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 250.1
+  },
+  {
+   "lat": 7.389583333333331,
+   "lon": 80.86875,
+   "elev_m": 1484.0,
+   "relief_m": 1189.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 227.4
+  },
+  {
+   "lat": 7.4687499999999964,
+   "lon": 80.81875,
+   "elev_m": 1477.0,
+   "relief_m": 1227.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 217.1
+  },
+  {
+   "lat": 7.022916666666664,
+   "lon": 81.17291666666667,
+   "elev_m": 1455.0,
+   "relief_m": 1051.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 280.0
+  },
+  {
+   "lat": 7.085416666666664,
+   "lon": 80.63125,
+   "elev_m": 1433.0,
+   "relief_m": 868.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 244.4
+  },
+  {
+   "lat": 7.164583333333329,
+   "lon": 80.80208333333334,
+   "elev_m": 1425.0,
+   "relief_m": 1192.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 245.0
+  },
+  {
+   "lat": 6.881249999999998,
+   "lon": 81.00208333333333,
+   "elev_m": 1422.0,
+   "relief_m": 604.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 283.3
+  },
+  {
+   "lat": 7.102083333333329,
+   "lon": 81.16041666666666,
+   "elev_m": 1416.0,
+   "relief_m": 1161.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 272.0
+  },
+  {
+   "lat": 6.65208333333333,
+   "lon": 80.63541666666667,
+   "elev_m": 1416.0,
+   "relief_m": 1273.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 289.2
+  },
+  {
+   "lat": 7.397916666666664,
+   "lon": 80.71041666666667,
+   "elev_m": 1406.0,
+   "relief_m": 994.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 217.4
+  },
+  {
+   "lat": 6.814583333333331,
+   "lon": 80.44791666666667,
+   "elev_m": 1404.0,
+   "relief_m": 1306.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 265.4
+  },
+  {
+   "lat": 7.5312499999999964,
+   "lon": 80.73125,
+   "elev_m": 1376.0,
+   "relief_m": 990.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 206.0
+  },
+  {
+   "lat": 7.068749999999998,
+   "lon": 80.50208333333333,
+   "elev_m": 1369.0,
+   "relief_m": 795.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 240.7
+  },
+  {
+   "lat": 6.827083333333331,
+   "lon": 80.92708333333334,
+   "elev_m": 1356.0,
+   "relief_m": 304.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 284.6
+  },
+  {
+   "lat": 7.15208333333333,
+   "lon": 81.12291666666667,
+   "elev_m": 1352.0,
+   "relief_m": 1184.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 265.1
+  },
+  {
+   "lat": 6.8437499999999964,
+   "lon": 80.95625000000001,
+   "elev_m": 1346.0,
+   "relief_m": 318.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 284.5
+  },
+  {
+   "lat": 7.08958333333333,
+   "lon": 80.90625,
+   "elev_m": 1345.0,
+   "relief_m": 1062.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 257.9
+  },
+  {
+   "lat": 6.439583333333331,
+   "lon": 80.57291666666667,
+   "elev_m": 1309.0,
+   "relief_m": 977.0,
+   "comparable_summits_within_8km": 4,
+   "km_from_talaimannar": 309.3
+  },
+  {
+   "lat": 6.439583333333331,
+   "lon": 80.61041666666667,
+   "elev_m": 1306.0,
+   "relief_m": 1058.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 310.6
+  },
+  {
+   "lat": 7.197916666666664,
+   "lon": 80.70208333333333,
+   "elev_m": 1287.0,
+   "relief_m": 853.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 236.5
+  },
+  {
+   "lat": 6.922916666666662,
+   "lon": 80.98125,
+   "elev_m": 1282.0,
+   "relief_m": 584.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 278.1
+  },
+  {
+   "lat": 6.385416666666664,
+   "lon": 80.64791666666667,
+   "elev_m": 1277.0,
+   "relief_m": 1033.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 317.6
+  },
+  {
+   "lat": 7.02708333333333,
+   "lon": 80.46458333333334,
+   "elev_m": 1260.0,
+   "relief_m": 1174.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 243.6
+  },
+  {
+   "lat": 6.947916666666664,
+   "lon": 81.17291666666667,
+   "elev_m": 1221.0,
+   "relief_m": 810.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 286.9
+  },
+  {
+   "lat": 7.5937499999999964,
+   "lon": 80.71458333333334,
+   "elev_m": 1219.0,
+   "relief_m": 1001.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 199.1
+  },
+  {
+   "lat": 7.047916666666662,
+   "lon": 80.40208333333334,
+   "elev_m": 1212.0,
+   "relief_m": 1140.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 239.2
+  },
+  {
+   "lat": 7.227083333333329,
+   "lon": 80.63958333333333,
+   "elev_m": 1200.0,
+   "relief_m": 748.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 230.6
+  },
+  {
+   "lat": 7.014583333333331,
+   "lon": 81.07708333333333,
+   "elev_m": 1194.0,
+   "relief_m": 840.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 274.9
+  },
+  {
+   "lat": 7.114583333333329,
+   "lon": 80.44375,
+   "elev_m": 1168.0,
+   "relief_m": 929.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 233.7
+  },
+  {
+   "lat": 6.389583333333331,
+   "lon": 80.57708333333333,
+   "elev_m": 1111.0,
+   "relief_m": 769.0,
+   "comparable_summits_within_8km": 4,
+   "km_from_talaimannar": 314.8
+  },
+  {
+   "lat": 7.489583333333329,
+   "lon": 80.58125000000001,
+   "elev_m": 1109.0,
+   "relief_m": 931.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 201.6
+  },
+  {
+   "lat": 7.606249999999996,
+   "lon": 80.57708333333333,
+   "elev_m": 1098.0,
+   "relief_m": 933.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 190.0
+  },
+  {
+   "lat": 6.477083333333329,
+   "lon": 80.54791666666667,
+   "elev_m": 1087.0,
+   "relief_m": 859.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 304.5
+  },
+  {
+   "lat": 7.1562499999999964,
+   "lon": 80.92708333333334,
+   "elev_m": 1065.0,
+   "relief_m": 936.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 252.8
+  },
+  {
+   "lat": 6.40208333333333,
+   "lon": 80.53125,
+   "elev_m": 1046.0,
+   "relief_m": 747.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 312.0
+  },
+  {
+   "lat": 7.318749999999998,
+   "lon": 80.90208333333334,
+   "elev_m": 1036.0,
+   "relief_m": 933.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 236.0
+  },
+  {
+   "lat": 7.147916666666664,
+   "lon": 80.43125,
+   "elev_m": 1016.0,
+   "relief_m": 871.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 229.7
+  },
+  {
+   "lat": 6.872916666666665,
+   "lon": 81.38541666666667,
+   "elev_m": 1007.0,
+   "relief_m": 891.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 307.3
+  },
+  {
+   "lat": 7.160416666666663,
+   "lon": 80.54791666666667,
+   "elev_m": 977.0,
+   "relief_m": 735.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 233.1
+  },
+  {
+   "lat": 7.256249999999998,
+   "lon": 80.92708333333334,
+   "elev_m": 969.0,
+   "relief_m": 861.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 243.4
+  },
+  {
+   "lat": 7.097916666666663,
+   "lon": 81.07291666666667,
+   "elev_m": 969.0,
+   "relief_m": 811.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 266.9
+  },
+  {
+   "lat": 6.493749999999995,
+   "lon": 80.48125,
+   "elev_m": 966.0,
+   "relief_m": 801.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 300.6
+  },
+  {
+   "lat": 6.610416666666662,
+   "lon": 80.69375,
+   "elev_m": 901.0,
+   "relief_m": 720.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 295.8
+  },
+  {
+   "lat": 7.302083333333329,
+   "lon": 80.46458333333334,
+   "elev_m": 894.0,
+   "relief_m": 784.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 215.0
+  },
+  {
+   "lat": 6.802083333333329,
+   "lon": 80.41041666666666,
+   "elev_m": 884.0,
+   "relief_m": 856.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 265.5
+  },
+  {
+   "lat": 6.9687499999999964,
+   "lon": 80.37291666666667,
+   "elev_m": 869.0,
+   "relief_m": 812.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 246.6
+  },
+  {
+   "lat": 6.931249999999995,
+   "lon": 80.46041666666667,
+   "elev_m": 864.0,
+   "relief_m": 714.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 253.5
+  },
+  {
+   "lat": 6.614583333333329,
+   "lon": 80.51458333333333,
+   "elev_m": 862.0,
+   "relief_m": 810.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 288.8
+  },
+  {
+   "lat": 7.33958333333333,
+   "lon": 80.71458333333334,
+   "elev_m": 849.0,
+   "relief_m": 437.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 223.3
+  },
+  {
+   "lat": 7.539583333333329,
+   "lon": 80.60625,
+   "elev_m": 842.0,
+   "relief_m": 640.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 198.1
+  },
+  {
+   "lat": 6.602083333333329,
+   "lon": 80.36041666666667,
+   "elev_m": 831.0,
+   "relief_m": 803.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 285.5
+  },
+  {
+   "lat": 7.193749999999998,
+   "lon": 80.40625,
+   "elev_m": 821.0,
+   "relief_m": 676.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 224.0
+  },
+  {
+   "lat": 7.264583333333331,
+   "lon": 81.40625,
+   "elev_m": 802.0,
+   "relief_m": 719.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 275.0
+  },
+  {
+   "lat": 7.443749999999998,
+   "lon": 80.55625,
+   "elev_m": 800.0,
+   "relief_m": 628.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 204.9
+  },
+  {
+   "lat": 7.097916666666663,
+   "lon": 81.03541666666666,
+   "elev_m": 794.0,
+   "relief_m": 636.0,
+   "comparable_summits_within_8km": 4,
+   "km_from_talaimannar": 264.6
+  },
+  {
+   "lat": 6.447916666666664,
+   "lon": 80.47708333333334,
+   "elev_m": 785.0,
+   "relief_m": 510.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 305.4
+  },
+  {
+   "lat": 6.9687499999999964,
+   "lon": 80.44375,
+   "elev_m": 778.0,
+   "relief_m": 706.0,
+   "comparable_summits_within_8km": 4,
+   "km_from_talaimannar": 249.0
+  },
+  {
+   "lat": 7.77708333333333,
+   "lon": 80.71041666666667,
+   "elev_m": 771.0,
+   "relief_m": 591.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 182.2
+  },
+  {
+   "lat": 7.772916666666664,
+   "lon": 80.71041666666667,
+   "elev_m": 771.0,
+   "relief_m": 591.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 182.5
+  },
+  {
+   "lat": 7.310416666666665,
+   "lon": 81.26458333333333,
+   "elev_m": 770.0,
+   "relief_m": 682.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 260.9
+  },
+  {
+   "lat": 7.747916666666665,
+   "lon": 80.64375000000001,
+   "elev_m": 758.0,
+   "relief_m": 574.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 180.5
+  },
+  {
+   "lat": 7.431249999999995,
+   "lon": 80.58541666666667,
+   "elev_m": 756.0,
+   "relief_m": 540.0,
+   "comparable_summits_within_8km": 4,
+   "km_from_talaimannar": 207.6
+  },
+  {
+   "lat": 6.318749999999998,
+   "lon": 80.48541666666667,
+   "elev_m": 755.0,
+   "relief_m": 665.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 319.5
+  },
+  {
+   "lat": 6.414583333333329,
+   "lon": 80.43958333333333,
+   "elev_m": 746.0,
+   "relief_m": 672.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 307.9
+  },
+  {
+   "lat": 6.247916666666665,
+   "lon": 80.63541666666667,
+   "elev_m": 746.0,
+   "relief_m": 650.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 331.7
+  },
+  {
+   "lat": 7.147916666666664,
+   "lon": 81.03541666666666,
+   "elev_m": 743.0,
+   "relief_m": 628.0,
+   "comparable_summits_within_8km": 4,
+   "km_from_talaimannar": 260.0
+  },
+  {
+   "lat": 7.143749999999997,
+   "lon": 81.03541666666666,
+   "elev_m": 743.0,
+   "relief_m": 627.0,
+   "comparable_summits_within_8km": 4,
+   "km_from_talaimannar": 260.4
+  },
+  {
+   "lat": 6.635416666666664,
+   "lon": 80.47708333333334,
+   "elev_m": 743.0,
+   "relief_m": 714.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 285.4
+  },
+  {
+   "lat": 7.227083333333329,
+   "lon": 80.78125,
+   "elev_m": 738.0,
+   "relief_m": 505.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 237.8
+  },
+  {
+   "lat": 7.489583333333329,
+   "lon": 80.49791666666667,
+   "elev_m": 736.0,
+   "relief_m": 612.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 197.5
+  },
+  {
+   "lat": 7.306249999999995,
+   "lon": 80.54375,
+   "elev_m": 735.0,
+   "relief_m": 521.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 218.1
+  },
+  {
+   "lat": 7.306249999999995,
+   "lon": 80.54791666666667,
+   "elev_m": 735.0,
+   "relief_m": 521.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 218.3
+  },
+  {
+   "lat": 6.418749999999996,
+   "lon": 80.38958333333333,
+   "elev_m": 723.0,
+   "relief_m": 664.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 306.1
+  },
+  {
+   "lat": 7.397916666666664,
+   "lon": 80.63958333333333,
+   "elev_m": 717.0,
+   "relief_m": 359.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 213.6
+  },
+  {
+   "lat": 7.260416666666664,
+   "lon": 80.50625,
+   "elev_m": 705.0,
+   "relief_m": 550.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 221.1
+  },
+  {
+   "lat": 7.431249999999995,
+   "lon": 80.41458333333334,
+   "elev_m": 699.0,
+   "relief_m": 576.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 199.7
+  },
+  {
+   "lat": 6.639583333333331,
+   "lon": 80.83541666666667,
+   "elev_m": 686.0,
+   "relief_m": 579.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 298.9
+  },
+  {
+   "lat": 6.622916666666665,
+   "lon": 80.83541666666667,
+   "elev_m": 686.0,
+   "relief_m": 580.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 300.6
+  },
+  {
+   "lat": 6.697916666666664,
+   "lon": 80.98125,
+   "elev_m": 683.0,
+   "relief_m": 520.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 300.1
+  },
+  {
+   "lat": 6.597916666666663,
+   "lon": 80.74375,
+   "elev_m": 681.0,
+   "relief_m": 543.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 299.2
+  },
+  {
+   "lat": 7.564583333333331,
+   "lon": 80.79791666666667,
+   "elev_m": 679.0,
+   "relief_m": 541.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 207.0
+  },
+  {
+   "lat": 7.5312499999999964,
+   "lon": 80.57291666666667,
+   "elev_m": 677.0,
+   "relief_m": 512.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 197.1
+  },
+  {
+   "lat": 7.15208333333333,
+   "lon": 80.97708333333334,
+   "elev_m": 677.0,
+   "relief_m": 565.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 256.1
+  },
+  {
+   "lat": 6.210416666666664,
+   "lon": 80.61458333333334,
+   "elev_m": 669.0,
+   "relief_m": 629.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 335.0
+  },
+  {
+   "lat": 8.110416666666662,
+   "lon": 80.65625,
+   "elev_m": 658.0,
+   "relief_m": 526.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 149.9
+  },
+  {
+   "lat": 7.418749999999996,
+   "lon": 80.51875000000001,
+   "elev_m": 656.0,
+   "relief_m": 508.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 205.6
+  },
+  {
+   "lat": 6.285416666666663,
+   "lon": 80.51458333333333,
+   "elev_m": 652.0,
+   "relief_m": 562.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 323.9
+  },
+  {
+   "lat": 7.264583333333331,
+   "lon": 81.32291666666667,
+   "elev_m": 637.0,
+   "relief_m": 525.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 268.9
+  },
+  {
+   "lat": 7.289583333333329,
+   "lon": 81.37291666666667,
+   "elev_m": 634.0,
+   "relief_m": 540.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 270.5
+  },
+  {
+   "lat": 7.077083333333331,
+   "lon": 81.31458333333333,
+   "elev_m": 633.0,
+   "relief_m": 492.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 284.5
+  },
+  {
+   "lat": 6.697916666666664,
+   "lon": 81.01875000000001,
+   "elev_m": 630.0,
+   "relief_m": 441.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 302.0
+  },
+  {
+   "lat": 7.697916666666664,
+   "lon": 80.63958333333333,
+   "elev_m": 628.0,
+   "relief_m": 420.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 184.9
+  },
+  {
+   "lat": 6.543749999999996,
+   "lon": 80.43541666666667,
+   "elev_m": 620.0,
+   "relief_m": 566.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 293.9
+  },
+  {
+   "lat": 6.331249999999997,
+   "lon": 80.41041666666666,
+   "elev_m": 612.0,
+   "relief_m": 564.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 316.1
+  },
+  {
+   "lat": 6.914583333333329,
+   "lon": 80.40625,
+   "elev_m": 608.0,
+   "relief_m": 488.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 253.4
+  },
+  {
+   "lat": 6.331249999999997,
+   "lon": 80.54375,
+   "elev_m": 607.0,
+   "relief_m": 476.0,
+   "comparable_summits_within_8km": 4,
+   "km_from_talaimannar": 319.9
+  },
+  {
+   "lat": 7.381249999999998,
+   "lon": 81.48541666666667,
+   "elev_m": 606.0,
+   "relief_m": 541.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 271.7
+  },
+  {
+   "lat": 6.556249999999995,
+   "lon": 80.55625,
+   "elev_m": 604.0,
+   "relief_m": 530.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 296.4
+  },
+  {
+   "lat": 6.306249999999995,
+   "lon": 80.66875,
+   "elev_m": 602.0,
+   "relief_m": 492.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 326.7
+  },
+  {
+   "lat": 7.414583333333329,
+   "lon": 81.21041666666667,
+   "elev_m": 599.0,
+   "relief_m": 514.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 248.2
+  },
+  {
+   "lat": 6.685416666666665,
+   "lon": 80.83541666666667,
+   "elev_m": 599.0,
+   "relief_m": 467.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 294.2
+  },
+  {
+   "lat": 7.485416666666662,
+   "lon": 81.10625,
+   "elev_m": 598.0,
+   "relief_m": 491.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 234.7
+  },
+  {
+   "lat": 6.572916666666664,
+   "lon": 80.39791666666667,
+   "elev_m": 597.0,
+   "relief_m": 549.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 289.7
+  },
+  {
+   "lat": 7.02708333333333,
+   "lon": 81.32708333333333,
+   "elev_m": 593.0,
+   "relief_m": 457.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 289.7
+  },
+  {
+   "lat": 6.664583333333329,
+   "lon": 80.26458333333333,
+   "elev_m": 589.0,
+   "relief_m": 566.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 276.3
+  },
+  {
+   "lat": 7.347916666666663,
+   "lon": 81.36458333333334,
+   "elev_m": 584.0,
+   "relief_m": 507.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 265.1
+  },
+  {
+   "lat": 6.785416666666663,
+   "lon": 81.35208333333334,
+   "elev_m": 583.0,
+   "relief_m": 490.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 313.0
+  },
+  {
+   "lat": 6.689583333333331,
+   "lon": 80.87708333333333,
+   "elev_m": 583.0,
+   "relief_m": 458.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 295.8
+  },
+  {
+   "lat": 7.860416666666662,
+   "lon": 80.73125,
+   "elev_m": 579.0,
+   "relief_m": 414.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 176.2
+  },
+  {
+   "lat": 6.65208333333333,
+   "lon": 80.96875,
+   "elev_m": 573.0,
+   "relief_m": 441.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 304.0
+  },
+  {
+   "lat": 7.106249999999996,
+   "lon": 81.51458333333333,
+   "elev_m": 571.0,
+   "relief_m": 516.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 296.1
+  },
+  {
+   "lat": 6.793749999999996,
+   "lon": 81.26458333333333,
+   "elev_m": 570.0,
+   "relief_m": 445.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 306.8
+  },
+  {
+   "lat": 7.197916666666664,
+   "lon": 81.18541666666667,
+   "elev_m": 566.0,
+   "relief_m": 389.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 265.1
+  },
+  {
+   "lat": 6.960416666666664,
+   "lon": 81.31875,
+   "elev_m": 566.0,
+   "relief_m": 417.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 295.1
+  },
+  {
+   "lat": 7.618749999999995,
+   "lon": 80.41041666666666,
+   "elev_m": 564.0,
+   "relief_m": 470.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 180.4
+  },
+  {
+   "lat": 6.477083333333329,
+   "lon": 80.35208333333334,
+   "elev_m": 561.0,
+   "relief_m": 465.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 298.8
+  },
+  {
+   "lat": 6.993749999999995,
+   "lon": 81.34375,
+   "elev_m": 553.0,
+   "relief_m": 424.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 293.8
+  },
+  {
+   "lat": 7.606249999999996,
+   "lon": 80.61875,
+   "elev_m": 551.0,
+   "relief_m": 296.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 192.3
+  },
+  {
+   "lat": 6.83958333333333,
+   "lon": 81.27291666666667,
+   "elev_m": 550.0,
+   "relief_m": 404.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 303.1
+  },
+  {
+   "lat": 7.127083333333331,
+   "lon": 81.38958333333333,
+   "elev_m": 543.0,
+   "relief_m": 455.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 285.3
+  },
+  {
+   "lat": 6.693749999999998,
+   "lon": 81.13541666666667,
+   "elev_m": 543.0,
+   "relief_m": 408.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 308.7
+  },
+  {
+   "lat": 7.206249999999997,
+   "lon": 81.33541666666667,
+   "elev_m": 539.0,
+   "relief_m": 372.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 274.8
+  },
+  {
+   "lat": 7.227083333333329,
+   "lon": 81.14375000000001,
+   "elev_m": 537.0,
+   "relief_m": 383.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 259.7
+  },
+  {
+   "lat": 7.831249999999997,
+   "lon": 80.68125,
+   "elev_m": 533.0,
+   "relief_m": 375.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 175.4
+  },
+  {
+   "lat": 6.331249999999997,
+   "lon": 80.29791666666667,
+   "elev_m": 524.0,
+   "relief_m": 505.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 313.3
+  },
+  {
+   "lat": 7.047916666666662,
+   "lon": 81.44791666666667,
+   "elev_m": 523.0,
+   "relief_m": 426.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 296.2
+  },
+  {
+   "lat": 7.743749999999995,
+   "lon": 80.52708333333334,
+   "elev_m": 514.0,
+   "relief_m": 374.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 174.0
+  },
+  {
+   "lat": 7.810416666666665,
+   "lon": 80.58958333333334,
+   "elev_m": 510.0,
+   "relief_m": 348.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 171.4
+  },
+  {
+   "lat": 6.506249999999998,
+   "lon": 80.33125000000001,
+   "elev_m": 507.0,
+   "relief_m": 429.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 295.1
+  },
+  {
+   "lat": 6.731249999999996,
+   "lon": 80.41458333333334,
+   "elev_m": 503.0,
+   "relief_m": 482.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 273.2
+  },
+  {
+   "lat": 6.814583333333331,
+   "lon": 80.22291666666666,
+   "elev_m": 498.0,
+   "relief_m": 473.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 259.0
+  },
+  {
+   "lat": 7.331249999999997,
+   "lon": 81.55208333333334,
+   "elev_m": 495.0,
+   "relief_m": 457.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 280.9
+  },
+  {
+   "lat": 7.935416666666665,
+   "lon": 80.38125,
+   "elev_m": 492.0,
+   "relief_m": 390.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 147.5
+  },
+  {
+   "lat": 7.827083333333331,
+   "lon": 80.76875000000001,
+   "elev_m": 488.0,
+   "relief_m": 355.0,
+   "comparable_summits_within_8km": 4,
+   "km_from_talaimannar": 181.7
+  },
+  {
+   "lat": 7.706249999999997,
+   "lon": 80.53125,
+   "elev_m": 480.0,
+   "relief_m": 337.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 177.9
+  },
+  {
+   "lat": 7.443749999999998,
+   "lon": 81.42708333333334,
+   "elev_m": 476.0,
+   "relief_m": 421.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 262.3
+  },
+  {
+   "lat": 7.835416666666664,
+   "lon": 80.80625,
+   "elev_m": 473.0,
+   "relief_m": 373.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 183.7
+  },
+  {
+   "lat": 6.547916666666662,
+   "lon": 80.33541666666667,
+   "elev_m": 472.0,
+   "relief_m": 363.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 290.7
+  },
+  {
+   "lat": 6.539583333333329,
+   "lon": 80.75208333333333,
+   "elev_m": 467.0,
+   "relief_m": 360.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 305.5
+  },
+  {
+   "lat": 7.881249999999998,
+   "lon": 80.81041666666667,
+   "elev_m": 464.0,
+   "relief_m": 364.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 180.1
+  },
+  {
+   "lat": 6.639583333333331,
+   "lon": 81.02291666666667,
+   "elev_m": 463.0,
+   "relief_m": 332.0,
+   "comparable_summits_within_8km": 4,
+   "km_from_talaimannar": 308.0
+  },
+  {
+   "lat": 7.002083333333331,
+   "lon": 81.45208333333333,
+   "elev_m": 461.0,
+   "relief_m": 370.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 300.4
+  },
+  {
+   "lat": 7.106249999999996,
+   "lon": 81.47708333333334,
+   "elev_m": 459.0,
+   "relief_m": 379.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 293.4
+  },
+  {
+   "lat": 7.443749999999998,
+   "lon": 81.50625,
+   "elev_m": 457.0,
+   "relief_m": 413.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 268.6
+  },
+  {
+   "lat": 7.860416666666662,
+   "lon": 81.14375000000001,
+   "elev_m": 452.0,
+   "relief_m": 417.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 207.9
+  },
+  {
+   "lat": 7.606249999999996,
+   "lon": 80.87708333333333,
+   "elev_m": 451.0,
+   "relief_m": 363.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 208.4
+  },
+  {
+   "lat": 6.877083333333331,
+   "lon": 81.43125,
+   "elev_m": 447.0,
+   "relief_m": 349.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 309.9
+  },
+  {
+   "lat": 7.572916666666664,
+   "lon": 80.87708333333333,
+   "elev_m": 445.0,
+   "relief_m": 357.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 211.3
+  },
+  {
+   "lat": 6.772916666666664,
+   "lon": 81.12708333333333,
+   "elev_m": 445.0,
+   "relief_m": 273.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 300.7
+  },
+  {
+   "lat": 7.481249999999996,
+   "lon": 81.45625000000001,
+   "elev_m": 443.0,
+   "relief_m": 401.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 261.7
+  },
+  {
+   "lat": 7.77708333333333,
+   "lon": 80.76458333333333,
+   "elev_m": 434.0,
+   "relief_m": 310.0,
+   "comparable_summits_within_8km": 4,
+   "km_from_talaimannar": 185.8
+  },
+  {
+   "lat": 7.410416666666663,
+   "lon": 81.42291666666667,
+   "elev_m": 432.0,
+   "relief_m": 370.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 264.6
+  },
+  {
+   "lat": 7.735416666666662,
+   "lon": 80.88958333333333,
+   "elev_m": 428.0,
+   "relief_m": 347.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 198.1
+  },
+  {
+   "lat": 7.731249999999996,
+   "lon": 80.88958333333333,
+   "elev_m": 428.0,
+   "relief_m": 347.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 198.4
+  },
+  {
+   "lat": 6.760416666666664,
+   "lon": 80.24375,
+   "elev_m": 424.0,
+   "relief_m": 406.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 265.4
+  },
+  {
+   "lat": 6.735416666666662,
+   "lon": 81.26875000000001,
+   "elev_m": 423.0,
+   "relief_m": 311.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 312.5
+  },
+  {
+   "lat": 6.706249999999997,
+   "lon": 81.27291666666667,
+   "elev_m": 422.0,
+   "relief_m": 312.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 315.4
+  },
+  {
+   "lat": 7.0312499999999964,
+   "lon": 81.54791666666667,
+   "elev_m": 419.0,
+   "relief_m": 346.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 304.8
+  },
+  {
+   "lat": 6.647916666666664,
+   "lon": 81.07291666666667,
+   "elev_m": 419.0,
+   "relief_m": 295.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 309.7
+  },
+  {
+   "lat": 6.239583333333329,
+   "lon": 80.54791666666667,
+   "elev_m": 418.0,
+   "relief_m": 378.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 329.8
+  },
+  {
+   "lat": 7.577083333333331,
+   "lon": 80.43541666666667,
+   "elev_m": 414.0,
+   "relief_m": 312.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 185.7
+  },
+  {
+   "lat": 7.318749999999998,
+   "lon": 81.50208333333333,
+   "elev_m": 405.0,
+   "relief_m": 339.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 277.9
+  },
+  {
+   "lat": 7.360416666666662,
+   "lon": 81.23541666666667,
+   "elev_m": 403.0,
+   "relief_m": 300.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 254.6
+  },
+  {
+   "lat": 6.681249999999995,
+   "lon": 80.43958333333333,
+   "elev_m": 403.0,
+   "relief_m": 378.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 279.3
+  },
+  {
+   "lat": 6.27708333333333,
+   "lon": 80.36458333333334,
+   "elev_m": 400.0,
+   "relief_m": 376.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 320.7
+  },
+  {
+   "lat": 6.172916666666662,
+   "lon": 80.55625,
+   "elev_m": 396.0,
+   "relief_m": 377.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 337.2
+  },
+  {
+   "lat": 7.697916666666664,
+   "lon": 80.88125,
+   "elev_m": 391.0,
+   "relief_m": 300.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 200.7
+  },
+  {
+   "lat": 7.6562499999999964,
+   "lon": 80.87708333333333,
+   "elev_m": 386.0,
+   "relief_m": 298.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 204.0
+  },
+  {
+   "lat": 7.356249999999996,
+   "lon": 80.45625000000001,
+   "elev_m": 385.0,
+   "relief_m": 287.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 209.1
+  },
+  {
+   "lat": 7.177083333333329,
+   "lon": 81.37291666666667,
+   "elev_m": 373.0,
+   "relief_m": 250.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 279.9
+  },
+  {
+   "lat": 7.160416666666663,
+   "lon": 80.34375,
+   "elev_m": 372.0,
+   "relief_m": 297.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 225.3
+  },
+  {
+   "lat": 7.231249999999996,
+   "lon": 81.48125,
+   "elev_m": 369.0,
+   "relief_m": 305.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 283.4
+  },
+  {
+   "lat": 6.827083333333331,
+   "lon": 80.17291666666667,
+   "elev_m": 368.0,
+   "relief_m": 342.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 256.5
+  },
+  {
+   "lat": 6.127083333333331,
+   "lon": 80.40208333333334,
+   "elev_m": 358.0,
+   "relief_m": 344.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 337.9
+  },
+  {
+   "lat": 6.452083333333331,
+   "lon": 80.24791666666667,
+   "elev_m": 357.0,
+   "relief_m": 346.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 299.0
+  },
+  {
+   "lat": 7.585416666666664,
+   "lon": 80.32291666666667,
+   "elev_m": 348.0,
+   "relief_m": 272.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 180.0
+  },
+  {
+   "lat": 7.147916666666664,
+   "lon": 80.31458333333333,
+   "elev_m": 347.0,
+   "relief_m": 312.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 225.7
+  },
+  {
+   "lat": 7.631249999999998,
+   "lon": 81.27708333333334,
+   "elev_m": 346.0,
+   "relief_m": 297.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 235.9
+  },
+  {
+   "lat": 7.118749999999995,
+   "lon": 81.63541666666667,
+   "elev_m": 344.0,
+   "relief_m": 305.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 304.1
+  },
+  {
+   "lat": 7.610416666666662,
+   "lon": 81.11041666666667,
+   "elev_m": 343.0,
+   "relief_m": 266.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 224.6
+  },
+  {
+   "lat": 6.893749999999997,
+   "lon": 80.31041666666667,
+   "elev_m": 338.0,
+   "relief_m": 309.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 252.7
+  },
+  {
+   "lat": 7.552083333333329,
+   "lon": 81.10208333333334,
+   "elev_m": 336.0,
+   "relief_m": 254.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 228.8
+  },
+  {
+   "lat": 7.27708333333333,
+   "lon": 80.34791666666666,
+   "elev_m": 336.0,
+   "relief_m": 265.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 213.1
+  },
+  {
+   "lat": 6.71458333333333,
+   "lon": 81.43541666666667,
+   "elev_m": 336.0,
+   "relief_m": 262.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 324.7
+  },
+  {
+   "lat": 6.856249999999996,
+   "lon": 80.29375,
+   "elev_m": 335.0,
+   "relief_m": 310.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 256.3
+  },
+  {
+   "lat": 7.27708333333333,
+   "lon": 81.48958333333334,
+   "elev_m": 332.0,
+   "relief_m": 277.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 280.3
+  },
+  {
+   "lat": 7.33958333333333,
+   "lon": 80.28125,
+   "elev_m": 330.0,
+   "relief_m": 269.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 204.2
+  },
+  {
+   "lat": 7.606249999999996,
+   "lon": 81.23541666666667,
+   "elev_m": 325.0,
+   "relief_m": 255.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 234.6
+  },
+  {
+   "lat": 7.368749999999995,
+   "lon": 80.28125,
+   "elev_m": 325.0,
+   "relief_m": 264.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 201.1
+  },
+  {
+   "lat": 7.08958333333333,
+   "lon": 80.20625000000001,
+   "elev_m": 325.0,
+   "relief_m": 296.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 228.8
+  },
+  {
+   "lat": 6.864583333333329,
+   "lon": 81.48125,
+   "elev_m": 324.0,
+   "relief_m": 252.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 314.4
+  },
+  {
+   "lat": 6.872916666666665,
+   "lon": 80.18958333333333,
+   "elev_m": 322.0,
+   "relief_m": 293.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 251.9
+  },
+  {
+   "lat": 6.602083333333329,
+   "lon": 80.25208333333333,
+   "elev_m": 322.0,
+   "relief_m": 306.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 282.8
+  },
+  {
+   "lat": 6.389583333333331,
+   "lon": 81.33958333333334,
+   "elev_m": 322.0,
+   "relief_m": 288.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 349.3
+  },
+  {
+   "lat": 6.947916666666664,
+   "lon": 81.57708333333333,
+   "elev_m": 316.0,
+   "relief_m": 268.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 313.9
+  },
+  {
+   "lat": 6.268749999999997,
+   "lon": 80.31041666666667,
+   "elev_m": 316.0,
+   "relief_m": 304.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 320.4
+  },
+  {
+   "lat": 7.010416666666664,
+   "lon": 80.25208333333333,
+   "elev_m": 313.0,
+   "relief_m": 290.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 238.5
+  },
+  {
+   "lat": 6.977083333333329,
+   "lon": 80.25625,
+   "elev_m": 304.0,
+   "relief_m": 281.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 242.3
+  },
+  {
+   "lat": 6.2187499999999964,
+   "lon": 80.41041666666666,
+   "elev_m": 301.0,
+   "relief_m": 265.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 328.2
+  },
+  {
+   "lat": 7.114583333333329,
+   "lon": 80.26041666666667,
+   "elev_m": 298.0,
+   "relief_m": 267.0,
+   "comparable_summits_within_8km": 3,
+   "km_from_talaimannar": 227.6
+  },
+  {
+   "lat": 7.1562499999999964,
+   "lon": 80.23125,
+   "elev_m": 295.0,
+   "relief_m": 254.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 222.3
+  },
+  {
+   "lat": 7.389583333333331,
+   "lon": 81.57708333333333,
+   "elev_m": 286.0,
+   "relief_m": 256.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 278.4
+  },
+  {
+   "lat": 6.439583333333331,
+   "lon": 80.30625,
+   "elev_m": 286.0,
+   "relief_m": 256.0,
+   "comparable_summits_within_8km": 4,
+   "km_from_talaimannar": 301.7
+  },
+  {
+   "lat": 6.489583333333329,
+   "lon": 80.22291666666666,
+   "elev_m": 270.0,
+   "relief_m": 251.0,
+   "comparable_summits_within_8km": 1,
+   "km_from_talaimannar": 294.4
+  },
+  {
+   "lat": 6.4062499999999964,
+   "lon": 80.26041666666667,
+   "elev_m": 270.0,
+   "relief_m": 260.0,
+   "comparable_summits_within_8km": 2,
+   "km_from_talaimannar": 304.3
+  },
+  {
+   "lat": 7.489583333333329,
+   "lon": 81.62291666666667,
+   "elev_m": 268.0,
+   "relief_m": 251.0,
+   "comparable_summits_within_8km": 0,
+   "km_from_talaimannar": 274.8
+  }
+ ],
+ "nearest_300m_summit_to_landfall": {
+  "lat": 7.935416666666665,
+  "lon": 80.38125,
+  "elev_m": 492.0,
+  "relief_m": 390.0,
+  "comparable_summits_within_8km": 0,
+  "km_from_talaimannar": 147.5
+ },
+ "india_maldives_sill_m": -2592.0
+}

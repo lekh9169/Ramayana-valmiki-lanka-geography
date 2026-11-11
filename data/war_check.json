@@ -1,0 +1,27 @@
+{
+ "candidates": [
+  {
+   "birth": "6266 BCE (strict A)",
+   "episodes_age_30_45": [
+    {
+     "start": "09 Apr 6223 BCE (Julian cal., astronomical year -6222)",
+     "days": 7,
+     "rama_age_years": 43.3
+    }
+   ]
+  },
+  {
+   "birth": "4498 BCE (strict B)",
+   "episodes_age_30_45": []
+  },
+  {
+   "birth": "7120 BCE (Sun-in-Aries)",
+   "episodes_age_30_45": []
+  },
+  {
+   "birth": "5352 BCE (Sun-in-Aries)",
+   "episodes_age_30_45": []
+  }
+ ],
+ "base_rate_16yr_windows": 0.241
+}

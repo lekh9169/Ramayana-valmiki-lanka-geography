@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+ephemeris/
+*.bsp
+.claude/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,50 @@
+﻿id,name,lat_today,lon_today,lat_birth_plate,lon_birth_plate,lat_treta_end_plate,lon_treta_end_plate,height_above_treta_sea_m,treta_shore_km,treta_shore_lat,treta_shore_lon,confidence,valmiki_refs
+ayodhya,Ayodhya,26.7956,82.1943,26.4912,81.8381,26.495,81.8425,195,,,,high,1.5.5-6 (CE 1.5.5-6)
+shringaverapura,Shringaverapura,25.5873,81.6418,25.2832,81.2863,25.287,81.2908,184,,,,high,2.50.25-26 (CE 2.44.1)
+prayaga,Prayaga (Bharadvaja's ashram),25.4575,81.8585,25.1533,81.5024,25.1571,81.5069,183,,,,high,2.54.2-8 (CE 2.48.2-8)
+chitrakuta,Chitrakuta,25.1714,80.8532,24.8677,80.4994,24.8715,80.5038,267,,,,high,2.54.28 (CE 2.48.25-26); 2.95.1 (CE 2.89.1)
+atri,Atri and Anasuya's ashram,25.0733,80.8674,24.7696,80.5135,24.7734,80.5179,288,,,,medium,Ayodhya 117-119 (vulgate)
+sharabhanga,Sharabhanga's ashram,24.9114,80.9246,24.6077,80.5705,24.6115,80.5749,479,,,,low,Aranya 5 (vulgate)
+panchavati,Panchavati,20.0067,73.7936,19.7092,73.4498,19.713,73.4541,658,,,,medium,"3.13.13, 3.13.21, 3.15.12 (CE 3.12.13, 3.12.18, 3.14.12)"
+agastya_ashram,Agastya's ashram (north),19.549,74.0023,19.2513,73.6575,19.255,73.6618,666,,,,low,3.11-13 (CE 3.11-12)
+janasthana,Janasthana,19.9975,73.7898,19.7,73.446,19.7038,73.4503,675,,,,low,Aranya 18-30
+pampa,Pampa lake and Matanga's ashram,15.3538,76.4774,15.0534,76.1236,15.0572,76.1281,514,,,,medium,"3.73.10, 3.73.27-31 (CE 3.69.21-24); 4.1"
+rishyamuka,Rishyamuka hill,15.3408,76.4667,15.0404,76.1129,15.0442,76.1174,517,,,,medium,3.73.31 (CE 3.69.24); Kishkindha 1-5
+kishkindha,Kishkindha,15.3527,76.4919,15.0523,76.1381,15.0561,76.1425,505,,,,medium,Kishkindha 11-14; 4.27.26 (vulgate)
+prasravana,Prasravana hill on Malyavat,15.3245,76.4878,15.0241,76.134,15.0279,76.1384,541,,,,medium,"4.27.1, 4.28.1 (CE 4.26.1, 4.27.1)"
+malaya,Malaya mountain (Agastya's peak),8.6163,77.2457,8.3152,76.8845,8.319,76.8891,1543,,,,high,4.41.16 (CE 4.40.16); 6.4.97 (CE 6.4.65)
+tamraparni,Tamraparni river (mouth),8.6413,78.1273,8.3395,77.7655,8.3433,77.77,86,30.15,8.5771,78.3937,high,4.41.17-18 (CE 4.40.17-18)
+pandya_kavata,Golden gate (kavata) of the Pandyas,8.6333,78.0667,8.3315,77.7049,8.3353,77.7095,99,36.5,8.5771,78.3937,medium,4.41.19 (CE 4.40.19)
+mahendra,Mahendra mountain,8.3883,77.5214,8.087,77.1598,8.0908,77.1644,1298,88.07,7.9187,76.8771,high,4.41.20-21 (CE 4.40.20-21); 4.67.38-40 (CE 4.66.32-34); 6.4.95-96 (CE 6.4.63-64)
+ocean_shore,Southern ocean shore (army camp),8.078,77.5505,7.7767,77.1886,7.7804,77.1932,100,59.42,7.5437,77.5604,medium,4.64.4 (CE 4.63.4); 6.4.97-98
+setu_start,Setu: Indian end,9.1504,79.4491,8.8476,79.0866,8.8514,79.0911,88,23.07,8.9604,79.3646,high,6.22.61-74 (CE 6.15.8-22); 6.126.19-21 (vulgate only)
+setu_end,Setu: Lanka end,9.1055,79.7307,8.8025,79.3679,8.8063,79.3725,87,36.14,8.8604,79.5146,high,6.22.70 (vulgate: 'up to Suvela'; absent CE)
+lanka_island,Lanka (the island),7.8731,80.7718,7.5694,80.4074,7.5733,80.412,324,83.05,8.4687,81.2271,high,4.41.24-25 (CE 4.40.24-25); 4.58.19-20 (CE 4.57.19-20); 5.2.1 (CE 5.2.1)
+lanka_city_sripada,Lanka city on Trikuta: candidate A,6.8094,80.4997,6.5059,80.1349,6.5097,80.1395,2113,,,,low,5.2.1 (CE 5.2.1); 6.39.18-20 (CE 6.30.18-20)
+lanka_city_trinco,Lanka city on Trikuta: candidate B,8.5825,81.2456,8.2786,80.8813,8.2824,80.8859,78,1.18,8.5812,81.2562,low,5.2.1; 6.39.18-20
+ashoka_vatika,Ashoka Vatika tradition: Seetha Amman temple,6.9332,80.8105,6.6295,80.4456,6.6333,80.4502,1890,,,,low,(post-Valmiki local tradition)
+ravana_ella,Ravana Ella falls / cave tradition,6.8408,81.0544,6.537,80.6893,6.5408,80.6939,950,,,,low,(post-Valmiki local tradition)
+kelaniya,Vibhishana tradition: Kelaniya Raja Maha Vihara,6.9531,79.9185,6.65,79.5542,6.6538,79.5587,101,,,,low,(post-Valmiki local tradition)
+ritigala,Ritigala (Sanjivani tradition),8.109,80.6568,7.8054,80.2927,7.8092,80.2972,748,,,,low,(post-Valmiki local tradition)
+sigiriya,Sigiriya (Ravana-palace folk tradition),7.9569,80.7597,7.6532,80.3954,7.6571,80.4,325,,,,low,(post-Valmiki local tradition)
+ussangoda,Ussangoda (Hanuman-fire tradition),6.1,80.9894,5.7962,80.6239,5.8,80.6285,106,,,,low,(post-Valmiki local tradition)
+rumassala,Rumassala (Sanjivani tradition),6.0153,80.2386,5.712,79.8735,5.7158,79.878,116,,,,low,(post-Valmiki local tradition)
+wariyapola,Wariyapola (Pushpaka airfield tradition),7.6333,80.2333,7.33,79.8692,7.3338,79.8737,177,,,,low,(post-Valmiki local tradition)
+lanka_surya_siddhanta,Surya Siddhanta 'Lanka' (equator on Ujjain's meridian),0.0,75.7665,-0.2997,75.3976,-0.2959,75.4022,-4039,,,,low,"(astronomical convention, not Valmiki)"
+lanka_maldives,Maldives hypothesis,4.175,73.509,3.8779,73.1452,3.8816,73.1498,32,,,,low,-
+lanka_amarkantak,Central-India hypothesis (M. V. Kibe),22.6733,81.7595,22.3691,81.4021,22.3729,81.4065,1132,,,,low,-
+treta_equator_point,Equator x Ujjain meridian at the Puranic end of Treta (~869 ka),0.2959,75.7911,-0.0038,75.4225,-0.0,75.4271,-4218,,,,low,(astronomical convention; Surya Siddhanta)
+treta_huvadhu,Equatorial ridge candidate A: Huvadhu atoll plateau,0.519,73.283,0.2222,72.9147,0.2259,72.9193,66,,,,low,Treta hypothesis (equatorial Lanka on the Chagos-Laccadive ridge)
+treta_fuvahmulah,Equatorial ridge candidate B: Fuvahmulah plateau,-0.307,73.433,-0.604,73.0637,-0.6003,73.0683,83,,,,low,Treta hypothesis
+treta_addu,Equatorial ridge candidate C: Addu atoll plateau,-0.636,73.161,-0.9327,72.7912,-0.9289,72.7959,62,,,,low,Treta hypothesis
+drowned_great_chagos,Drowned island: Great Chagos Bank,-6.2,71.9,-6.495,71.5224,-6.4913,71.5272,24,,,,low,Treta / glacial-era land (chagos_scan.py)
+drowned_pitt_bank,Drowned island: Pitt Bank,-7.05,71.33,-7.3442,70.9509,-7.3405,70.9556,68,,,,low,Treta / glacial-era land (chagos_scan.py)
+drowned_speakers_bank,Drowned island: Speakers Bank,-4.88,72.33,-5.1756,71.9545,-5.1719,71.9592,69,,,,low,Treta / glacial-era land (chagos_scan.py)
+circular_basin_1,Near-circular abyssal basin (unexplained in GEBCO),0.373,70.207,0.0805,69.8386,0.0841,69.8432,-4145,,,,low,Bathymetric anomaly (chagos_scan.py)
+circular_basin_2,Near-circular abyssal basin (unexplained in GEBCO),1.056,70.292,0.7633,69.9246,0.767,69.9292,-4105,,,,low,Bathymetric anomaly (chagos_scan.py)
+kumari_wadge_bank,Kumari Kandam test: Wadge Bank shelf south of Kanyakumari,7.6,77.4,7.2988,77.0378,7.3026,77.0424,13,,,,low,(Tamil tradition of lands lost south of Kumari)
+palk_bay_plain,Drowned plain of the Palk Bay,9.6,79.55,9.2971,79.1877,9.3009,79.1923,84,,,,low,Treta / glacial-era land
+mauritius,Mauritius (tested as Lanka),-20.2,57.55,,,,,,,,,low,(modern proposal; not in Valmiki)
+reunion,Reunion (Mascarene hotspot island),-21.12,55.53,,,,,,,,,low,(context)
+drowned_saya_de_malha,Drowned island: Saya de Malha Bank,-10.5,61.3,,,,,,,,,low,Treta / glacial-era land
+drowned_nazareth_bank,Drowned island: Nazareth Bank,-14.5,60.6,,,,,,,,,low,Treta / glacial-era land

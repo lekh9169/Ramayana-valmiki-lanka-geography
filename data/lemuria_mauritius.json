@@ -1,0 +1,143 @@
+{
+ "kumari_kandam": {
+  "today": {
+   "sea_level_m": 0.0,
+   "land_now_under_sea_km2": 0,
+   "of_which_palk_bay_strait_km2": 0,
+   "of_which_south_of_kanyakumari_km2": 0,
+   "southernmost_land_below_india_lat": 8.077
+  },
+  "treta_-90m": {
+   "sea_level_m": -90.0,
+   "land_now_under_sea_km2": 92688,
+   "of_which_palk_bay_strait_km2": 26256,
+   "of_which_south_of_kanyakumari_km2": 8636,
+   "southernmost_land_below_india_lat": 7.41
+  },
+  "glacial_-128m": {
+   "sea_level_m": -128.0,
+   "land_now_under_sea_km2": 100025,
+   "of_which_palk_bay_strait_km2": 26885,
+   "of_which_south_of_kanyakumari_km2": 10871,
+   "southernmost_land_below_india_lat": 7.352
+  },
+  "ocean_depth_south_of_kanyakumari_m": {
+   "7.0N 77.5E": -889.0,
+   "6.0N 77.5E": -2372.0,
+   "5.0N 77.5E": -2788.0,
+   "3.0N 77.5E": -3948.0,
+   "0.0N 77.5E": -4763.0
+  }
+ },
+ "mascarenes": [
+  {
+   "name": "Mauritius",
+   "centroid": [
+    -20.215,
+    57.61
+   ],
+   "summit_m": 703.2095,
+   "bank_area_above_-200m_km2": 3175,
+   "land_today_km2": 2055.4,
+   "land_treta_-90m_km2": 2797.3,
+   "land_glacial_-128m_km2": 2929.5,
+   "km_from_mahendragiri": 3804,
+   "km_per_yojana_if_100": 38.0,
+   "km_from_equator": 2248,
+   "km_from_ujjain_meridian": 1895
+  },
+  {
+   "name": "Reunion",
+   "centroid": [
+    -21.126,
+    55.521
+   ],
+   "summit_m": 2886.7715,
+   "bank_area_above_-200m_km2": 2915,
+   "land_today_km2": 2598.2,
+   "land_treta_-90m_km2": 2854.4,
+   "land_glacial_-128m_km2": 2892.9,
+   "km_from_mahendragiri": 4039,
+   "km_per_yojana_if_100": 40.4,
+   "km_from_equator": 2349,
+   "km_from_ujjain_meridian": 2100
+  },
+  {
+   "name": "Rodrigues",
+   "centroid": [
+    -19.737,
+    63.325
+   ],
+   "summit_m": 318.0688,
+   "bank_area_above_-200m_km2": 1119,
+   "land_today_km2": 194.0,
+   "land_treta_-90m_km2": 992.5,
+   "land_glacial_-128m_km2": 1037.7,
+   "km_from_mahendragiri": 3469,
+   "km_per_yojana_if_100": 34.7,
+   "km_from_equator": 2195,
+   "km_from_ujjain_meridian": 1302
+  },
+  {
+   "name": "Saya de Malha Bank",
+   "centroid": [
+    -10.579,
+    61.189
+   ],
+   "summit_m": 124.0,
+   "bank_area_above_-200m_km2": 40003,
+   "land_today_km2": 344.8,
+   "land_treta_-90m_km2": 18450.5,
+   "land_glacial_-128m_km2": 29220.3,
+   "km_from_mahendragiri": 2655,
+   "km_per_yojana_if_100": 26.6,
+   "km_from_equator": 1176,
+   "km_from_ujjain_meridian": 1593,
+   "drowned_at_m": -11.0,
+   "drowned_ka": 8.1
+  },
+  {
+   "name": "Nazareth Bank",
+   "centroid": [
+    -14.577,
+    60.622
+   ],
+   "summit_m": 82.0,
+   "bank_area_above_-200m_km2": 23004,
+   "land_today_km2": 73.2,
+   "land_treta_-90m_km2": 15027.0,
+   "land_glacial_-128m_km2": 19158.1,
+   "km_from_mahendragiri": 3049,
+   "km_per_yojana_if_100": 30.5,
+   "km_from_equator": 1621,
+   "km_from_ujjain_meridian": 1630,
+   "drowned_at_m": -8.0,
+   "drowned_ka": 7.7
+  },
+  {
+   "name": "Cargados Carajos (St Brandon)",
+   "centroid": [
+    -16.347,
+    59.63
+   ],
+   "summit_m": 21.0,
+   "bank_area_above_-200m_km2": 8911,
+   "land_today_km2": 85.6,
+   "land_treta_-90m_km2": 5569.4,
+   "land_glacial_-128m_km2": 6703.5,
+   "km_from_mahendragiri": 3310,
+   "km_per_yojana_if_100": 33.1,
+   "km_from_equator": 1818,
+   "km_from_ujjain_meridian": 1722,
+   "drowned_at_m": -4.0,
+   "drowned_ka": 7.3
+  }
+ ],
+ "mascarene_to_chagos_sill_m": -3752,
+ "lemuria": {
+  "chagos_laccadive_land_at_-128m_km2": 52033,
+  "chagos_laccadive_landmasses": 76,
+  "median_depth_of_open_ocean_12S_5N_64_80E_m": -3926,
+  "sri_lanka_area_km2_for_scale": 65610
+ }
+}

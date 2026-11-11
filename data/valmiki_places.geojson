@@ -1,0 +1,1924 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.1943,
+     26.7956
+    ]
+   },
+   "properties": {
+    "id": "ayodhya",
+    "name": "Ayodhya",
+    "short": "Ayodhya",
+    "sanskrit": "अयोध्या",
+    "valmiki_refs": "1.5.5-6 (CE 1.5.5-6)",
+    "text_clue": "Capital of Kosala, a great country on the bank of the Sarayu",
+    "identification": "Ayodhya, Uttar Pradesh: Ram Janmabhoomi site on the right bank of the Sarayu (Ghaghara)",
+    "confidence": "high",
+    "coord_source": "Wikipedia (Ram Mandir); OSM polygon 26.7939, 82.1942",
+    "route_order": 1,
+    "on_overview": true,
+    "label_dx": 0.3,
+    "label_dy": 0.15,
+    "river": "Sarayu (Ghaghara)",
+    "paleo_note": "Town on a stable Pleistocene upland; the Sarayu (Ghaghara) channel swings 4-7 km within its meander belt, so the river bank of Valmiki's time is uncertain by about ±5-7 km",
+    "gebco_elev_m": 105.0,
+    "plate_velocity_mm_yr": 55.6,
+    "plate_velocity_azimuth_deg": 46,
+    "tectonic_shift_m_since_epoch": 461,
+    "position_at_oldest_reference_epoch_nnr": [
+     26.79273,
+     82.19094
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.6418,
+     25.5873
+    ]
+   },
+   "properties": {
+    "id": "shringaverapura",
+    "name": "Shringaverapura",
+    "short": "Shringaverapura",
+    "sanskrit": "शृङ्गवेरपुर",
+    "valmiki_refs": "2.50.25-26 (CE 2.44.1)",
+    "text_clue": "Guha's town on the Ganga where Rama crossed the river",
+    "identification": "Shringverpur (Singraur), Prayagraj district: excavated site on the Ganga bank",
+    "confidence": "high",
+    "coord_source": "Wikipedia; OSM Shri Ram Ghat 25.5895, 81.6394",
+    "route_order": 2,
+    "river": "Ganga",
+    "paleo_note": "No river shift documented: still on the Ganga's left bank; occupation TL-dated from c. 1035-875 BCE",
+    "gebco_elev_m": 94.0,
+    "plate_velocity_mm_yr": 55.9,
+    "plate_velocity_azimuth_deg": 47,
+    "tectonic_shift_m_since_epoch": 463,
+    "position_at_oldest_reference_epoch_nnr": [
+     25.58443,
+     81.63845
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.8585,
+     25.4575
+    ]
+   },
+   "properties": {
+    "id": "prayaga",
+    "name": "Prayaga (Bharadvaja's ashram)",
+    "short": "Prayaga",
+    "sanskrit": "प्रयाग / भरद्वाजाश्रम",
+    "valmiki_refs": "2.54.2-8 (CE 2.48.2-8)",
+    "text_clue": "Bharadvaja's hermitage at the joining (sandhi) of the Ganga and Yamuna, reached by evening",
+    "identification": "Bharadwaj Ashram, Colonelganj, Prayagraj (proxy: Bharadwaj Park); confluence = Triveni Sangam",
+    "confidence": "high",
+    "coord_source": "OpenStreetMap (Bharadwaj Park, proxy); Sangam OpenStreetMap 25.4222, 81.8923",
+    "route_order": 3,
+    "on_overview": true,
+    "label_dx": 0.3,
+    "label_dy": -0.25,
+    "river": "Ganga-Yamuna confluence",
+    "alternatives": [
+     {
+      "name": "Triveni Sangam (confluence point, migrates seasonally)",
+      "lat": 25.4222,
+      "lon": 81.8923
+     }
+    ],
+    "paleo_note": "The confluence point moves seasonally and the Ganga moved west toward the fort in 1975-2000; the 'sandhi' is good to about ±1-2 km",
+    "gebco_elev_m": 93.0,
+    "plate_velocity_mm_yr": 56.0,
+    "plate_velocity_azimuth_deg": 47,
+    "tectonic_shift_m_since_epoch": 464,
+    "position_at_oldest_reference_epoch_nnr": [
+     25.45463,
+     81.85514
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.8923,
+     25.4222
+    ]
+   },
+   "properties": {
+    "id": "prayaga_alt",
+    "name": "Prayaga (Bharadvaja's ashram) — alternative: Triveni Sangam (confluence point, migrates seasonally)",
+    "note": "",
+    "confidence": "low",
+    "alternative": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.8532,
+     25.1714
+    ]
+   },
+   "properties": {
+    "id": "chitrakuta",
+    "name": "Chitrakuta",
+    "short": "Chitrakuta",
+    "sanskrit": "चित्रकूट",
+    "valmiki_refs": "2.54.28 (CE 2.48.25-26); 2.95.1 (CE 2.89.1)",
+    "text_clue": "Hill 'ten krosha from here' (Prayaga) with the Mandakini river below it",
+    "identification": "Kamadgiri hill, Chitrakoot (Kamta Nath temple); Mandakini at Ramghat",
+    "confidence": "high",
+    "coord_source": "OpenStreetMap (Kamta Nath Mandir)",
+    "route_order": 4,
+    "on_overview": true,
+    "label_dx": -1.6,
+    "label_dy": 0.1,
+    "river": "Mandakini",
+    "alternatives": [
+     {
+      "name": "Ramghat on the Mandakini",
+      "lat": 25.1776,
+      "lon": 80.8704
+     }
+    ],
+    "gebco_elev_m": 177.0,
+    "plate_velocity_mm_yr": 55.8,
+    "plate_velocity_azimuth_deg": 47,
+    "tectonic_shift_m_since_epoch": 463,
+    "position_at_oldest_reference_epoch_nnr": [
+     25.16854,
+     80.84986
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.8704,
+     25.1776
+    ]
+   },
+   "properties": {
+    "id": "chitrakuta_alt",
+    "name": "Chitrakuta — alternative: Ramghat on the Mandakini",
+    "note": "",
+    "confidence": "low",
+    "alternative": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.8674,
+     25.0733
+    ]
+   },
+   "properties": {
+    "id": "atri",
+    "name": "Atri and Anasuya's ashram",
+    "short": "Atri ashram",
+    "sanskrit": "अत्र्याश्रम",
+    "valmiki_refs": "Ayodhya 117-119 (vulgate)",
+    "text_clue": "Hermitage of Atri and Anasuya after leaving Chitrakuta",
+    "identification": "Sati Anusuya ashram, Chitrakoot",
+    "confidence": "medium",
+    "coord_source": "OpenStreetMap",
+    "route_order": 5,
+    "gebco_elev_m": 198.0,
+    "plate_velocity_mm_yr": 55.8,
+    "plate_velocity_azimuth_deg": 47,
+    "tectonic_shift_m_since_epoch": 463,
+    "position_at_oldest_reference_epoch_nnr": [
+     25.07044,
+     80.86406
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.9246,
+     24.9114
+    ]
+   },
+   "properties": {
+    "id": "sharabhanga",
+    "name": "Sharabhanga's ashram",
+    "short": "Sharabhanga",
+    "sanskrit": "शरभङ्गाश्रम",
+    "valmiki_refs": "Aranya 5 (vulgate)",
+    "text_clue": "Hermitage in the Dandaka forest",
+    "identification": "Sarbhanga Ashram village, Satna district (village-centre proxy)",
+    "confidence": "low",
+    "coord_source": "OpenStreetMap (village boundary centre)",
+    "route_order": 6,
+    "gebco_elev_m": 389.0,
+    "plate_velocity_mm_yr": 55.9,
+    "plate_velocity_azimuth_deg": 47,
+    "tectonic_shift_m_since_epoch": 463,
+    "position_at_oldest_reference_epoch_nnr": [
+     24.90854,
+     80.92126
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.7936,
+     20.0067
+    ]
+   },
+   "properties": {
+    "id": "panchavati",
+    "name": "Panchavati",
+    "short": "Panchavati",
+    "sanskrit": "पञ्चवटी",
+    "valmiki_refs": "3.13.13, 3.13.21, 3.15.12 (CE 3.12.13, 3.12.18, 3.14.12)",
+    "text_clue": "Two yojanas from Agastya's ashram, near the Godavari, by a madhuka forest and a hill",
+    "identification": "Panchavati, Nashik (Sita Gufa / Kalaram temple) on the Godavari",
+    "confidence": "medium",
+    "coord_source": "OpenStreetMap",
+    "route_order": 7,
+    "on_overview": true,
+    "label_dx": 0.3,
+    "river": "Godavari",
+    "alternatives": [
+     {
+      "name": "Parnasala, Telangana (Godavari)",
+      "lat": 17.932,
+      "lon": 80.896,
+      "note": "Bhadrachalam tradition"
+     }
+    ],
+    "paleo_note": "Godavari incised in Deccan basalt at Nashik: channel stable at site scale",
+    "gebco_elev_m": 568.0,
+    "plate_velocity_mm_yr": 55.5,
+    "plate_velocity_azimuth_deg": 47,
+    "tectonic_shift_m_since_epoch": 460,
+    "position_at_oldest_reference_epoch_nnr": [
+     20.0039,
+     73.79036
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.896,
+     17.932
+    ]
+   },
+   "properties": {
+    "id": "panchavati_alt",
+    "name": "Panchavati — alternative: Parnasala, Telangana (Godavari)",
+    "note": "Bhadrachalam tradition",
+    "confidence": "low",
+    "alternative": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     74.0023,
+     19.549
+    ]
+   },
+   "properties": {
+    "id": "agastya_ashram",
+    "name": "Agastya's ashram (north)",
+    "short": "Agastya (Akole)",
+    "sanskrit": "अगस्त्याश्रम",
+    "valmiki_refs": "3.11-13 (CE 3.11-12)",
+    "text_clue": "Two yojanas from Panchavati",
+    "identification": "Agasti temple, Akole, on the Pravara (tradition only)",
+    "confidence": "low",
+    "coord_source": "OpenStreetMap",
+    "gebco_elev_m": 576.0,
+    "plate_velocity_mm_yr": 55.7,
+    "plate_velocity_azimuth_deg": 47,
+    "tectonic_shift_m_since_epoch": 462,
+    "position_at_oldest_reference_epoch_nnr": [
+     19.54619,
+     73.99905
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.7898,
+     19.9975
+    ]
+   },
+   "properties": {
+    "id": "janasthana",
+    "name": "Janasthana",
+    "short": "Janasthana",
+    "sanskrit": "जनस्थान",
+    "valmiki_refs": "Aranya 18-30",
+    "text_clue": "Khara's district around Panchavati",
+    "identification": "Nashik region (no specific site; city centre as stand-in)",
+    "confidence": "low",
+    "coord_source": "Wikipedia (Nashik)",
+    "gebco_elev_m": 585.0,
+    "plate_velocity_mm_yr": 55.5,
+    "plate_velocity_azimuth_deg": 47,
+    "tectonic_shift_m_since_epoch": 460,
+    "position_at_oldest_reference_epoch_nnr": [
+     19.9947,
+     73.78656
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.4774,
+     15.3538
+    ]
+   },
+   "properties": {
+    "id": "pampa",
+    "name": "Pampa lake and Matanga's ashram",
+    "short": "Pampa",
+    "sanskrit": "पम्पा",
+    "valmiki_refs": "3.73.10, 3.73.27-31 (CE 3.69.21-24); 4.1",
+    "text_clue": "Lake reached travelling west from Kabandha; Matanga's ashram on its west bank; Rishyamuka 'in front of' it",
+    "identification": "Pampa Sarovar near Hampi / Anegundi",
+    "confidence": "medium",
+    "coord_source": "Wikipedia; OSM 15.3537, 76.4775",
+    "route_order": 8,
+    "on_overview": true,
+    "label_dx": 0.3,
+    "label_dy": 0.25,
+    "river": "Tungabhadra (Pampa)",
+    "paleo_note": "Tungabhadra in a granite-bedrock gorge: stable at site scale",
+    "gebco_elev_m": 424.0,
+    "plate_velocity_mm_yr": 57.4,
+    "plate_velocity_azimuth_deg": 49,
+    "tectonic_shift_m_since_epoch": 476,
+    "position_at_oldest_reference_epoch_nnr": [
+     15.35097,
+     76.47407
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.4667,
+     15.3408
+    ]
+   },
+   "properties": {
+    "id": "rishyamuka",
+    "name": "Rishyamuka hill",
+    "short": "Rishyamuka",
+    "sanskrit": "ऋष्यमूक",
+    "valmiki_refs": "3.73.31 (CE 3.69.24); Kishkindha 1-5",
+    "text_clue": "Sugriva's refuge hill near Pampa",
+    "identification": "Rishyamukha hill across the Tungabhadra from Hampi",
+    "confidence": "medium",
+    "coord_source": "OpenStreetMap",
+    "route_order": 9,
+    "gebco_elev_m": 427.0,
+    "plate_velocity_mm_yr": 57.4,
+    "plate_velocity_azimuth_deg": 49,
+    "tectonic_shift_m_since_epoch": 476,
+    "position_at_oldest_reference_epoch_nnr": [
+     15.33797,
+     76.46337
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.4919,
+     15.3527
+    ]
+   },
+   "properties": {
+    "id": "kishkindha",
+    "name": "Kishkindha",
+    "short": "Kishkindha",
+    "sanskrit": "किष्किन्धा",
+    "valmiki_refs": "Kishkindha 11-14; 4.27.26 (vulgate)",
+    "text_clue": "Vali and Sugriva's cave-city near Rishyamuka and Prasravana",
+    "identification": "Anegundi on the Tungabhadra",
+    "confidence": "medium",
+    "coord_source": "Wikipedia",
+    "route_order": 10,
+    "on_overview": true,
+    "label_dx": 0.3,
+    "label_dy": -0.3,
+    "river": "Tungabhadra",
+    "paleo_note": "Tungabhadra in a granite-bedrock gorge: stable at site scale",
+    "gebco_elev_m": 415.0,
+    "plate_velocity_mm_yr": 57.5,
+    "plate_velocity_azimuth_deg": 49,
+    "tectonic_shift_m_since_epoch": 476,
+    "position_at_oldest_reference_epoch_nnr": [
+     15.34987,
+     76.48857
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.4878,
+     15.3245
+    ]
+   },
+   "properties": {
+    "id": "prasravana",
+    "name": "Prasravana hill on Malyavat",
+    "short": "Prasravana",
+    "sanskrit": "प्रस्रवण / माल्यवत्",
+    "valmiki_refs": "4.27.1, 4.28.1 (CE 4.26.1, 4.27.1)",
+    "text_clue": "Rama's monsoon camp on the back of Malyavat, not far from Kishkindha",
+    "identification": "Malyavanta Raghunatha temple hill, Hampi",
+    "confidence": "medium",
+    "coord_source": "OpenStreetMap",
+    "route_order": 11,
+    "gebco_elev_m": 451.0,
+    "plate_velocity_mm_yr": 57.5,
+    "plate_velocity_azimuth_deg": 49,
+    "tectonic_shift_m_since_epoch": 476,
+    "position_at_oldest_reference_epoch_nnr": [
+     15.32167,
+     76.48447
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.2457,
+     8.6163
+    ]
+   },
+   "properties": {
+    "id": "malaya",
+    "name": "Malaya mountain (Agastya's peak)",
+    "short": "Malaya / Agastya Mala",
+    "sanskrit": "मलय",
+    "valmiki_refs": "4.41.16 (CE 4.40.16); 6.4.97 (CE 6.4.65)",
+    "text_clue": "Agastya seated on the summit of Malaya, south of the Kaveri, before the Tamraparni",
+    "identification": "Agastya Mala (Pothigai), 1,868 m, southern Western Ghats",
+    "confidence": "high",
+    "coord_source": "Wikipedia",
+    "route_order": 12,
+    "on_overview": true,
+    "label_dx": -2.9,
+    "label_dy": 0.1,
+    "gebco_elev_m": 1453.0,
+    "plate_velocity_mm_yr": 59.0,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 489,
+    "position_at_oldest_reference_epoch_nnr": [
+     8.61346,
+     77.2423
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.1273,
+     8.6413
+    ]
+   },
+   "properties": {
+    "id": "tamraparni",
+    "name": "Tamraparni river (mouth)",
+    "short": "Tamraparni",
+    "sanskrit": "ताम्रपर्णी",
+    "valmiki_refs": "4.41.17-18 (CE 4.40.17-18)",
+    "text_clue": "Great river with crocodiles, island-studded, entering the sea; crossed after Malaya",
+    "identification": "Thamirabarani river mouth at Punnakayal, Thoothukudi district",
+    "confidence": "high",
+    "coord_source": "Wikipedia",
+    "coastal": true,
+    "on_overview": true,
+    "label_dx": 0.3,
+    "label_dy": -0.25,
+    "river": "Thamirabarani",
+    "paleo_note": "Delta prograded 7.5-8 km in ~2,000 yr. In the 1st millennium BCE the mouth was near Korkai, about 7.5 km west of today's (epoch coordinate 8.633°N, 78.067°E)",
+    "epoch_lat": 8.6333,
+    "epoch_lon": 78.0667,
+    "gebco_elev_m": -4.0,
+    "plate_velocity_mm_yr": 59.1,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 490,
+    "position_at_oldest_reference_epoch_nnr": [
+     8.63846,
+     78.12389
+    ],
+    "sea_distance_km": {
+     "6266 BCE (A)": {
+      "rsl_m": -12.7,
+      "km": 6.39,
+      "submerged": false
+     },
+     "4498 BCE (B)": {
+      "rsl_m": 0.6,
+      "km": 0.19,
+      "submerged": true
+     },
+     "c. 300 BCE text": {
+      "rsl_m": 0.3,
+      "km": 0.19,
+      "submerged": true
+     },
+     "present": {
+      "rsl_m": 0.0,
+      "km": 0.19,
+      "submerged": true
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.0667,
+     8.6333
+    ]
+   },
+   "properties": {
+    "id": "pandya_kavata",
+    "name": "Golden gate (kavata) of the Pandyas",
+    "short": "Pandya gate (Korkai)",
+    "sanskrit": "पाण्ड्यकवाट",
+    "valmiki_refs": "4.41.19 (CE 4.40.19)",
+    "text_clue": "Golden pearl-studded gate of the Pandyas, after the Tamraparni and before the sea",
+    "identification": "Korkai, the early-historic Pandya pearl port near the Thamirabarani mouth (now inland)",
+    "confidence": "medium",
+    "coord_source": "Wikipedia (arc-minute precision)",
+    "coastal": true,
+    "river": "Thamirabarani delta",
+    "alternatives": [
+     {
+      "name": "Madurai (translator's gloss)",
+      "lat": 9.9195,
+      "lon": 78.1193,
+      "note": "RSVP translator's identification"
+     }
+    ],
+    "paleo_note": "Korkai was a coastal pearl port from the 3rd century BCE to the 5th century CE; now about 7.5 km inland",
+    "gebco_elev_m": 9.0,
+    "plate_velocity_mm_yr": 59.1,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 490,
+    "position_at_oldest_reference_epoch_nnr": [
+     8.63046,
+     78.06329
+    ],
+    "sea_distance_km": {
+     "6266 BCE (A)": {
+      "rsl_m": -12.7,
+      "km": 13.05,
+      "submerged": false
+     },
+     "4498 BCE (B)": {
+      "rsl_m": 0.6,
+      "km": 6.67,
+      "submerged": false
+     },
+     "c. 300 BCE text": {
+      "rsl_m": 0.3,
+      "km": 6.67,
+      "submerged": false
+     },
+     "present": {
+      "rsl_m": 0.0,
+      "km": 6.67,
+      "submerged": false
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.1193,
+     9.9195
+    ]
+   },
+   "properties": {
+    "id": "pandya_kavata_alt",
+    "name": "Golden gate (kavata) of the Pandyas — alternative: Madurai (translator's gloss)",
+    "note": "RSVP translator's identification",
+    "confidence": "low",
+    "alternative": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.5214,
+     8.3883
+    ]
+   },
+   "properties": {
+    "id": "mahendra",
+    "name": "Mahendra mountain",
+    "short": "Mahendra",
+    "sanskrit": "महेन्द्र",
+    "valmiki_refs": "4.41.20-21 (CE 4.40.20-21); 4.67.38-40 (CE 4.66.32-34); 6.4.95-96 (CE 6.4.63-64)",
+    "text_clue": "Set by Agastya at the sea, 'plunging into the ocean'; Hanuman's launch point; Rama climbs it and sees the sea",
+    "identification": "Mahendragiri, Tirunelveli-Kanyakumari border: summit 1,654 m (GEBCO 1,555 m)",
+    "confidence": "high",
+    "coord_source": "Wikipedia",
+    "route_order": 13,
+    "on_overview": true,
+    "label_dx": 0.3,
+    "label_dy": -0.35,
+    "alternatives": [
+     {
+      "name": "Mahendragiri, Odisha (the Puranic Mahendra kula-parvata)",
+      "lat": 18.9744,
+      "lon": 84.3681,
+      "note": "fits Kishkindha 41's east-coast list, not the southern-sea episode"
+     }
+    ],
+    "gebco_elev_m": 1208.0,
+    "plate_velocity_mm_yr": 59.1,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 490,
+    "position_at_oldest_reference_epoch_nnr": [
+     8.38546,
+     77.51799
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     84.3681,
+     18.9744
+    ]
+   },
+   "properties": {
+    "id": "mahendra_alt",
+    "name": "Mahendra mountain — alternative: Mahendragiri, Odisha (the Puranic Mahendra kula-parvata)",
+    "note": "fits Kishkindha 41's east-coast list, not the southern-sea episode",
+    "confidence": "low",
+    "alternative": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.5505,
+     8.078
+    ]
+   },
+   "properties": {
+    "id": "ocean_shore",
+    "name": "Southern ocean shore (army camp)",
+    "short": "Kanyakumari",
+    "sanskrit": "दक्षिणसमुद्रतीर",
+    "valmiki_refs": "4.64.4 (CE 4.63.4); 6.4.97-98",
+    "text_clue": "The army reaches the shore forest (velavana) of the southern ocean after Mahendra",
+    "identification": "Kanyakumari (Cape Comorin), the shore nearest Mahendragiri",
+    "confidence": "medium",
+    "coord_source": "OpenStreetMap (cape tip)",
+    "coastal": true,
+    "paleo_note": "Rocky cape: shoreline essentially fixed through the Holocene (GEBCO: <1 km change between -10 m and +1.5 m)",
+    "gebco_elev_m": 10.0,
+    "plate_velocity_mm_yr": 59.2,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 490,
+    "position_at_oldest_reference_epoch_nnr": [
+     8.07516,
+     77.54709
+    ],
+    "sea_distance_km": {
+     "6266 BCE (A)": {
+      "rsl_m": -12.7,
+      "km": 1.5,
+      "submerged": false
+     },
+     "4498 BCE (B)": {
+      "rsl_m": 0.6,
+      "km": 0.59,
+      "submerged": false
+     },
+     "c. 300 BCE text": {
+      "rsl_m": 0.3,
+      "km": 0.59,
+      "submerged": false
+     },
+     "present": {
+      "rsl_m": 0.0,
+      "km": 0.59,
+      "submerged": false
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.4491,
+     9.1504
+    ]
+   },
+   "properties": {
+    "id": "setu_start",
+    "name": "Setu: Indian end",
+    "short": "Setu (Dhanushkodi)",
+    "sanskrit": "सेतु",
+    "valmiki_refs": "6.22.61-74 (CE 6.15.8-22); 6.126.19-21 (vulgate only)",
+    "text_clue": "Causeway 100 yojanas long and 10 wide built by Nala 'in the middle of the ocean'",
+    "identification": "Arichal Munai, tip of the Dhanushkodi spit: western end of Adam's Bridge (Rama Setu)",
+    "confidence": "high",
+    "coord_source": "OpenStreetMap (road-end monument; spit tip migrates)",
+    "coastal": true,
+    "route_order": 14,
+    "on_overview": true,
+    "label_dx": -2.7,
+    "label_dy": 0.35,
+    "alternatives": [
+     {
+      "name": "Ramanathaswamy temple, Rameswaram ('Setubandha', vulgate 6.126 only)",
+      "lat": 9.2881,
+      "lon": 79.3173
+     },
+     {
+      "name": "Thiruppullani / Darbhasayanam (mainland tradition)",
+      "lat": 9.2827,
+      "lon": 78.8244
+     },
+     {
+      "name": "Devipattinam / Navapashanam (mainland tradition)",
+      "lat": 9.4719,
+      "lon": 78.8934
+     },
+     {
+      "name": "Kodiakkarai Ramar Padam (Point Calimere tradition)",
+      "lat": 10.332,
+      "lon": 79.8424
+     }
+    ],
+    "paleo_note": "Spit and cays are mobile sand up to +3.5 m. During the +1.5-2 m highstand (6.5-5.5 ka) they were mostly awash, so the dry Indian end was the Rameswaram island core near 9.227°N, 79.340°E",
+    "epoch_lat": 9.2271,
+    "epoch_lon": 79.3396,
+    "gebco_elev_m": -2.0,
+    "plate_velocity_mm_yr": 59.2,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 491,
+    "position_at_oldest_reference_epoch_nnr": [
+     9.14755,
+     79.44568
+    ],
+    "sea_distance_km": {
+     "6266 BCE (A)": {
+      "rsl_m": -12.7,
+      "km": 6.72,
+      "submerged": false
+     },
+     "4498 BCE (B)": {
+      "rsl_m": 0.6,
+      "km": 0.23,
+      "submerged": true
+     },
+     "c. 300 BCE text": {
+      "rsl_m": 0.3,
+      "km": 0.23,
+      "submerged": true
+     },
+     "present": {
+      "rsl_m": 0.0,
+      "km": 0.23,
+      "submerged": true
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.3173,
+     9.2881
+    ]
+   },
+   "properties": {
+    "id": "setu_start_alt",
+    "name": "Setu: Indian end — alternative: Ramanathaswamy temple, Rameswaram ('Setubandha', vulgate 6.126 only)",
+    "note": "",
+    "confidence": "low",
+    "alternative": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.8244,
+     9.2827
+    ]
+   },
+   "properties": {
+    "id": "setu_start_alt",
+    "name": "Setu: Indian end — alternative: Thiruppullani / Darbhasayanam (mainland tradition)",
+    "note": "",
+    "confidence": "low",
+    "alternative": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.8934,
+     9.4719
+    ]
+   },
+   "properties": {
+    "id": "setu_start_alt",
+    "name": "Setu: Indian end — alternative: Devipattinam / Navapashanam (mainland tradition)",
+    "note": "",
+    "confidence": "low",
+    "alternative": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.8424,
+     10.332
+    ]
+   },
+   "properties": {
+    "id": "setu_start_alt",
+    "name": "Setu: Indian end — alternative: Kodiakkarai Ramar Padam (Point Calimere tradition)",
+    "note": "",
+    "confidence": "low",
+    "alternative": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.7307,
+     9.1055
+    ]
+   },
+   "properties": {
+    "id": "setu_end",
+    "name": "Setu: Lanka end",
+    "short": "Setu (Talaimannar)",
+    "sanskrit": "सेतु",
+    "valmiki_refs": "6.22.70 (vulgate: 'up to Suvela'; absent CE)",
+    "text_clue": "The causeway reaches the far shore",
+    "identification": "Talaimannar, west tip of Mannar island: eastern end of Adam's Bridge",
+    "confidence": "high",
+    "coord_source": "OpenStreetMap; pier 9.1087, 79.7303",
+    "coastal": true,
+    "route_order": 15,
+    "on_overview": true,
+    "on_lanka_map": true,
+    "label_dx": 0.3,
+    "label_dy": 0.25,
+    "lk_dx": -0.75,
+    "lk_dy": 0.07,
+    "paleo_note": "Mannar island is a low sand-and-reef island; its west tip migrates with the littoral drift",
+    "gebco_elev_m": -3.0,
+    "plate_velocity_mm_yr": 59.3,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 492,
+    "position_at_oldest_reference_epoch_nnr": [
+     9.10264,
+     79.72728
+    ],
+    "sea_distance_km": {
+     "6266 BCE (A)": {
+      "rsl_m": -12.7,
+      "km": 17.9,
+      "submerged": false
+     },
+     "4498 BCE (B)": {
+      "rsl_m": 0.6,
+      "km": 0.1,
+      "submerged": true
+     },
+     "c. 300 BCE text": {
+      "rsl_m": 0.3,
+      "km": 0.1,
+      "submerged": true
+     },
+     "present": {
+      "rsl_m": 0.0,
+      "km": 0.1,
+      "submerged": true
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.7718,
+     7.8731
+    ]
+   },
+   "properties": {
+    "id": "lanka_island",
+    "name": "Lanka (the island)",
+    "short": "Lanka = Sri Lanka",
+    "sanskrit": "लङ्का द्वीप",
+    "valmiki_refs": "4.41.24-25 (CE 4.40.24-25); 4.58.19-20 (CE 4.57.19-20); 5.2.1 (CE 5.2.1)",
+    "text_clue": "Island beyond Mahendra across the southern ocean, 'a full 100 yojanas' away, itself '100 yojanas long'",
+    "identification": "Sri Lanka (geographic centre): the only island off the Tamraparni/Pandya coast joined to it by a shoal",
+    "confidence": "high",
+    "coord_source": "Sri Lanka centroid (Wikipedia)",
+    "route_order": 16,
+    "on_overview": true,
+    "on_lanka_map": true,
+    "label_dx": 0.35,
+    "label_dy": 0.0,
+    "lk_dx": 0.08,
+    "lk_dy": -0.16,
+    "paleo_note": "Joined to India by land until sea level rose above the bridge sill (crest ~-3 m: c. 5200 BCE; rock ~-10 m: c. 6000 BCE)",
+    "gebco_elev_m": 234.0,
+    "plate_velocity_mm_yr": 59.6,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 494,
+    "position_at_oldest_reference_epoch_nnr": [
+     7.87024,
+     80.76837
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.4997,
+     6.8094
+    ]
+   },
+   "properties": {
+    "id": "lanka_city_sripada",
+    "name": "Lanka city on Trikuta: candidate A",
+    "short": "Trikuta? (Sri Pada)",
+    "sanskrit": "त्रिकूटशिखरे लङ्का",
+    "valmiki_refs": "5.2.1 (CE 5.2.1); 6.39.18-20 (CE 6.30.18-20)",
+    "text_clue": "City on the summit of Trikuta, seen from Suvela 'as if hanging in the sky'",
+    "identification": "Central highlands: Sri Pada (Adam's Peak), fabled as Trikuta; 2,243 m",
+    "confidence": "low",
+    "coord_source": "Wikipedia",
+    "on_lanka_map": true,
+    "lk_dx": -0.95,
+    "lk_dy": -0.05,
+    "gebco_elev_m": 2023.0,
+    "plate_velocity_mm_yr": 59.7,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 495,
+    "position_at_oldest_reference_epoch_nnr": [
+     6.80654,
+     80.49626
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.2456,
+     8.5825
+    ]
+   },
+   "properties": {
+    "id": "lanka_city_trinco",
+    "name": "Lanka city on Trikuta: candidate B",
+    "short": "Trikuta? (Trincomalee)",
+    "sanskrit": "त्रिकूट / Trikonamalai",
+    "valmiki_refs": "5.2.1; 6.39.18-20",
+    "text_clue": "Name-based link Trikuta ~ Tiru-kona-malai",
+    "identification": "Koneswaram on Swami Rock, Trincomalee (GEBCO ~30 m: not a mountain)",
+    "confidence": "low",
+    "coord_source": "Wikipedia",
+    "coastal": true,
+    "on_lanka_map": true,
+    "lk_dx": -0.15,
+    "lk_dy": 0.1,
+    "gebco_elev_m": -12.0,
+    "plate_velocity_mm_yr": 59.6,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 494,
+    "position_at_oldest_reference_epoch_nnr": [
+     8.57964,
+     81.24217
+    ],
+    "sea_distance_km": {
+     "6266 BCE (A)": {
+      "rsl_m": -12.7,
+      "km": 0.29,
+      "submerged": false
+     },
+     "4498 BCE (B)": {
+      "rsl_m": 0.6,
+      "km": 0.25,
+      "submerged": true
+     },
+     "c. 300 BCE text": {
+      "rsl_m": 0.3,
+      "km": 0.25,
+      "submerged": true
+     },
+     "present": {
+      "rsl_m": 0.0,
+      "km": 0.25,
+      "submerged": true
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.8105,
+     6.9332
+    ]
+   },
+   "properties": {
+    "id": "ashoka_vatika",
+    "name": "Ashoka Vatika tradition: Seetha Amman temple",
+    "short": "Ashoka Vatika (trad.)",
+    "sanskrit": "",
+    "valmiki_refs": "(post-Valmiki local tradition)",
+    "text_clue": "Sri Lankan Ramayana-trail tradition",
+    "identification": "Ashoka Vatika tradition: Seetha Amman temple: Sita Eliya / Hakgala",
+    "confidence": "low",
+    "coord_source": "Wikipedia",
+    "on_lanka_map": true,
+    "lk_dx": 0.06,
+    "lk_dy": 0.05,
+    "tradition": true,
+    "gebco_elev_m": 1800.0,
+    "plate_velocity_mm_yr": 59.7,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 495,
+    "position_at_oldest_reference_epoch_nnr": [
+     6.93034,
+     80.80706
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.0544,
+     6.8408
+    ]
+   },
+   "properties": {
+    "id": "ravana_ella",
+    "name": "Ravana Ella falls / cave tradition",
+    "short": "Ravana Ella (trad.)",
+    "sanskrit": "",
+    "valmiki_refs": "(post-Valmiki local tradition)",
+    "text_clue": "Sri Lankan Ramayana-trail tradition",
+    "identification": "Ravana Ella falls / cave tradition: Ella",
+    "confidence": "low",
+    "coord_source": "Wikipedia",
+    "on_lanka_map": true,
+    "lk_dx": 0.06,
+    "lk_dy": -0.08,
+    "tradition": true,
+    "gebco_elev_m": 860.0,
+    "plate_velocity_mm_yr": 59.8,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 496,
+    "position_at_oldest_reference_epoch_nnr": [
+     6.83794,
+     81.05096
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.9185,
+     6.9531
+    ]
+   },
+   "properties": {
+    "id": "kelaniya",
+    "name": "Vibhishana tradition: Kelaniya Raja Maha Vihara",
+    "short": "Kelaniya (trad.)",
+    "sanskrit": "",
+    "valmiki_refs": "(post-Valmiki local tradition)",
+    "text_clue": "Sri Lankan Ramayana-trail tradition",
+    "identification": "Vibhishana tradition: Kelaniya Raja Maha Vihara: near Colombo",
+    "confidence": "low",
+    "coord_source": "Wikipedia",
+    "on_lanka_map": true,
+    "lk_dx": 0.06,
+    "lk_dy": 0.03,
+    "tradition": true,
+    "gebco_elev_m": 11.0,
+    "plate_velocity_mm_yr": 59.6,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 494,
+    "position_at_oldest_reference_epoch_nnr": [
+     6.95024,
+     79.91507
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.6568,
+     8.109
+    ]
+   },
+   "properties": {
+    "id": "ritigala",
+    "name": "Ritigala (Sanjivani tradition)",
+    "short": "Ritigala (trad.)",
+    "sanskrit": "",
+    "valmiki_refs": "(post-Valmiki local tradition)",
+    "text_clue": "Sri Lankan Ramayana-trail tradition",
+    "identification": "Ritigala (Sanjivani tradition): 766 m isolated massif",
+    "confidence": "low",
+    "coord_source": "OpenStreetMap",
+    "on_lanka_map": true,
+    "lk_dx": 0.06,
+    "lk_dy": 0.03,
+    "tradition": true,
+    "gebco_elev_m": 658.0,
+    "plate_velocity_mm_yr": 59.6,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 494,
+    "position_at_oldest_reference_epoch_nnr": [
+     8.10614,
+     80.65337
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.7597,
+     7.9569
+    ]
+   },
+   "properties": {
+    "id": "sigiriya",
+    "name": "Sigiriya (Ravana-palace folk tradition)",
+    "short": "Sigiriya (trad.)",
+    "sanskrit": "",
+    "valmiki_refs": "(post-Valmiki local tradition)",
+    "text_clue": "Sri Lankan Ramayana-trail tradition",
+    "identification": "Sigiriya (Ravana-palace folk tradition): 5th-century CE fortress",
+    "confidence": "low",
+    "coord_source": "Wikipedia",
+    "on_lanka_map": true,
+    "lk_dx": 0.06,
+    "lk_dy": 0.04,
+    "tradition": true,
+    "gebco_elev_m": 235.0,
+    "plate_velocity_mm_yr": 59.6,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 494,
+    "position_at_oldest_reference_epoch_nnr": [
+     7.95404,
+     80.75627
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.9894,
+     6.1
+    ]
+   },
+   "properties": {
+    "id": "ussangoda",
+    "name": "Ussangoda (Hanuman-fire tradition)",
+    "short": "Ussangoda (trad.)",
+    "sanskrit": "",
+    "valmiki_refs": "(post-Valmiki local tradition)",
+    "text_clue": "Sri Lankan Ramayana-trail tradition",
+    "identification": "Ussangoda (Hanuman-fire tradition): south coast",
+    "confidence": "low",
+    "coord_source": "Wikipedia",
+    "on_lanka_map": true,
+    "lk_dx": 0.06,
+    "lk_dy": 0.03,
+    "tradition": true,
+    "gebco_elev_m": 16.0,
+    "plate_velocity_mm_yr": 59.9,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 496,
+    "position_at_oldest_reference_epoch_nnr": [
+     6.09714,
+     80.98596
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.2386,
+     6.0153
+    ]
+   },
+   "properties": {
+    "id": "rumassala",
+    "name": "Rumassala (Sanjivani tradition)",
+    "short": "Rumassala (trad.)",
+    "sanskrit": "",
+    "valmiki_refs": "(post-Valmiki local tradition)",
+    "text_clue": "Sri Lankan Ramayana-trail tradition",
+    "identification": "Rumassala (Sanjivani tradition): Galle",
+    "confidence": "low",
+    "coord_source": "OpenStreetMap",
+    "on_lanka_map": true,
+    "lk_dx": 0.06,
+    "lk_dy": 0.03,
+    "tradition": true,
+    "gebco_elev_m": 26.0,
+    "plate_velocity_mm_yr": 59.8,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 496,
+    "position_at_oldest_reference_epoch_nnr": [
+     6.01244,
+     80.23516
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.2333,
+     7.6333
+    ]
+   },
+   "properties": {
+    "id": "wariyapola",
+    "name": "Wariyapola (Pushpaka airfield tradition)",
+    "short": "Wariyapola (trad.)",
+    "sanskrit": "",
+    "valmiki_refs": "(post-Valmiki local tradition)",
+    "text_clue": "Sri Lankan Ramayana-trail tradition",
+    "identification": "Wariyapola (Pushpaka airfield tradition): Kurunegala",
+    "confidence": "low",
+    "coord_source": "Wikipedia",
+    "on_lanka_map": true,
+    "lk_dx": -0.7,
+    "lk_dy": 0.03,
+    "tradition": true,
+    "gebco_elev_m": 87.0,
+    "plate_velocity_mm_yr": 59.6,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 494,
+    "position_at_oldest_reference_epoch_nnr": [
+     7.63044,
+     80.22987
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     75.7665,
+     0.0
+    ]
+   },
+   "properties": {
+    "id": "lanka_surya_siddhanta",
+    "name": "Surya Siddhanta 'Lanka' (equator on Ujjain's meridian)",
+    "short": "Equatorial 'Lanka'",
+    "sanskrit": "लङ्का (सिद्धान्त)",
+    "valmiki_refs": "(astronomical convention, not Valmiki)",
+    "text_clue": "Zero point of Indian astronomy: equator on the meridian of Ujjain",
+    "identification": "Open ocean, 4,128 m deep (GEBCO): never land at any Quaternary sea level",
+    "confidence": "low",
+    "coord_source": "Derived: Ujjain Jantar Mantar longitude (Wikipedia)",
+    "rejected": true,
+    "gebco_elev_m": -4129.0,
+    "plate_velocity_mm_yr": 60.0,
+    "plate_velocity_azimuth_deg": 51,
+    "tectonic_shift_m_since_epoch": 498,
+    "position_at_oldest_reference_epoch_nnr": [
+     -0.00282,
+     75.76303
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.509,
+     4.175
+    ]
+   },
+   "properties": {
+    "id": "lanka_maldives",
+    "name": "Maldives hypothesis",
+    "short": "Maldives",
+    "sanskrit": "",
+    "valmiki_refs": "-",
+    "text_clue": "Proposed on long-yojana distance readings",
+    "identification": "Male atoll: separated from India by a 2,592 m deep sill (GEBCO)",
+    "confidence": "low",
+    "coord_source": "Wikipedia (Male)",
+    "rejected": true,
+    "gebco_elev_m": -58.0,
+    "plate_velocity_mm_yr": 59.3,
+    "plate_velocity_azimuth_deg": 51,
+    "tectonic_shift_m_since_epoch": 491,
+    "position_at_oldest_reference_epoch_nnr": [
+     4.1722,
+     73.50557
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.7595,
+     22.6733
+    ]
+   },
+   "properties": {
+    "id": "lanka_amarkantak",
+    "name": "Central-India hypothesis (M. V. Kibe)",
+    "short": "Amarkantak",
+    "sanskrit": "",
+    "valmiki_refs": "-",
+    "text_clue": "Lanka at the Narmada source in the Amarkantak hills",
+    "identification": "Amarkantak plateau: landlocked, ~700 km from the sea",
+    "confidence": "low",
+    "coord_source": "Wikipedia",
+    "rejected": true,
+    "gebco_elev_m": 1042.0,
+    "plate_velocity_mm_yr": 56.7,
+    "plate_velocity_azimuth_deg": 47,
+    "tectonic_shift_m_since_epoch": 470,
+    "position_at_oldest_reference_epoch_nnr": [
+     22.67043,
+     81.75613
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     75.7911,
+     0.2959
+    ]
+   },
+   "properties": {
+    "id": "treta_equator_point",
+    "name": "Equator x Ujjain meridian at the Puranic end of Treta (~869 ka)",
+    "short": "Treta equatorial point",
+    "sanskrit": "लङ्का (त्रेता)",
+    "valmiki_refs": "(astronomical convention; Surya Siddhanta)",
+    "text_clue": "Lanka placed where Ujjain's meridian meets the equator",
+    "identification": "Today's location of that point after India-plate motion since 869 ka: open ocean, 4,308 m deep (GEBCO)",
+    "confidence": "low",
+    "coord_source": "Computed: NNR-MORVEL56 rotation of (0°, Ujjain's then-longitude)",
+    "rejected": true,
+    "treta": true,
+    "gebco_elev_m": -4308.0,
+    "plate_velocity_mm_yr": 60.0,
+    "plate_velocity_azimuth_deg": 51,
+    "tectonic_shift_m_since_epoch": 498,
+    "position_at_oldest_reference_epoch_nnr": [
+     0.29308,
+     75.78763
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.283,
+     0.519
+    ]
+   },
+   "properties": {
+    "id": "treta_huvadhu",
+    "name": "Equatorial ridge candidate A: Huvadhu atoll plateau",
+    "short": "Huvadhu (Treta test)",
+    "sanskrit": "",
+    "valmiki_refs": "Treta hypothesis (equatorial Lanka on the Chagos-Laccadive ridge)",
+    "text_clue": "Largest land within 300 km of the equator at the Treta sea level (-90 m)",
+    "identification": "Huvadhu atoll (Maldives) as an exposed limestone plateau: 3,737 km2, ~216 m above the Treta sea; 949 km from Mahendragiri (100 yojanas at 9.5 km); 2,286 m-deep sill to India",
+    "confidence": "low",
+    "coord_source": "Computed from GEBCO 2026 at -90 m (centroid)",
+    "treta": true,
+    "gebco_elev_m": -24.0,
+    "plate_velocity_mm_yr": 59.8,
+    "plate_velocity_azimuth_deg": 51,
+    "tectonic_shift_m_since_epoch": 495,
+    "position_at_oldest_reference_epoch_nnr": [
+     0.5162,
+     73.27953
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.433,
+     -0.307
+    ]
+   },
+   "properties": {
+    "id": "treta_fuvahmulah",
+    "name": "Equatorial ridge candidate B: Fuvahmulah plateau",
+    "short": "Fuvahmulah (Treta test)",
+    "sanskrit": "",
+    "valmiki_refs": "Treta hypothesis",
+    "text_clue": "Second equatorial landmass at the Treta sea level",
+    "identification": "Fuvahmulah (Maldives): 39 km2, ~109 m above the Treta sea; 1,065 km from Mahendragiri; channel to Huvadhu 1,995 m deep",
+    "confidence": "low",
+    "coord_source": "Computed from GEBCO 2026 at -90 m (centroid)",
+    "treta": true,
+    "gebco_elev_m": -7.0,
+    "plate_velocity_mm_yr": 59.9,
+    "plate_velocity_azimuth_deg": 51,
+    "tectonic_shift_m_since_epoch": 496,
+    "position_at_oldest_reference_epoch_nnr": [
+     -0.3098,
+     73.42952
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.161,
+     -0.636
+    ]
+   },
+   "properties": {
+    "id": "treta_addu",
+    "name": "Equatorial ridge candidate C: Addu atoll plateau",
+    "short": "Addu (Treta test)",
+    "sanskrit": "",
+    "valmiki_refs": "Treta hypothesis",
+    "text_clue": "Third equatorial landmass at the Treta sea level",
+    "identification": "Addu atoll (Maldives): 206 km2, ~151 m above the Treta sea; 1,104 km from Mahendragiri; channel to Fuvahmulah 1,901 m deep",
+    "confidence": "low",
+    "coord_source": "Computed from GEBCO 2026 at -90 m (centroid)",
+    "treta": true,
+    "gebco_elev_m": -28.0,
+    "plate_velocity_mm_yr": 59.9,
+    "plate_velocity_azimuth_deg": 51,
+    "tectonic_shift_m_since_epoch": 497,
+    "position_at_oldest_reference_epoch_nnr": [
+     -0.6388,
+     73.15752
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     71.9,
+     -6.2
+    ]
+   },
+   "properties": {
+    "id": "drowned_great_chagos",
+    "name": "Drowned island: Great Chagos Bank",
+    "short": "Great Chagos Bank (drowned)",
+    "sanskrit": "",
+    "valmiki_refs": "Treta / glacial-era land (chagos_scan.py)",
+    "text_clue": "Land at -90 m that is now reef and lagoon",
+    "identification": "~14,550 km2 limestone island at the Treta sea level (-90 m); reduced to reef ~10-8 ka by post-glacial sea-level rise; 5.6 km2 of islets today",
+    "confidence": "low",
+    "coord_source": "Computed from GEBCO 2026 (bank centroid region)",
+    "treta": true,
+    "drowned": true,
+    "gebco_elev_m": -66.0,
+    "plate_velocity_mm_yr": 60.3,
+    "plate_velocity_azimuth_deg": 52,
+    "tectonic_shift_m_since_epoch": 500,
+    "position_at_oldest_reference_epoch_nnr": [
+     -6.20278,
+     71.89645
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     71.33,
+     -7.05
+    ]
+   },
+   "properties": {
+    "id": "drowned_pitt_bank",
+    "name": "Drowned island: Pitt Bank",
+    "short": "Pitt Bank (drowned)",
+    "sanskrit": "",
+    "valmiki_refs": "Treta / glacial-era land (chagos_scan.py)",
+    "text_clue": "Land at -90 m that is now wholly submerged",
+    "identification": "~2,180 km2 at -90 m; drowned ~7.3 ka; no land today",
+    "confidence": "low",
+    "coord_source": "Computed from GEBCO 2026",
+    "treta": true,
+    "drowned": true,
+    "gebco_elev_m": -22.0,
+    "plate_velocity_mm_yr": 60.3,
+    "plate_velocity_azimuth_deg": 52,
+    "tectonic_shift_m_since_epoch": 500,
+    "position_at_oldest_reference_epoch_nnr": [
+     -7.05277,
+     71.32643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.33,
+     -4.88
+    ]
+   },
+   "properties": {
+    "id": "drowned_speakers_bank",
+    "name": "Drowned island: Speakers Bank",
+    "short": "Speakers Bank (drowned)",
+    "sanskrit": "",
+    "valmiki_refs": "Treta / glacial-era land (chagos_scan.py)",
+    "text_clue": "Land at -90 m that is now submerged",
+    "identification": "~980 km2 at -90 m; drowned ~8.1 ka; negligible land today",
+    "confidence": "low",
+    "coord_source": "Computed from GEBCO 2026",
+    "treta": true,
+    "drowned": true,
+    "gebco_elev_m": -21.0,
+    "plate_velocity_mm_yr": 60.2,
+    "plate_velocity_azimuth_deg": 52,
+    "tectonic_shift_m_since_epoch": 499,
+    "position_at_oldest_reference_epoch_nnr": [
+     -4.88279,
+     72.32647
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     70.207,
+     0.373
+    ]
+   },
+   "properties": {
+    "id": "circular_basin_1",
+    "name": "Near-circular abyssal basin (unexplained in GEBCO)",
+    "short": "Circular basin 0.37N",
+    "sanskrit": "",
+    "valmiki_refs": "Bathymetric anomaly (chagos_scan.py)",
+    "text_clue": "Closed, near-circular basin with a slightly raised margin",
+    "identification": "~2,000 km2, 466 m deep below its rim at ~4,000 m depth; margin +32 m; needs a ship survey (GEBCO here is gravity-interpolated)",
+    "confidence": "low",
+    "coord_source": "Computed from GEBCO 2026",
+    "treta": true,
+    "gebco_elev_m": -4235.0,
+    "plate_velocity_mm_yr": 59.4,
+    "plate_velocity_azimuth_deg": 52,
+    "tectonic_shift_m_since_epoch": 493,
+    "position_at_oldest_reference_epoch_nnr": [
+     0.37024,
+     70.20353
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     70.292,
+     1.056
+    ]
+   },
+   "properties": {
+    "id": "circular_basin_2",
+    "name": "Near-circular abyssal basin (unexplained in GEBCO)",
+    "short": "Circular basin 1.06N",
+    "sanskrit": "",
+    "valmiki_refs": "Bathymetric anomaly (chagos_scan.py)",
+    "text_clue": "Closed, near-circular basin with a slightly raised margin",
+    "identification": "~1,600 km2, 459 m deep below its rim at ~4,100 m depth; margin +75 m; needs a ship survey",
+    "confidence": "low",
+    "coord_source": "Computed from GEBCO 2026",
+    "treta": true,
+    "gebco_elev_m": -4195.0,
+    "plate_velocity_mm_yr": 59.3,
+    "plate_velocity_azimuth_deg": 51,
+    "tectonic_shift_m_since_epoch": 492,
+    "position_at_oldest_reference_epoch_nnr": [
+     1.05324,
+     70.28854
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.4,
+     7.6
+    ]
+   },
+   "properties": {
+    "id": "kumari_wadge_bank",
+    "name": "Kumari Kandam test: Wadge Bank shelf south of Kanyakumari",
+    "short": "Wadge Bank (drowned)",
+    "sanskrit": "குமரிக்கண்டம்",
+    "valmiki_refs": "(Tamil tradition of lands lost south of Kumari)",
+    "text_clue": "Land said to have stretched south of Kanyakumari before the sea took it",
+    "identification": "Real drowned land: ~8,600 km2 of shelf south of Kanyakumari was dry at the Treta sea level (-90 m), reaching only to ~7.4 N; beyond it the sea floor falls to 2,400 m at 6 N and 4,800 m at the equator (GEBCO)",
+    "confidence": "low",
+    "coord_source": "Computed from GEBCO 2026 (shelf centre)",
+    "treta": true,
+    "drowned": true,
+    "gebco_elev_m": -77.0,
+    "plate_velocity_mm_yr": 59.2,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 491,
+    "position_at_oldest_reference_epoch_nnr": [
+     7.59716,
+     77.39659
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.55,
+     9.6
+    ]
+   },
+   "properties": {
+    "id": "palk_bay_plain",
+    "name": "Drowned plain of the Palk Bay",
+    "short": "Palk Bay plain (drowned)",
+    "sanskrit": "",
+    "valmiki_refs": "Treta / glacial-era land",
+    "text_clue": "Dry land joining India and Sri Lanka at low sea level",
+    "identification": "~26,000 km2 of plain between India and Sri Lanka, dry whenever the sea stood more than ~10 m below today",
+    "confidence": "low",
+    "coord_source": "Computed from GEBCO 2026",
+    "treta": true,
+    "drowned": true,
+    "gebco_elev_m": -6.0,
+    "plate_velocity_mm_yr": 59.2,
+    "plate_velocity_azimuth_deg": 50,
+    "tectonic_shift_m_since_epoch": 491,
+    "position_at_oldest_reference_epoch_nnr": [
+     9.59715,
+     79.54659
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     57.55,
+     -20.2
+    ]
+   },
+   "properties": {
+    "id": "mauritius",
+    "name": "Mauritius (tested as Lanka)",
+    "short": "Mauritius",
+    "sanskrit": "",
+    "valmiki_refs": "(modern proposal; not in Valmiki)",
+    "text_clue": "Island proposed by some as Lanka",
+    "identification": "Volcanic island < 9 Myr old over the buried microcontinent 'Mauritia'; 20 S, 3,804 km from Mahendragiri (100 yojanas = 38 km each); the three-peaked Trois Mamelles is a coincidence of shape",
+    "confidence": "low",
+    "coord_source": "Wikipedia (Mauritius)",
+    "rejected": true,
+    "treta": true,
+    "gebco_elev_m": null,
+    "plate_velocity_mm_yr": 60.5,
+    "plate_velocity_azimuth_deg": 56,
+    "tectonic_shift_m_since_epoch": 501,
+    "position_at_oldest_reference_epoch_nnr": [
+     -20.20251,
+     57.54601
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.53,
+     -21.12
+    ]
+   },
+   "properties": {
+    "id": "reunion",
+    "name": "Reunion (Mascarene hotspot island)",
+    "short": "Reunion",
+    "sanskrit": "",
+    "valmiki_refs": "(context)",
+    "text_clue": "Active hotspot volcano of the Mascarenes",
+    "identification": "Summit 3,070 m; 4,039 km from Mahendragiri; barely larger at the Treta sea level",
+    "confidence": "low",
+    "coord_source": "Wikipedia (Reunion)",
+    "treta": true,
+    "gebco_elev_m": null,
+    "plate_velocity_mm_yr": 60.5,
+    "plate_velocity_azimuth_deg": 57,
+    "tectonic_shift_m_since_epoch": 501,
+    "position_at_oldest_reference_epoch_nnr": [
+     -21.12246,
+     55.52595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     61.3,
+     -10.5
+    ]
+   },
+   "properties": {
+    "id": "drowned_saya_de_malha",
+    "name": "Drowned island: Saya de Malha Bank",
+    "short": "Saya de Malha (drowned)",
+    "sanskrit": "",
+    "valmiki_refs": "Treta / glacial-era land",
+    "text_clue": "Bank that was a large island at low sea level",
+    "identification": "~18,500 km2 of land at the Treta sea level (-90 m), ~29,000 km2 at -128 m; no land today (NOAA ETOPO 2022)",
+    "confidence": "low",
+    "coord_source": "Computed from NOAA ETOPO 2022",
+    "treta": true,
+    "drowned": true,
+    "gebco_elev_m": null,
+    "plate_velocity_mm_yr": 60.0,
+    "plate_velocity_azimuth_deg": 54,
+    "tectonic_shift_m_since_epoch": 497,
+    "position_at_oldest_reference_epoch_nnr": [
+     -10.5026,
+     61.2963
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     60.6,
+     -14.5
+    ]
+   },
+   "properties": {
+    "id": "drowned_nazareth_bank",
+    "name": "Drowned island: Nazareth Bank",
+    "short": "Nazareth Bank (drowned)",
+    "sanskrit": "",
+    "valmiki_refs": "Treta / glacial-era land",
+    "text_clue": "Bank that was a large island at low sea level",
+    "identification": "~15,000 km2 of land at -90 m; no land today (NOAA ETOPO 2022)",
+    "confidence": "low",
+    "coord_source": "Computed from NOAA ETOPO 2022",
+    "treta": true,
+    "drowned": true,
+    "gebco_elev_m": null,
+    "plate_velocity_mm_yr": 60.3,
+    "plate_velocity_azimuth_deg": 55,
+    "tectonic_shift_m_since_epoch": 500,
+    "position_at_oldest_reference_epoch_nnr": [
+     -14.50258,
+     60.5962
+    ]
+   }
+  }
+ ]
+}

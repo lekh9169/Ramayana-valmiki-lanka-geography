@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<meta name="description" content="Where was Lanka? GEBCO 2026 bathymetry, JPL astronomy and the Sanskrit text locate Lanka, the Setu and Rama&#x27;s route on two timelines.">
+<meta property="og:title" content="Lanka and the places of the Valmiki Ramayana: a data-driven geography">
+<meta property="og:description" content="Where was Lanka? GEBCO 2026 bathymetry, JPL astronomy and the Sanskrit text locate Lanka, the Setu and Rama&#x27;s route on two timelines.">
+<meta property="og:image" content="assets/og.png">
+<title>Lanka and the places of the Valmiki Ramayana: a data-driven geography</title>
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel='preconnect' href='https://fonts.googleapis.com'><link rel='preconnect' href='https://fonts.gstatic.com' crossorigin><link href='https://fonts.googleapis.com/css2?family=Hind:wght@400;500;600&family=Tiro+Devanagari+Sanskrit&display=swap' rel='stylesheet'>
+<link rel="stylesheet" href="assets/site.css">
+<link rel='stylesheet' href='https://unpkg.com/leaflet@1.9.4/dist/leaflet.css' crossorigin=''>
+</head>
+<body class="home">
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="index.html">Lanka <span>&amp;</span> the Valmiki places</a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="site-nav">Menu</button>
+    <nav class="nav" id="site-nav" aria-label="Site"><a href='index.html' aria-current="page">Overview</a><a href='report.html'>Historical edition</a><a href='report_treta_yuga.html'>Treta-Yuga edition</a><a href='map.html'>Map</a><a href='data.html'>Data</a><a href='about.html'>Method and sources</a></nav>
+  </div>
+</header>
+
+<section class="hero" aria-labelledby="hero-title">
+  <div class="hero-inner">
+    <div>
+      <h1 id="hero-title">Lanka and the places of the Valmiki Ramayana, measured</h1>
+      <p class="lede">The seafloor between India and Sri Lanka decides much of the story. Lower the sea and watch when
+      Adam's Bridge stands dry, when Sri Lanka becomes an island, and what the coast looked like at the end of the
+      Treta Yuga.</p>
+      <div class="readout" aria-live="polite">
+        <div class="level" id="level-value">0<small>m</small></div>
+        <p class="when" id="level-when"></p>
+        <p class="state" id="level-state"></p>
+      </div>
+      <div class="slider">
+        <label for="sea">Lower the sea</label>
+        <input id="sea" type="range" min="0" max="1000" step="1" value="100">
+        <div class="ends"><span>+2 m</span><span>−130 m</span></div>
+        <div class="jumps"><span>Jump to</span>
+          <button type="button" data-level="0">Today</button>
+          <button type="button" data-level="-3.5">Bridge surfaces</button>
+          <button type="button" data-level="-10">Rock sill</button>
+          <button type="button" data-level="-90">End of Treta</button>
+          <button type="button" data-level="-128">Ice age</button>
+        </div>
+      </div>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="report.html">Read the historical edition</a>
+        <a class="btn btn-quiet" href="report_treta_yuga.html">Read the Treta-Yuga edition</a>
+        <a class="btn btn-quiet" href="map.html">Open the map</a>
+      </div>
+    </div>
+    <div class="relief">
+      <canvas id="relief" role="img" aria-label="Relief of southern India and Sri Lanka from GEBCO 2026, flooded to the chosen sea level"></canvas>
+      <span class='tag ' data-lat='9.925' data-lon='78.12'>Madurai</span><span class='tag ' data-lat='8.078' data-lon='77.55'>Kanyakumari</span><span class='tag ' data-lat='9.288' data-lon='79.317'>Rameswaram</span><span class='tag bridge' data-lat='9.13' data-lon='79.58'>Adam's Bridge</span><span class='tag ' data-lat='8.98' data-lon='79.9'>Mannar</span><span class='tag ' data-lat='9.66' data-lon='80.01'>Jaffna</span><span class='tag ' data-lat='8.58' data-lon='81.23'>Trincomalee</span><span class='tag ' data-lat='6.93' data-lon='79.86'>Colombo</span><span class='tag ' data-lat='6.81' data-lon='80.5'>Sri Pada</span>
+      <span class="credit">GEBCO 2026</span>
+    </div>
+  </div>
+</section>
+<main>
+  <div class="wrap">
+    <h2>Two timelines, one dataset</h2>
+    <p>The same bathymetry, Sanskrit text and astronomy are read twice. The historical edition follows the text's own
+    month–season clues to the last few thousand years. The Treta-Yuga edition takes the Puranic chronology at its word
+    and recomputes the sky and the sea for about 870,000 years ago.</p>
+    <div class="split">
+      <section class="historical">
+        <h3>Historical edition</h3>
+        <dl>
+          <dt>Epoch</dt><dd>2951 BCE or later</dd>
+          <dt>Sea level</dt><dd>About today's</dd>
+          <dt>Sri Lanka</dt><dd>An island since about 5219 BCE</dd>
+          <dt>Lanka</dt><dd>Sri Lanka</dd>
+          <dt>Setu</dt><dd>Adam's Bridge: 32–46 km of shoal, 0–3 m deep</dd>
+          <dt>Birth sky</dt><dd>Four planets exalted on 29 Jan 6266 BCE, 10 Feb 4498 BCE</dd>
+        </dl>
+        <a class="go" href="report.html">Read the historical edition</a>
+      </section>
+      <section class="treta">
+        <h3>Treta-Yuga edition</h3>
+        <dl>
+          <dt>Epoch</dt><dd>End of Treta, 867,102 BCE</dd>
+          <dt>Sea level</dt><dd>-106 to -87 m</dd>
+          <dt>Sri Lanka</dt><dd>Joined to India by dry land</dd>
+          <dt>Lanka</dt><dd>No site passes every test; nearest equatorial land is the Huvadhu plateau</dd>
+          <dt>Setu</dt><dd>Not needed for Sri Lanka; impossible across 2,286 m of sea to the Maldives</dd>
+          <dt>Birth sky</dt><dd>Four planets exalted in 876,021, 870,719, 868,951 BCE</dd>
+        </dl>
+        <a class="go" href="report_treta_yuga.html">Read the Treta-Yuga edition</a>
+      </section>
+    </div>
+
+    <h2>What the data show</h2>
+    <ul class="findings">
+      <li>Adam's Bridge is the only shallow link between India and Sri Lanka. Its crest lies 0–3 m below today's sea,
+      and at the −4 m depth line it is about ten times longer than it is wide, as Valmiki's 100 × 10 yojanas says.</li>
+      <li>The sea rose over the bridge about 5219 BCE. Before that Sri Lanka was part of India and no causeway was
+      needed.</li>
+      <li>Rama's horoscope with five exalted planets cannot occur on any date. The ninth lunar day with the Moon in
+      Punarvasu places the Sun in late Pisces, outside its exaltation sign.</li>
+      <li>The month–season pairings of the Critical Edition hold only from about 2951 BCE onward.
+      Older proposed dates put Chaitra in winter.</li>
+      <li>At the end of Treta the sea stood about 90 m lower. The Palk Bay was dry land and the
+      Tamraparni ran some 30 km further to the sea.</li>
+      <li>The Surya Siddhanta's equatorial "Lanka", on Ujjain's meridian, lies under
+      4,308 m of ocean and was never land.</li>
+      <li>A limestone island of about 14,551 km² once stood on the Great Chagos Bank. Rising sea
+      level drowned it between about 10,000 and 8,000 years ago.</li>
+      <li>Valmiki's distances imply a yojana anywhere from 0.3 km to 28 km. The text's numbers are poetic, not surveyed.</li>
+    </ul>
+
+    <h2>Explore the places</h2>
+    <p>Every identification on one map, with the shore and coastline of the Treta epoch. Select a marker for the verse,
+    the reasoning and the coordinates. <a href="map.html">Open the full map</a>.</p>
+    <div id="map" class="map-preview" data-preview="true" role="region" aria-label="Preview map of the places"></div>
+
+    <h2>Key coordinates</h2>
+    <table class=""><thead><tr><th>Place</th><th>Coordinates (today)</th><th>Identification</th><th>At the end of Treta</th></tr></thead><tbody><tr><td><b>Ayodhya</b></td><td>26.7956°N, 82.1943°E</td><td>Ayodhya, Uttar Pradesh: Ram Janmabhoomi site on the right bank of the Sarayu (Ghaghara)</td><td>inland</td></tr><tr><td><b>Prayaga (Bharadvaja&#x27;s ashram)</b></td><td>25.4575°N, 81.8585°E</td><td>Bharadwaj Ashram, Colonelganj, Prayagraj (proxy: Bharadwaj Park); confluence = Triveni Sangam</td><td>inland</td></tr><tr><td><b>Chitrakuta</b></td><td>25.1714°N, 80.8532°E</td><td>Kamadgiri hill, Chitrakoot (Kamta Nath temple); Mandakini at Ramghat</td><td>inland</td></tr><tr><td><b>Panchavati</b></td><td>20.0067°N, 73.7936°E</td><td>Panchavati, Nashik (Sita Gufa / Kalaram temple) on the Godavari</td><td>inland</td></tr><tr><td><b>Kishkindha</b></td><td>15.3527°N, 76.4919°E</td><td>Anegundi on the Tungabhadra</td><td>inland</td></tr><tr><td><b>Malaya mountain (Agastya&#x27;s peak)</b></td><td>8.6163°N, 77.2457°E</td><td>Agastya Mala (Pothigai), 1,868 m, southern Western Ghats</td><td>inland</td></tr><tr><td><b>Mahendra mountain</b></td><td>8.3883°N, 77.5214°E</td><td>Mahendragiri, Tirunelveli-Kanyakumari border: summit 1,654 m (GEBCO 1,555 m)</td><td>88 km to the sea</td></tr><tr><td><b>Tamraparni river (mouth)</b></td><td>8.6413°N, 78.1273°E</td><td>Thamirabarani river mouth at Punnakayal, Thoothukudi district</td><td>30 km to the sea</td></tr><tr><td><b>Setu: Indian end</b></td><td>9.1504°N, 79.4491°E</td><td>Arichal Munai, tip of the Dhanushkodi spit: western end of Adam&#x27;s Bridge (Rama Setu)</td><td>23 km to the sea</td></tr><tr><td><b>Setu: Lanka end</b></td><td>9.1055°N, 79.7307°E</td><td>Talaimannar, west tip of Mannar island: eastern end of Adam&#x27;s Bridge</td><td>36 km to the sea</td></tr><tr><td><b>Lanka (the island)</b></td><td>7.8731°N, 80.7718°E</td><td>Sri Lanka (geographic centre): the only island off the Tamraparni/Pandya coast joined to it by a shoal</td><td>83 km to the sea</td></tr></tbody></table>
+    <p class="small">The full lists, with Sanskrit names, verse references and confidence, are in Section 7 of the
+    historical edition and Section 1 of the Treta-Yuga edition. Download them as KML for Google Earth, GeoJSON or CSV on
+    the <a href="data.html">Data</a> page.</p>
+  </div>
+</main>
+<footer class="footer">
+  <div class="footer-inner">
+    <div>
+      <p>Bathymetry and land elevation: GEBCO Compilation Group (2026) GEBCO 2026 Grid (doi: 10.5285/4f68d5c7-45eb-f999-e063-7086abc036fa). The GEBCO Grid must not be used for navigation
+      or for any purpose involving safety at sea. This site is an independent study and is not endorsed by GEBCO,
+      the IHO or the IOC.</p>
+      <p>Planetary positions from JPL DE441/DE440s (NASA). Sea-level reconstructions from NOAA's World Data Service
+      for Paleoclimatology. Site coordinates from Wikipedia, &copy; OpenStreetMap contributors and Indian district
+      portals. Full credits on <a href="about.html">Method and sources</a>.</p>
+    </div>
+    <div>
+      <p>Two readings of one dataset: a <a href="report.html">historical edition</a> and a
+      <a href="report_treta_yuga.html">Treta-Yuga edition</a>. Every number on this site is recomputed by the scripts in
+      this repository.</p>
+      <p>Built 11 November 2026.</p>
+    </div>
+  </div>
+</footer>
+<script src='https://unpkg.com/leaflet@1.9.4/dist/leaflet.js' crossorigin=''></script><script src='assets/site.js' defer></script><script src='assets/hero.js' defer></script><script src='assets/map.js' defer></script>
+</body>
+</html>

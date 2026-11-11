@@ -1,0 +1,78 @@
+{
+ "obliquity": {
+  "at_869ka_deg": 23.74795,
+  "today_deg": 23.446,
+  "last_1myr_range_deg": [
+   22.079,
+   24.48
+  ]
+ },
+ "tpw": [
+  {
+   "pole_toward_lon": 284.0,
+   "lat": 0.516,
+   "lon": 75.841,
+   "depth_m": -3920.0,
+   "delta_deg": 0.25,
+   "was_land": false
+  },
+  {
+   "pole_toward_lon": 358.0,
+   "lat": 0.189,
+   "lon": 75.998,
+   "depth_m": -3993.0,
+   "delta_deg": 0.5,
+   "was_land": false
+  },
+  {
+   "pole_toward_lon": 230.0,
+   "lat": 1.2,
+   "lon": 75.617,
+   "depth_m": -3576.0,
+   "delta_deg": 1.0,
+   "was_land": false
+  },
+  {
+   "pole_toward_lon": 208.0,
+   "lat": 1.319,
+   "lon": 75.347,
+   "depth_m": -3246.0,
+   "delta_deg": 1.5,
+   "was_land": false
+  },
+  {
+   "pole_toward_lon": 190.0,
+   "lat": 1.15,
+   "lon": 75.054,
+   "depth_m": -2884.0,
+   "delta_deg": 2.0,
+   "was_land": false
+  },
+  {
+   "pole_toward_lon": 208.0,
+   "lat": 2.358,
+   "lon": 74.948,
+   "depth_m": -2243.0,
+   "delta_deg": 3.0,
+   "was_land": false
+  },
+  {
+   "pole_toward_lon": 190.0,
+   "lat": 2.049,
+   "lon": 74.381,
+   "depth_m": -1255.0,
+   "delta_deg": 4.0,
+   "was_land": false
+  }
+ ],
+ "no_tpw_point": [
+  0.2959,
+  75.7911
+ ],
+ "minimum_tpw_for_land": {
+  "delta_deg": 5.3,
+  "pole_toward_lon": 164.0,
+  "lat": 0.368,
+  "lon": 73.555
+ }
+}

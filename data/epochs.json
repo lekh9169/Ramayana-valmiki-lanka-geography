@@ -1,0 +1,105 @@
+[
+ {
+  "label": "Last Glacial Maximum",
+  "short": "LGM",
+  "age_ka": 20.0,
+  "panel": true,
+  "chart": true,
+  "color": "#6c757d",
+  "kind": "geology"
+ },
+ {
+  "label": "c. 12,209 BCE \u2014 published claim (N. Oak 2014)",
+  "short": "12209 BCE claim",
+  "age_ka": 14.158,
+  "panel": true,
+  "chart": true,
+  "color": "#7b2cbf",
+  "kind": "claim"
+ },
+ {
+  "label": "Start of the Holocene",
+  "short": "Holocene start",
+  "age_ka": 11.7,
+  "panel": true,
+  "chart": false,
+  "color": "#6c757d",
+  "kind": "geology"
+ },
+ {
+  "label": "7120 BCE \u2014 DE441 'Sun in Aries' reading",
+  "short": "7120 BCE (alt.)",
+  "age_ka": 9.069,
+  "panel": true,
+  "chart": true,
+  "color": "#f77f00",
+  "kind": "astro_alt",
+  "profile": false
+ },
+ {
+  "label": "6266 BCE \u2014 DE441 strict reading (A)",
+  "short": "6266 BCE (A)",
+  "age_ka": 8.215,
+  "panel": true,
+  "chart": true,
+  "color": "#e85d04",
+  "kind": "astro_strict",
+  "profile": true
+ },
+ {
+  "label": "5352 BCE \u2014 DE441 'Sun in Aries' reading",
+  "short": "5352 BCE (alt.)",
+  "age_ka": 7.301,
+  "panel": true,
+  "chart": true,
+  "color": "#f77f00",
+  "kind": "astro_alt"
+ },
+ {
+  "label": "5114 BCE \u2014 published claim (P. Bhatnagar 2004)",
+  "short": "5114 BCE claim",
+  "age_ka": 7.063,
+  "panel": false,
+  "chart": true,
+  "color": "#7b2cbf",
+  "kind": "claim"
+ },
+ {
+  "label": "4498 BCE \u2014 DE441 strict reading (B)",
+  "short": "4498 BCE (B)",
+  "age_ka": 6.447,
+  "panel": true,
+  "chart": true,
+  "color": "#9d0208",
+  "kind": "astro_strict",
+  "profile": true
+ },
+ {
+  "label": "c. 1150 BCE \u2014 earliest epoch with Chaitra in spring (Vasanta)",
+  "short": "Chaitra=spring",
+  "age_ka": 3.099,
+  "panel": false,
+  "chart": true,
+  "color": "#2a9d8f",
+  "kind": "season"
+ },
+ {
+  "label": "c. 300 BCE \u2014 philological composition era",
+  "short": "c. 300 BCE text",
+  "age_ka": 2.249,
+  "panel": true,
+  "chart": true,
+  "color": "#2a9d8f",
+  "kind": "philology",
+  "profile": true
+ },
+ {
+  "label": "Present (GEBCO 2026)",
+  "short": "present",
+  "age_ka": -0.076,
+  "panel": true,
+  "chart": false,
+  "color": "#1d4e89",
+  "kind": "present"
+ }
+]

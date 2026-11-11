@@ -1,0 +1,261 @@
+{
+ "bhatnagar_5114BCE": {
+  "assumption": "10 Jan 5114 BCE Julian, 12:30 local mean time at Ayodhya",
+  "delta_t_days": 1.78,
+  "without_delta_t": {
+   "date": "10 Jan 5114 BCE (Julian cal., astronomical year -5113)",
+   "jd_tdb": -146456.208,
+   "tithi": "Shukla 5",
+   "moon_nakshatra": "Bharani",
+   "signs": {
+    "sun": "Aquarius",
+    "moon": "Aries",
+    "mercury": "Capricorn",
+    "venus": "Pisces",
+    "mars": "Aries",
+    "jupiter": "Leo",
+    "saturn": "Scorpio"
+   },
+   "exalted": [
+    "venus"
+   ],
+   "sidereal_lon": {
+    "sun": 325.05,
+    "moon": 22.18,
+    "mercury": 297.46,
+    "venus": 332.91,
+    "mars": 27.21,
+    "jupiter": 139.07,
+    "saturn": 223.76
+   },
+   "tropical_sun": 251.1,
+   "ritu_of_sun": "Hemanta"
+  },
+  "with_delta_t": {
+   "date": "12 Jan 5114 BCE (Julian cal., astronomical year -5113)",
+   "jd_tdb": -146454.428,
+   "tithi": "Shukla 7",
+   "moon_nakshatra": "Rohini",
+   "signs": {
+    "sun": "Aquarius",
+    "moon": "Taurus",
+    "mercury": "Capricorn",
+    "venus": "Pisces",
+    "mars": "Aries",
+    "jupiter": "Leo",
+    "saturn": "Scorpio"
+   },
+   "exalted": [
+    "moon",
+    "venus"
+   ],
+   "sidereal_lon": {
+    "sun": 326.81,
+    "moon": 45.09,
+    "mercury": 299.31,
+    "venus": 331.82,
+    "mars": 28.27,
+    "jupiter": 138.84,
+    "saturn": 223.77
+   },
+   "tropical_sun": 252.9,
+   "ritu_of_sun": "Hemanta"
+  }
+ },
+ "sun_in_aries_reading": [
+  {
+   "date": "17 Feb 7120 BCE (Julian cal., astronomical year -7119)",
+   "jd_tdb": -879109.042,
+   "tithi": "Shukla 6",
+   "moon_nakshatra": "Punarvasu",
+   "signs": {
+    "sun": "Aries",
+    "moon": "Gemini",
+    "mercury": "Aries",
+    "venus": "Pisces",
+    "mars": "Capricorn",
+    "jupiter": "Cancer",
+    "saturn": "Libra"
+   },
+   "exalted": [
+    "sun",
+    "venus",
+    "mars",
+    "jupiter",
+    "saturn"
+   ],
+   "sidereal_lon": {
+    "sun": 14.85,
+    "moon": 80.25,
+    "mercury": 15.01,
+    "venus": 342.8,
+    "mars": 279.67,
+    "jupiter": 93.51,
+    "saturn": 187.51
+   },
+   "tropical_sun": 273.9,
+   "ritu_of_sun": "Shishira"
+  },
+  {
+   "date": "01 Mar 5352 BCE (Julian cal., astronomical year -5351)",
+   "jd_tdb": -233334.625,
+   "tithi": "Shukla 6",
+   "moon_nakshatra": "Punarvasu",
+   "signs": {
+    "sun": "Aries",
+    "moon": "Gemini",
+    "mercury": "Aries",
+    "venus": "Pisces",
+    "mars": "Capricorn",
+    "jupiter": "Cancer",
+    "saturn": "Libra"
+   },
+   "exalted": [
+    "sun",
+    "venus",
+    "mars",
+    "jupiter",
+    "saturn"
+   ],
+   "sidereal_lon": {
+    "sun": 16.13,
+    "moon": 80.14,
+    "mercury": 4.97,
+    "venus": 335.49,
+    "mars": 286.47,
+    "jupiter": 111.47,
+    "saturn": 194.88
+   },
+   "tropical_sun": 299.0,
+   "ritu_of_sun": "Shishira"
+  }
+ ],
+ "strict_reading_candidates": [
+  {
+   "date": "29 Jan 6266 BCE (Julian cal., astronomical year -6265)",
+   "jd_tdb": -567205.125,
+   "tithi": "Shukla 9",
+   "moon_nakshatra": "Punarvasu",
+   "signs": {
+    "sun": "Pisces",
+    "moon": "Cancer",
+    "mercury": "Aquarius",
+    "venus": "Pisces",
+    "mars": "Capricorn",
+    "jupiter": "Cancer",
+    "saturn": "Libra"
+   },
+   "exalted": [
+    "venus",
+    "mars",
+    "jupiter",
+    "saturn"
+   ],
+   "sidereal_lon": {
+    "sun": 350.86,
+    "moon": 90.03,
+    "mercury": 323.57,
+    "venus": 340.29,
+    "mars": 283.72,
+    "jupiter": 90.44,
+    "saturn": 186.59
+   },
+   "tropical_sun": 261.4,
+   "ritu_of_sun": "Hemanta"
+  },
+  {
+   "date": "10 Feb 4498 BCE (Julian cal., astronomical year -4497)",
+   "jd_tdb": 78568.958,
+   "tithi": "Shukla 9",
+   "moon_nakshatra": "Punarvasu",
+   "signs": {
+    "sun": "Pisces",
+    "moon": "Cancer",
+    "mercury": "Aquarius",
+    "venus": "Pisces",
+    "mars": "Capricorn",
+    "jupiter": "Cancer",
+    "saturn": "Libra"
+   },
+   "exalted": [
+    "venus",
+    "mars",
+    "jupiter",
+    "saturn"
+   ],
+   "sidereal_lon": {
+    "sun": 351.74,
+    "moon": 90.18,
+    "mercury": 327.14,
+    "venus": 330.48,
+    "mars": 288.54,
+    "jupiter": 109.85,
+    "saturn": 193.7
+   },
+   "tropical_sun": 286.2,
+   "ritu_of_sun": "Shishira"
+  }
+ ],
+ "chaitra_season_by_epoch": [
+  {
+   "year": -12000,
+   "tropical_sun": 184.4,
+   "ritu": "Sharad"
+  },
+  {
+   "year": -10000,
+   "tropical_sun": 210.5,
+   "ritu": "Hemanta"
+  },
+  {
+   "year": -8000,
+   "tropical_sun": 237.5,
+   "ritu": "Hemanta"
+  },
+  {
+   "year": -6265,
+   "tropical_sun": 260.1,
+   "ritu": "Hemanta"
+  },
+  {
+   "year": -5113,
+   "tropical_sun": 276.3,
+   "ritu": "Shishira"
+  },
+  {
+   "year": -4497,
+   "tropical_sun": 284.8,
+   "ritu": "Shishira"
+  },
+  {
+   "year": -3000,
+   "tropical_sun": 304.4,
+   "ritu": "Shishira"
+  },
+  {
+   "year": -1500,
+   "tropical_sun": 325.4,
+   "ritu": "Shishira"
+  },
+  {
+   "year": -500,
+   "tropical_sun": 338.8,
+   "ritu": "Vasanta"
+  },
+  {
+   "year": 0,
+   "tropical_sun": 346.5,
+   "ritu": "Vasanta"
+  },
+  {
+   "year": 500,
+   "tropical_sun": 353.3,
+   "ritu": "Vasanta"
+  },
+  {
+   "year": 1950,
+   "tropical_sun": 12.7,
+   "ritu": "Vasanta"
+  }
+ ]
+}

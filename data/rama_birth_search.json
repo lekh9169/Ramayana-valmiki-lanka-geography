@@ -1,0 +1,231 @@
+{
+ "range": [
+  "01 Jan 13001 BCE (Julian cal., astronomical year -13000)",
+  "01 Jan 1 BCE (Julian cal., astronomical year 0)"
+ ],
+ "runs": [
+  {
+   "ayanamsa_offset_deg": -6.0,
+   "stage1_windows": 5,
+   "max_mercury_elongation_deg": 27.76,
+   "matches": [
+    {
+     "jd_tdb": -567205.3333,
+     "date": "29 Jan 6266 BCE (Julian cal., astronomical year -6265)",
+     "hours_navami_and_punarvasu": 1,
+     "hours_also_moon_in_cancer": 1,
+     "exalted_count": 4,
+     "exalted": [
+      "venus",
+      "mars",
+      "jupiter",
+      "saturn"
+     ],
+     "lon": {
+      "sun": 356.66,
+      "moon": 93.14,
+      "mercury": 329.35,
+      "venus": 346.03,
+      "mars": 289.56,
+      "jupiter": 96.43,
+      "saturn": 192.6
+     }
+    }
+   ]
+  },
+  {
+   "ayanamsa_offset_deg": -4.0,
+   "stage1_windows": 4,
+   "max_mercury_elongation_deg": 27.76,
+   "matches": [
+    {
+     "jd_tdb": -567205.3333,
+     "date": "29 Jan 6266 BCE (Julian cal., astronomical year -6265)",
+     "hours_navami_and_punarvasu": 4,
+     "hours_also_moon_in_cancer": 4,
+     "exalted_count": 4,
+     "exalted": [
+      "venus",
+      "mars",
+      "jupiter",
+      "saturn"
+     ],
+     "lon": {
+      "sun": 354.66,
+      "moon": 91.14,
+      "mercury": 327.35,
+      "venus": 344.03,
+      "mars": 287.56,
+      "jupiter": 94.43,
+      "saturn": 190.6
+     }
+    },
+    {
+     "jd_tdb": 78568.7917,
+     "date": "10 Feb 4498 BCE (Julian cal., astronomical year -4497)",
+     "hours_navami_and_punarvasu": 3,
+     "hours_also_moon_in_cancer": 3,
+     "exalted_count": 4,
+     "exalted": [
+      "venus",
+      "mars",
+      "jupiter",
+      "saturn"
+     ],
+     "lon": {
+      "sun": 355.58,
+      "moon": 92.05,
+      "mercury": 331.07,
+      "venus": 334.28,
+      "mars": 292.41,
+      "jupiter": 113.86,
+      "saturn": 197.72
+     }
+    }
+   ]
+  },
+  {
+   "ayanamsa_offset_deg": -2.0,
+   "stage1_windows": 5,
+   "max_mercury_elongation_deg": 27.76,
+   "matches": [
+    {
+     "jd_tdb": -567205.25,
+     "date": "29 Jan 6266 BCE (Julian cal., astronomical year -6265)",
+     "hours_navami_and_punarvasu": 8,
+     "hours_also_moon_in_cancer": 6,
+     "exalted_count": 4,
+     "exalted": [
+      "venus",
+      "mars",
+      "jupiter",
+      "saturn"
+     ],
+     "lon": {
+      "sun": 352.74,
+      "moon": 90.29,
+      "mercury": 325.44,
+      "venus": 342.13,
+      "mars": 285.62,
+      "jupiter": 92.43,
+      "saturn": 188.6
+     }
+    },
+    {
+     "jd_tdb": 78568.7917,
+     "date": "10 Feb 4498 BCE (Julian cal., astronomical year -4497)",
+     "hours_navami_and_punarvasu": 7,
+     "hours_also_moon_in_cancer": 7,
+     "exalted_count": 4,
+     "exalted": [
+      "venus",
+      "mars",
+      "jupiter",
+      "saturn"
+     ],
+     "lon": {
+      "sun": 353.58,
+      "moon": 90.05,
+      "mercury": 329.07,
+      "venus": 332.28,
+      "mars": 290.41,
+      "jupiter": 111.86,
+      "saturn": 195.72
+     }
+    }
+   ]
+  },
+  {
+   "ayanamsa_offset_deg": 0.0,
+   "stage1_windows": 4,
+   "max_mercury_elongation_deg": 27.76,
+   "matches": [
+    {
+     "jd_tdb": -567205.125,
+     "date": "29 Jan 6266 BCE (Julian cal., astronomical year -6265)",
+     "hours_navami_and_punarvasu": 11,
+     "hours_also_moon_in_cancer": 6,
+     "exalted_count": 4,
+     "exalted": [
+      "venus",
+      "mars",
+      "jupiter",
+      "saturn"
+     ],
+     "lon": {
+      "sun": 350.86,
+      "moon": 90.03,
+      "mercury": 323.57,
+      "venus": 340.29,
+      "mars": 283.72,
+      "jupiter": 90.44,
+      "saturn": 186.59
+     }
+    },
+    {
+     "jd_tdb": 78568.9583,
+     "date": "10 Feb 4498 BCE (Julian cal., astronomical year -4497)",
+     "hours_navami_and_punarvasu": 10,
+     "hours_also_moon_in_cancer": 6,
+     "exalted_count": 4,
+     "exalted": [
+      "venus",
+      "mars",
+      "jupiter",
+      "saturn"
+     ],
+     "lon": {
+      "sun": 351.74,
+      "moon": 90.18,
+      "mercury": 327.14,
+      "venus": 330.48,
+      "mars": 288.54,
+      "jupiter": 109.85,
+      "saturn": 193.7
+     }
+    }
+   ]
+  },
+  {
+   "ayanamsa_offset_deg": 2.0,
+   "stage1_windows": 5,
+   "max_mercury_elongation_deg": 27.76,
+   "matches": [
+    {
+     "jd_tdb": 165123.75,
+     "date": "01 Feb 4261 BCE (Julian cal., astronomical year -4260)",
+     "hours_navami_and_punarvasu": 15,
+     "hours_also_moon_in_cancer": 0,
+     "exalted_count": 4,
+     "exalted": [
+      "venus",
+      "mars",
+      "jupiter",
+      "saturn"
+     ],
+     "lon": {
+      "sun": 339.05,
+      "moon": 80.41,
+      "mercury": 318.53,
+      "venus": 351.87,
+      "mars": 280.93,
+      "jupiter": 100.26,
+      "saturn": 208.64
+     }
+    }
+   ]
+  },
+  {
+   "ayanamsa_offset_deg": 4.0,
+   "stage1_windows": 4,
+   "max_mercury_elongation_deg": 27.76,
+   "matches": []
+  },
+  {
+   "ayanamsa_offset_deg": 6.0,
+   "stage1_windows": 4,
+   "max_mercury_elongation_deg": 27.76,
+   "matches": []
+  }
+ ]
+}

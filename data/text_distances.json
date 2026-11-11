@@ -1,0 +1,54 @@
+{
+ "distances": [
+  {
+   "clue": "Prayaga to Chitrakuta",
+   "ref": "2.54.28 (CE 2.48.25)",
+   "stated": "10 krosha",
+   "measured_km": 105.9,
+   "implied_km_per_unit": 10.59,
+   "unit": "krosha"
+  },
+  {
+   "clue": "Agastya's ashram (Akole) to Panchavati",
+   "ref": "3.13.13 (CE 3.12.13)",
+   "stated": "2 yojanas",
+   "measured_km": 55.4,
+   "implied_km_per_unit": 27.69,
+   "unit": "yojana"
+  },
+  {
+   "clue": "Mahendragiri to the Sri Lankan coast (Hanuman's leap)",
+   "ref": "4.58.20; 5.1.200 (CE 4.57.20; 5.1.182)",
+   "stated": "100 yojanas",
+   "measured_km": 244.3,
+   "implied_km_per_unit": 2.44,
+   "unit": "yojana"
+  },
+  {
+   "clue": "Setu: Dhanushkodi tip to Mannar island",
+   "ref": "6.22.74 (CE 6.15.20)",
+   "stated": "100 yojanas long",
+   "measured_km": 32.4,
+   "implied_km_per_unit": 0.32,
+   "unit": "yojana"
+  },
+  {
+   "clue": "Setu width (shoal at the -4 m isobath)",
+   "ref": "6.22.74 (CE 6.15.20)",
+   "stated": "10 yojanas wide",
+   "measured_km": 4.8,
+   "implied_km_per_unit": 0.48,
+   "unit": "yojana"
+  },
+  {
+   "clue": "Length of the island of Lanka (Sri Lanka, Point Pedro to Dondra Head)",
+   "ref": "4.41.24 (CE 4.40.24)",
+   "stated": "100 yojanas long",
+   "measured_km": 437.0,
+   "implied_km_per_unit": 4.37,
+   "unit": "yojana"
+  }
+ ],
+ "rishyamuka_bearing_from_pampa_deg": 218.0,
+ "rishyamuka_note": "Text: Rishyamuka is 'purastat' (in front of / east of) Pampa (3.73.31, CE 3.69.24)"
+}

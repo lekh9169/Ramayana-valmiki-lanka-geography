@@ -1,0 +1,6215 @@
+{
+ "chronology": {
+  "puranic_treta_end_bce": 867102,
+  "puranic_treta_end_ka_bp": 869.05,
+  "puranic_treta_start_bce": 2163102,
+  "rama_24th_mahayuga_treta_end_bce": 18147102,
+  "manusmriti_literal_treta_bce": [
+   9102,
+   5502
+  ]
+ },
+ "sea_level": {
+  "at_treta_end_m": -90.4,
+  "within_10kyr_m": [
+   -106.3,
+   -18.1
+  ],
+  "last_1myr_min_m": -127.6,
+  "fraction_last_1myr_below_minus10m": 0.946,
+  "source": "Bintanja & van de Wal 2008 (Nature 454:869), NOAA WDC Paleo #2011-119"
+ },
+ "ridge_subsidence_since_m": 21.5,
+ "plate": {
+  "ujjain_then": [
+   22.8754,
+   75.4271
+  ],
+  "equator_x_ujjain_meridian_then_in_present_coords": [
+   0.2959,
+   75.7911
+  ],
+  "depth_there_m": -4308.0,
+  "equator_then_in_present_coords": [
+   [
+    0.2824,
+    66.3639
+   ],
+   [
+    0.2833,
+    66.8639
+   ],
+   [
+    0.2842,
+    67.3639
+   ],
+   [
+    0.2851,
+    67.8639
+   ],
+   [
+    0.2859,
+    68.3639
+   ],
+   [
+    0.2868,
+    68.8639
+   ],
+   [
+    0.2876,
+    69.3639
+   ],
+   [
+    0.2883,
+    69.8639
+   ],
+   [
+    0.2891,
+    70.3639
+   ],
+   [
+    0.2898,
+    70.8639
+   ],
+   [
+    0.2906,
+    71.3639
+   ],
+   [
+    0.2913,
+    71.8639
+   ],
+   [
+    0.2919,
+    72.364
+   ],
+   [
+    0.2926,
+    72.864
+   ],
+   [
+    0.2932,
+    73.364
+   ],
+   [
+    0.2938,
+    73.864
+   ],
+   [
+    0.2944,
+    74.364
+   ],
+   [
+    0.2949,
+    74.864
+   ],
+   [
+    0.2955,
+    75.364
+   ],
+   [
+    0.296,
+    75.864
+   ],
+   [
+    0.2965,
+    76.364
+   ],
+   [
+    0.297,
+    76.864
+   ],
+   [
+    0.2974,
+    77.364
+   ],
+   [
+    0.2978,
+    77.864
+   ],
+   [
+    0.2982,
+    78.364
+   ],
+   [
+    0.2986,
+    78.864
+   ],
+   [
+    0.299,
+    79.364
+   ],
+   [
+    0.2993,
+    79.864
+   ],
+   [
+    0.2996,
+    80.3641
+   ],
+   [
+    0.2999,
+    80.8641
+   ],
+   [
+    0.3002,
+    81.3641
+   ],
+   [
+    0.3004,
+    81.8641
+   ],
+   [
+    0.3006,
+    82.3641
+   ],
+   [
+    0.3008,
+    82.8641
+   ]
+  ]
+ },
+ "cases": {
+  "treta_sea_level": {
+   "sea_level_m": -90.4,
+   "sri_lanka_joined_to_india": true,
+   "landmasses": [
+    {
+     "label": 1,
+     "is_india": true,
+     "centroid": [
+      11.315,
+      77.921
+     ],
+     "area_km2": 529588,
+     "summit": [
+      11.402,
+      76.74
+     ],
+     "relief_above_sea_m": 2653,
+     "km_from_mahendragiri": 0,
+     "km_per_yojana_if_100": 0.0,
+     "km_from_equator": 1258,
+     "km_from_ujjain_meridian_then": 272
+    },
+    {
+     "label": 115,
+     "is_india": false,
+     "centroid": [
+      -6.214,
+      72.037
+     ],
+     "area_km2": 14429,
+     "summit": [
+      -5.656,
+      72.065
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 1653,
+     "km_per_yojana_if_100": 16.53,
+     "km_from_equator": 691,
+     "km_from_ujjain_meridian_then": 375
+    },
+    {
+     "label": 74,
+     "is_india": false,
+     "centroid": [
+      6.281,
+      73.134
+     ],
+     "area_km2": 4636,
+     "summit": [
+      6.985,
+      73.173
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 498,
+     "km_per_yojana_if_100": 4.98,
+     "km_from_equator": 698,
+     "km_from_ujjain_meridian_then": 253
+    },
+    {
+     "label": 100,
+     "is_india": false,
+     "centroid": [
+      0.519,
+      73.283
+     ],
+     "area_km2": 3737,
+     "summit": [
+      0.377,
+      73.573
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 949,
+     "km_per_yojana_if_100": 9.49,
+     "km_from_equator": 58,
+     "km_from_ujjain_meridian_then": 238
+    },
+    {
+     "label": 93,
+     "is_india": false,
+     "centroid": [
+      3.249,
+      73.486
+     ],
+     "area_km2": 2822,
+     "summit": [
+      3.119,
+      73.656
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 684,
+     "km_per_yojana_if_100": 6.84,
+     "km_from_equator": 361,
+     "km_from_ujjain_meridian_then": 215
+    },
+    {
+     "label": 90,
+     "is_india": false,
+     "centroid": [
+      3.857,
+      72.832
+     ],
+     "area_km2": 2714,
+     "summit": [
+      3.485,
+      72.723
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 688,
+     "km_per_yojana_if_100": 6.88,
+     "km_from_equator": 429,
+     "km_from_ujjain_meridian_then": 288
+    },
+    {
+     "label": 82,
+     "is_india": false,
+     "centroid": [
+      5.426,
+      72.955
+     ],
+     "area_km2": 2648,
+     "summit": [
+      5.277,
+      72.956
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 570,
+     "km_per_yojana_if_100": 5.7,
+     "km_from_equator": 603,
+     "km_from_ujjain_meridian_then": 274
+    },
+    {
+     "label": 121,
+     "is_india": false,
+     "centroid": [
+      -7.09,
+      71.306
+     ],
+     "area_km2": 2088,
+     "summit": [
+      -7.273,
+      71.19
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 1829,
+     "km_per_yojana_if_100": 18.29,
+     "km_from_equator": 788,
+     "km_from_ujjain_meridian_then": 455
+    },
+    {
+     "label": 98,
+     "is_india": false,
+     "centroid": [
+      2.378,
+      73.105
+     ],
+     "area_km2": 1942,
+     "summit": [
+      2.41,
+      73.381
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 800,
+     "km_per_yojana_if_100": 8.0,
+     "km_from_equator": 264,
+     "km_from_ujjain_meridian_then": 258
+    },
+    {
+     "label": 87,
+     "is_india": false,
+     "centroid": [
+      4.459,
+      73.495
+     ],
+     "area_km2": 1835,
+     "summit": [
+      4.552,
+      73.656
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 599,
+     "km_per_yojana_if_100": 5.99,
+     "km_from_equator": 496,
+     "km_from_ujjain_meridian_then": 214
+    },
+    {
+     "label": 95,
+     "is_india": false,
+     "centroid": [
+      3.001,
+      72.932
+     ],
+     "area_km2": 1782,
+     "summit": [
+      3.319,
+      72.823
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 753,
+     "km_per_yojana_if_100": 7.53,
+     "km_from_equator": 334,
+     "km_from_ujjain_meridian_then": 277
+    },
+    {
+     "label": 99,
+     "is_india": false,
+     "centroid": [
+      1.937,
+      73.415
+     ],
+     "area_km2": 1073,
+     "summit": [
+      1.794,
+      73.281
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 820,
+     "km_per_yojana_if_100": 8.2,
+     "km_from_equator": 215,
+     "km_from_ujjain_meridian_then": 224
+    },
+    {
+     "label": 108,
+     "is_india": false,
+     "centroid": [
+      -5.311,
+      71.83
+     ],
+     "area_km2": 1022,
+     "summit": [
+      -5.481,
+      71.781
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 1631,
+     "km_per_yojana_if_100": 16.31,
+     "km_from_equator": 591,
+     "km_from_ujjain_meridian_then": 398
+    },
+    {
+     "label": 105,
+     "is_india": false,
+     "centroid": [
+      -4.927,
+      72.328
+     ],
+     "area_km2": 983,
+     "summit": [
+      -5.081,
+      72.323
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 1560,
+     "km_per_yojana_if_100": 15.6,
+     "km_from_equator": 548,
+     "km_from_ujjain_meridian_then": 343
+    },
+    {
+     "label": 84,
+     "is_india": false,
+     "centroid": [
+      5.398,
+      73.509
+     ],
+     "area_km2": 815,
+     "summit": [
+      5.252,
+      73.573
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 539,
+     "km_per_yojana_if_100": 5.39,
+     "km_from_equator": 600,
+     "km_from_ujjain_meridian_then": 212
+    },
+    {
+     "label": 92,
+     "is_india": false,
+     "centroid": [
+      3.977,
+      73.446
+     ],
+     "area_km2": 577,
+     "summit": [
+      4.027,
+      73.556
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 649,
+     "km_per_yojana_if_100": 6.49,
+     "km_from_equator": 442,
+     "km_from_ujjain_meridian_then": 220
+    },
+    {
+     "label": 50,
+     "is_india": false,
+     "centroid": [
+      10.925,
+      72.585
+     ],
+     "area_km2": 534,
+     "summit": [
+      11.119,
+      72.656
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 599,
+     "km_per_yojana_if_100": 5.99,
+     "km_from_equator": 1215,
+     "km_from_ujjain_meridian_then": 310
+    },
+    {
+     "label": 71,
+     "is_india": false,
+     "centroid": [
+      7.02,
+      72.923
+     ],
+     "area_km2": 418,
+     "summit": [
+      7.052,
+      73.04
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 512,
+     "km_per_yojana_if_100": 5.12,
+     "km_from_equator": 781,
+     "km_from_ujjain_meridian_then": 276
+    },
+    {
+     "label": 80,
+     "is_india": false,
+     "centroid": [
+      6.31,
+      72.62
+     ],
+     "area_km2": 381,
+     "summit": [
+      6.377,
+      72.723
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 573,
+     "km_per_yojana_if_100": 5.73,
+     "km_from_equator": 702,
+     "km_from_ujjain_meridian_then": 310
+    },
+    {
+     "label": 27,
+     "is_india": false,
+     "centroid": [
+      12.674,
+      72.614
+     ],
+     "area_km2": 330,
+     "summit": [
+      12.727,
+      72.44
+     ],
+     "relief_above_sea_m": 77,
+     "km_from_mahendragiri": 702,
+     "km_per_yojana_if_100": 7.02,
+     "km_from_equator": 1409,
+     "km_from_ujjain_meridian_then": 305
+    },
+    {
+     "label": 34,
+     "is_india": false,
+     "centroid": [
+      11.901,
+      71.793
+     ],
+     "area_km2": 263,
+     "summit": [
+      11.819,
+      71.756
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 726,
+     "km_per_yojana_if_100": 7.26,
+     "km_from_equator": 1323,
+     "km_from_ujjain_meridian_then": 395
+    },
+    {
+     "label": 124,
+     "is_india": false,
+     "centroid": [
+      -7.327,
+      72.44
+     ],
+     "area_km2": 261,
+     "summit": [
+      -7.273,
+      72.348
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 1824,
+     "km_per_yojana_if_100": 18.24,
+     "km_from_equator": 815,
+     "km_from_ujjain_meridian_then": 329
+    },
+    {
+     "label": 12,
+     "is_india": false,
+     "centroid": [
+      13.202,
+      72.371
+     ],
+     "area_km2": 223,
+     "summit": [
+      13.077,
+      72.348
+     ],
+     "relief_above_sea_m": 86,
+     "km_from_mahendragiri": 752,
+     "km_per_yojana_if_100": 7.52,
+     "km_from_equator": 1468,
+     "km_from_ujjain_meridian_then": 331
+    },
+    {
+     "label": 102,
+     "is_india": false,
+     "centroid": [
+      -0.636,
+      73.161
+     ],
+     "area_km2": 206,
+     "summit": [
+      -0.598,
+      73.123
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 1104,
+     "km_per_yojana_if_100": 11.04,
+     "km_from_equator": 71,
+     "km_from_ujjain_meridian_then": 252
+    },
+    {
+     "label": 107,
+     "is_india": false,
+     "centroid": [
+      -5.212,
+      72.459
+     ],
+     "area_km2": 187,
+     "summit": [
+      -5.256,
+      72.406
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 1604,
+     "km_per_yojana_if_100": 16.04,
+     "km_from_equator": 580,
+     "km_from_ujjain_meridian_then": 329
+    },
+    {
+     "label": 32,
+     "is_india": false,
+     "centroid": [
+      12.356,
+      71.897
+     ],
+     "area_km2": 180,
+     "summit": [
+      12.402,
+      71.856
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 750,
+     "km_per_yojana_if_100": 7.5,
+     "km_from_equator": 1374,
+     "km_from_ujjain_meridian_then": 383
+    },
+    {
+     "label": 52,
+     "is_india": false,
+     "centroid": [
+      10.854,
+      73.71
+     ],
+     "area_km2": 175,
+     "summit": [
+      10.819,
+      73.648
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 491,
+     "km_per_yojana_if_100": 4.91,
+     "km_from_equator": 1207,
+     "km_from_ujjain_meridian_then": 188
+    },
+    {
+     "label": 51,
+     "is_india": false,
+     "centroid": [
+      10.905,
+      72.238
+     ],
+     "area_km2": 168,
+     "summit": [
+      10.96,
+      72.356
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 634,
+     "km_per_yojana_if_100": 6.34,
+     "km_from_equator": 1213,
+     "km_from_ujjain_meridian_then": 348
+    },
+    {
+     "label": 14,
+     "is_india": false,
+     "centroid": [
+      13.137,
+      71.965
+     ],
+     "area_km2": 140,
+     "summit": [
+      13.185,
+      71.898
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 790,
+     "km_per_yojana_if_100": 7.9,
+     "km_from_equator": 1461,
+     "km_from_ujjain_meridian_then": 375
+    },
+    {
+     "label": 118,
+     "is_india": false,
+     "centroid": [
+      -6.671,
+      71.366
+     ],
+     "area_km2": 136,
+     "summit": [
+      -6.681,
+      71.323
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 1802,
+     "km_per_yojana_if_100": 18.02,
+     "km_from_equator": 742,
+     "km_from_ujjain_meridian_then": 449
+    },
+    {
+     "label": 61,
+     "is_india": false,
+     "centroid": [
+      10.071,
+      72.293
+     ],
+     "area_km2": 135,
+     "summit": [
+      10.152,
+      72.348
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 597,
+     "km_per_yojana_if_100": 5.97,
+     "km_from_equator": 1120,
+     "km_from_ujjain_meridian_then": 343
+    },
+    {
+     "label": 86,
+     "is_india": false,
+     "centroid": [
+      4.853,
+      72.92
+     ],
+     "area_km2": 128,
+     "summit": [
+      4.885,
+      72.915
+     ],
+     "relief_above_sea_m": 89,
+     "km_from_mahendragiri": 633,
+     "km_per_yojana_if_100": 6.33,
+     "km_from_equator": 540,
+     "km_from_ujjain_meridian_then": 278
+    },
+    {
+     "label": 111,
+     "is_india": false,
+     "centroid": [
+      -5.362,
+      71.535
+     ],
+     "area_km2": 127,
+     "summit": [
+      -5.398,
+      71.531
+     ],
+     "relief_above_sea_m": 88,
+     "km_from_mahendragiri": 1658,
+     "km_per_yojana_if_100": 16.58,
+     "km_from_equator": 596,
+     "km_from_ujjain_meridian_then": 431
+    },
+    {
+     "label": 6,
+     "is_india": false,
+     "centroid": [
+      13.851,
+      72.246
+     ],
+     "area_km2": 124,
+     "summit": [
+      13.785,
+      72.281
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 827,
+     "km_per_yojana_if_100": 8.27,
+     "km_from_equator": 1540,
+     "km_from_ujjain_meridian_then": 343
+    },
+    {
+     "label": 67,
+     "is_india": false,
+     "centroid": [
+      8.287,
+      73.04
+     ],
+     "area_km2": 124,
+     "summit": [
+      8.252,
+      72.998
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 488,
+     "km_per_yojana_if_100": 4.88,
+     "km_from_equator": 921,
+     "km_from_ujjain_meridian_then": 263
+    },
+    {
+     "label": 49,
+     "is_india": false,
+     "centroid": [
+      11.153,
+      72.05
+     ],
+     "area_km2": 121,
+     "summit": [
+      11.102,
+      72.006
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 668,
+     "km_per_yojana_if_100": 6.68,
+     "km_from_equator": 1240,
+     "km_from_ujjain_meridian_then": 368
+    },
+    {
+     "label": 91,
+     "is_india": false,
+     "centroid": [
+      4.283,
+      72.981
+     ],
+     "area_km2": 119,
+     "summit": [
+      4.327,
+      72.973
+     ],
+     "relief_above_sea_m": 89,
+     "km_from_mahendragiri": 673,
+     "km_per_yojana_if_100": 6.73,
+     "km_from_equator": 476,
+     "km_from_ujjain_meridian_then": 271
+    },
+    {
+     "label": 110,
+     "is_india": false,
+     "centroid": [
+      -5.322,
+      72.249
+     ],
+     "area_km2": 115,
+     "summit": [
+      -5.365,
+      72.19
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 1625,
+     "km_per_yojana_if_100": 16.25,
+     "km_from_equator": 592,
+     "km_from_ujjain_meridian_then": 352
+    },
+    {
+     "label": 122,
+     "is_india": false,
+     "centroid": [
+      -7.179,
+      71.019
+     ],
+     "area_km2": 101,
+     "summit": [
+      -7.24,
+      71.065
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 1871,
+     "km_per_yojana_if_100": 18.71,
+     "km_from_equator": 798,
+     "km_from_ujjain_meridian_then": 486
+    },
+    {
+     "label": 41,
+     "is_india": false,
+     "centroid": [
+      11.358,
+      74.383
+     ],
+     "area_km2": 98,
+     "summit": [
+      11.277,
+      74.406
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 467,
+     "km_per_yojana_if_100": 4.67,
+     "km_from_equator": 1263,
+     "km_from_ujjain_meridian_then": 114
+    },
+    {
+     "label": 16,
+     "is_india": false,
+     "centroid": [
+      13.014,
+      73.909
+     ],
+     "area_km2": 96,
+     "summit": [
+      13.002,
+      73.898
+     ],
+     "relief_above_sea_m": 33,
+     "km_from_mahendragiri": 640,
+     "km_per_yojana_if_100": 6.4,
+     "km_from_equator": 1447,
+     "km_from_ujjain_meridian_then": 164
+    },
+    {
+     "label": 37,
+     "is_india": false,
+     "centroid": [
+      11.549,
+      72.165
+     ],
+     "area_km2": 88,
+     "summit": [
+      11.494,
+      72.19
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 678,
+     "km_per_yojana_if_100": 6.78,
+     "km_from_equator": 1284,
+     "km_from_ujjain_meridian_then": 355
+    },
+    {
+     "label": 22,
+     "is_india": false,
+     "centroid": [
+      12.858,
+      72.551
+     ],
+     "area_km2": 87,
+     "summit": [
+      12.86,
+      72.565
+     ],
+     "relief_above_sea_m": 73,
+     "km_from_mahendragiri": 729,
+     "km_per_yojana_if_100": 7.29,
+     "km_from_equator": 1430,
+     "km_from_ujjain_meridian_then": 312
+    },
+    {
+     "label": 8,
+     "is_india": false,
+     "centroid": [
+      13.599,
+      72.118
+     ],
+     "area_km2": 83,
+     "summit": [
+      13.66,
+      72.09
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 820,
+     "km_per_yojana_if_100": 8.2,
+     "km_from_equator": 1512,
+     "km_from_ujjain_meridian_then": 358
+    },
+    {
+     "label": 133,
+     "is_india": false,
+     "centroid": [
+      -7.652,
+      70.814
+     ],
+     "area_km2": 66,
+     "summit": [
+      -7.681,
+      70.856
+     ],
+     "relief_above_sea_m": 85,
+     "km_from_mahendragiri": 1929,
+     "km_per_yojana_if_100": 19.29,
+     "km_from_equator": 851,
+     "km_from_ujjain_meridian_then": 508
+    },
+    {
+     "label": 75,
+     "is_india": false,
+     "centroid": [
+      6.934,
+      73.298
+     ],
+     "area_km2": 55,
+     "summit": [
+      6.91,
+      73.281
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 489,
+     "km_per_yojana_if_100": 4.89,
+     "km_from_equator": 771,
+     "km_from_ujjain_meridian_then": 235
+    },
+    {
+     "label": 113,
+     "is_india": false,
+     "centroid": [
+      -5.52,
+      72.248
+     ],
+     "area_km2": 55,
+     "summit": [
+      -5.515,
+      72.256
+     ],
+     "relief_above_sea_m": 85,
+     "km_from_mahendragiri": 1646,
+     "km_per_yojana_if_100": 16.46,
+     "km_from_equator": 614,
+     "km_from_ujjain_meridian_then": 352
+    },
+    {
+     "label": 106,
+     "is_india": false,
+     "centroid": [
+      -4.892,
+      72.613
+     ],
+     "area_km2": 54,
+     "summit": [
+      -4.923,
+      72.59
+     ],
+     "relief_above_sea_m": 84,
+     "km_from_mahendragiri": 1567,
+     "km_per_yojana_if_100": 15.67,
+     "km_from_equator": 544,
+     "km_from_ujjain_meridian_then": 312
+    },
+    {
+     "label": 60,
+     "is_india": false,
+     "centroid": [
+      10.108,
+      73.645
+     ],
+     "area_km2": 50,
+     "summit": [
+      10.127,
+      73.665
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 464,
+     "km_per_yojana_if_100": 4.64,
+     "km_from_equator": 1124,
+     "km_from_ujjain_meridian_then": 195
+    },
+    {
+     "label": 46,
+     "is_india": false,
+     "centroid": [
+      11.251,
+      74.043
+     ],
+     "area_km2": 48,
+     "summit": [
+      11.252,
+      74.073
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 492,
+     "km_per_yojana_if_100": 4.92,
+     "km_from_equator": 1251,
+     "km_from_ujjain_meridian_then": 151
+    },
+    {
+     "label": 47,
+     "is_india": false,
+     "centroid": [
+      11.209,
+      72.765
+     ],
+     "area_km2": 45,
+     "summit": [
+      11.169,
+      72.74
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 606,
+     "km_per_yojana_if_100": 6.06,
+     "km_from_equator": 1246,
+     "km_from_ujjain_meridian_then": 290
+    },
+    {
+     "label": 131,
+     "is_india": false,
+     "centroid": [
+      -7.561,
+      71.591
+     ],
+     "area_km2": 45,
+     "summit": [
+      -7.531,
+      71.606
+     ],
+     "relief_above_sea_m": 87,
+     "km_from_mahendragiri": 1885,
+     "km_per_yojana_if_100": 18.85,
+     "km_from_equator": 841,
+     "km_from_ujjain_meridian_then": 423
+    },
+    {
+     "label": 101,
+     "is_india": false,
+     "centroid": [
+      -0.307,
+      73.433
+     ],
+     "area_km2": 39,
+     "summit": [
+      -0.298,
+      73.448
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 1065,
+     "km_per_yojana_if_100": 10.65,
+     "km_from_equator": 34,
+     "km_from_ujjain_meridian_then": 222
+    },
+    {
+     "label": 63,
+     "is_india": false,
+     "centroid": [
+      9.884,
+      75.607
+     ],
+     "area_km2": 36,
+     "summit": [
+      9.877,
+      75.598
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 264,
+     "km_per_yojana_if_100": 2.64,
+     "km_from_equator": 1099,
+     "km_from_ujjain_meridian_then": 20
+    },
+    {
+     "label": 89,
+     "is_india": false,
+     "centroid": [
+      4.439,
+      72.952
+     ],
+     "area_km2": 35,
+     "summit": [
+      4.444,
+      72.973
+     ],
+     "relief_above_sea_m": 90,
+     "km_from_mahendragiri": 665,
+     "km_per_yojana_if_100": 6.65,
+     "km_from_equator": 494,
+     "km_from_ujjain_meridian_then": 274
+    },
+    {
+     "label": 7,
+     "is_india": false,
+     "centroid": [
+      13.765,
+      72.136
+     ],
+     "area_km2": 32,
+     "summit": [
+      13.785,
+      72.106
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 835,
+     "km_per_yojana_if_100": 8.35,
+     "km_from_equator": 1531,
+     "km_from_ujjain_meridian_then": 355
+    },
+    {
+     "label": 70,
+     "is_india": false,
+     "centroid": [
+      7.61,
+      72.742
+     ],
+     "area_km2": 27,
+     "summit": [
+      7.61,
+      72.748
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 531,
+     "km_per_yojana_if_100": 5.31,
+     "km_from_equator": 846,
+     "km_from_ujjain_meridian_then": 296
+    },
+    {
+     "label": 81,
+     "is_india": false,
+     "centroid": [
+      5.968,
+      72.944
+     ],
+     "area_km2": 27,
+     "summit": [
+      5.952,
+      72.956
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 570,
+     "km_per_yojana_if_100": 5.7,
+     "km_from_equator": 664,
+     "km_from_ujjain_meridian_then": 275
+    },
+    {
+     "label": 128,
+     "is_india": false,
+     "centroid": [
+      -7.383,
+      70.966
+     ],
+     "area_km2": 27,
+     "summit": [
+      -7.356,
+      70.965
+     ],
+     "relief_above_sea_m": 77,
+     "km_from_mahendragiri": 1895,
+     "km_per_yojana_if_100": 18.95,
+     "km_from_equator": 821,
+     "km_from_ujjain_meridian_then": 492
+    },
+    {
+     "label": 65,
+     "is_india": false,
+     "centroid": [
+      9.753,
+      75.689
+     ],
+     "area_km2": 21,
+     "summit": [
+      9.76,
+      75.681
+     ],
+     "relief_above_sea_m": 29,
+     "km_from_mahendragiri": 250,
+     "km_per_yojana_if_100": 2.5,
+     "km_from_equator": 1085,
+     "km_from_ujjain_meridian_then": 29
+    },
+    {
+     "label": 130,
+     "is_india": false,
+     "centroid": [
+      -7.524,
+      71.677
+     ],
+     "area_km2": 21,
+     "summit": [
+      -7.531,
+      71.673
+     ],
+     "relief_above_sea_m": 75,
+     "km_from_mahendragiri": 1881,
+     "km_per_yojana_if_100": 18.81,
+     "km_from_equator": 837,
+     "km_from_ujjain_meridian_then": 413
+    },
+    {
+     "label": 134,
+     "is_india": false,
+     "centroid": [
+      -8.272,
+      70.737
+     ],
+     "area_km2": 21,
+     "summit": [
+      -8.273,
+      70.74
+     ],
+     "relief_above_sea_m": 83,
+     "km_from_mahendragiri": 1998,
+     "km_per_yojana_if_100": 19.98,
+     "km_from_equator": 920,
+     "km_from_ujjain_meridian_then": 516
+    },
+    {
+     "label": 55,
+     "is_india": false,
+     "centroid": [
+      10.557,
+      72.629
+     ],
+     "area_km2": 19,
+     "summit": [
+      10.552,
+      72.615
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 587,
+     "km_per_yojana_if_100": 5.87,
+     "km_from_equator": 1174,
+     "km_from_ujjain_meridian_then": 306
+    },
+    {
+     "label": 36,
+     "is_india": false,
+     "centroid": [
+      11.694,
+      72.708
+     ],
+     "area_km2": 18,
+     "summit": [
+      11.685,
+      72.69
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 640,
+     "km_per_yojana_if_100": 6.4,
+     "km_from_equator": 1300,
+     "km_from_ujjain_meridian_then": 296
+    },
+    {
+     "label": 38,
+     "is_india": false,
+     "centroid": [
+      11.538,
+      74.687
+     ],
+     "area_km2": 18,
+     "summit": [
+      11.535,
+      74.681
+     ],
+     "relief_above_sea_m": 67,
+     "km_from_mahendragiri": 464,
+     "km_per_yojana_if_100": 4.64,
+     "km_from_equator": 1283,
+     "km_from_ujjain_meridian_then": 81
+    },
+    {
+     "label": 13,
+     "is_india": false,
+     "centroid": [
+      13.256,
+      72.016
+     ],
+     "area_km2": 14,
+     "summit": [
+      13.252,
+      72.023
+     ],
+     "relief_above_sea_m": 45,
+     "km_from_mahendragiri": 805,
+     "km_per_yojana_if_100": 8.05,
+     "km_from_equator": 1474,
+     "km_from_ujjain_meridian_then": 369
+    },
+    {
+     "label": 19,
+     "is_india": false,
+     "centroid": [
+      13.006,
+      73.517
+     ],
+     "area_km2": 13,
+     "summit": [
+      13.019,
+      73.506
+     ],
+     "relief_above_sea_m": 80,
+     "km_from_mahendragiri": 672,
+     "km_per_yojana_if_100": 6.72,
+     "km_from_equator": 1446,
+     "km_from_ujjain_meridian_then": 207
+    },
+    {
+     "label": 39,
+     "is_india": false,
+     "centroid": [
+      11.483,
+      73.002
+     ],
+     "area_km2": 13,
+     "summit": [
+      11.494,
+      73.006
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 600,
+     "km_per_yojana_if_100": 6.0,
+     "km_from_equator": 1277,
+     "km_from_ujjain_meridian_then": 264
+    },
+    {
+     "label": 54,
+     "is_india": false,
+     "centroid": [
+      10.72,
+      75.32
+     ],
+     "area_km2": 13,
+     "summit": [
+      10.719,
+      75.315
+     ],
+     "relief_above_sea_m": 43,
+     "km_from_mahendragiri": 352,
+     "km_per_yojana_if_100": 3.52,
+     "km_from_equator": 1192,
+     "km_from_ujjain_meridian_then": 12
+    },
+    {
+     "label": 79,
+     "is_india": false,
+     "centroid": [
+      6.685,
+      73.201
+     ],
+     "area_km2": 10,
+     "summit": [
+      6.677,
+      73.19
+     ],
+     "relief_above_sea_m": 59,
+     "km_from_mahendragiri": 511,
+     "km_per_yojana_if_100": 5.11,
+     "km_from_equator": 743,
+     "km_from_ujjain_meridian_then": 246
+    },
+    {
+     "label": 126,
+     "is_india": false,
+     "centroid": [
+      -7.26,
+      72.281
+     ],
+     "area_km2": 9,
+     "summit": [
+      -7.273,
+      72.273
+     ],
+     "relief_above_sea_m": 60,
+     "km_from_mahendragiri": 1833,
+     "km_per_yojana_if_100": 18.33,
+     "km_from_equator": 807,
+     "km_from_ujjain_meridian_then": 347
+    },
+    {
+     "label": 132,
+     "is_india": false,
+     "centroid": [
+      -7.531,
+      71.727
+     ],
+     "area_km2": 9,
+     "summit": [
+      -7.531,
+      71.723
+     ],
+     "relief_above_sea_m": 85,
+     "km_from_mahendragiri": 1882,
+     "km_per_yojana_if_100": 18.82,
+     "km_from_equator": 837,
+     "km_from_ujjain_meridian_then": 408
+    },
+    {
+     "label": 11,
+     "is_india": false,
+     "centroid": [
+      13.527,
+      72.55
+     ],
+     "area_km2": 8,
+     "summit": [
+      13.527,
+      72.548
+     ],
+     "relief_above_sea_m": 18,
+     "km_from_mahendragiri": 787,
+     "km_per_yojana_if_100": 7.87,
+     "km_from_equator": 1504,
+     "km_from_ujjain_meridian_then": 311
+    },
+    {
+     "label": 23,
+     "is_india": false,
+     "centroid": [
+      12.883,
+      72.43
+     ],
+     "area_km2": 8,
+     "summit": [
+      12.885,
+      72.431
+     ],
+     "relief_above_sea_m": 23,
+     "km_from_mahendragiri": 747,
+     "km_per_yojana_if_100": 7.47,
+     "km_from_equator": 1433,
+     "km_from_ujjain_meridian_then": 325
+    },
+    {
+     "label": 25,
+     "is_india": false,
+     "centroid": [
+      12.878,
+      74.103
+     ],
+     "area_km2": 8,
+     "summit": [
+      12.885,
+      74.098
+     ],
+     "relief_above_sea_m": 5,
+     "km_from_mahendragiri": 622,
+     "km_per_yojana_if_100": 6.22,
+     "km_from_equator": 1432,
+     "km_from_ujjain_meridian_then": 144
+    },
+    {
+     "label": 45,
+     "is_india": false,
+     "centroid": [
+      11.319,
+      74.012
+     ],
+     "area_km2": 8,
+     "summit": [
+      11.319,
+      74.006
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 502,
+     "km_per_yojana_if_100": 5.02,
+     "km_from_equator": 1259,
+     "km_from_ujjain_meridian_then": 154
+    },
+    {
+     "label": 56,
+     "is_india": false,
+     "centroid": [
+      10.509,
+      75.185
+     ],
+     "area_km2": 8,
+     "summit": [
+      10.502,
+      75.19
+     ],
+     "relief_above_sea_m": 81,
+     "km_from_mahendragiri": 347,
+     "km_per_yojana_if_100": 3.47,
+     "km_from_equator": 1169,
+     "km_from_ujjain_meridian_then": 26
+    },
+    {
+     "label": 58,
+     "is_india": false,
+     "centroid": [
+      10.415,
+      75.468
+     ],
+     "area_km2": 8,
+     "summit": [
+      10.41,
+      75.465
+     ],
+     "relief_above_sea_m": 45,
+     "km_from_mahendragiri": 317,
+     "km_per_yojana_if_100": 3.17,
+     "km_from_equator": 1158,
+     "km_from_ujjain_meridian_then": 4
+    },
+    {
+     "label": 96,
+     "is_india": false,
+     "centroid": [
+      3.184,
+      73.602
+     ],
+     "area_km2": 8,
+     "summit": [
+      3.185,
+      73.598
+     ],
+     "relief_above_sea_m": 61,
+     "km_from_mahendragiri": 722,
+     "km_per_yojana_if_100": 7.22,
+     "km_from_equator": 354,
+     "km_from_ujjain_meridian_then": 203
+    },
+    {
+     "label": 42,
+     "is_india": false,
+     "centroid": [
+      11.412,
+      74.822
+     ],
+     "area_km2": 7,
+     "summit": [
+      11.41,
+      74.823
+     ],
+     "relief_above_sea_m": 9,
+     "km_from_mahendragiri": 446,
+     "km_per_yojana_if_100": 4.46,
+     "km_from_equator": 1269,
+     "km_from_ujjain_meridian_then": 66
+    },
+    {
+     "label": 66,
+     "is_india": false,
+     "centroid": [
+      8.835,
+      75.503
+     ],
+     "area_km2": 7,
+     "summit": [
+      8.835,
+      75.506
+     ],
+     "relief_above_sea_m": 37,
+     "km_from_mahendragiri": 227,
+     "km_per_yojana_if_100": 2.27,
+     "km_from_equator": 982,
+     "km_from_ujjain_meridian_then": 8
+    },
+    {
+     "label": 85,
+     "is_india": false,
+     "centroid": [
+      4.959,
+      73.457
+     ],
+     "area_km2": 7,
+     "summit": [
+      4.96,
+      73.448
+     ],
+     "relief_above_sea_m": 89,
+     "km_from_mahendragiri": 588,
+     "km_per_yojana_if_100": 5.88,
+     "km_from_equator": 551,
+     "km_from_ujjain_meridian_then": 218
+    },
+    {
+     "label": 109,
+     "is_india": false,
+     "centroid": [
+      -5.279,
+      71.471
+     ],
+     "area_km2": 7,
+     "summit": [
+      -5.265,
+      71.456
+     ],
+     "relief_above_sea_m": 80,
+     "km_from_mahendragiri": 1660,
+     "km_per_yojana_if_100": 16.6,
+     "km_from_equator": 587,
+     "km_from_ujjain_meridian_then": 438
+    },
+    {
+     "label": 31,
+     "is_india": false,
+     "centroid": [
+      12.519,
+      74.344
+     ],
+     "area_km2": 5,
+     "summit": [
+      12.519,
+      74.34
+     ],
+     "relief_above_sea_m": 3,
+     "km_from_mahendragiri": 575,
+     "km_per_yojana_if_100": 5.75,
+     "km_from_equator": 1392,
+     "km_from_ujjain_meridian_then": 118
+    },
+    {
+     "label": 40,
+     "is_india": false,
+     "centroid": [
+      11.449,
+      74.355
+     ],
+     "area_km2": 4,
+     "summit": [
+      11.452,
+      74.356
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 485,
+     "km_per_yojana_if_100": 4.85,
+     "km_from_equator": 1273,
+     "km_from_ujjain_meridian_then": 117
+    },
+    {
+     "label": 57,
+     "is_india": false,
+     "centroid": [
+      10.499,
+      75.466
+     ],
+     "area_km2": 4,
+     "summit": [
+      10.502,
+      75.465
+     ],
+     "relief_above_sea_m": 4,
+     "km_from_mahendragiri": 324,
+     "km_per_yojana_if_100": 3.24,
+     "km_from_equator": 1167,
+     "km_from_ujjain_meridian_then": 4
+    },
+    {
+     "label": 88,
+     "is_india": false,
+     "centroid": [
+      4.629,
+      72.776
+     ],
+     "area_km2": 4,
+     "summit": [
+      4.627,
+      72.773
+     ],
+     "relief_above_sea_m": 72,
+     "km_from_mahendragiri": 670,
+     "km_per_yojana_if_100": 6.7,
+     "km_from_equator": 515,
+     "km_from_ujjain_meridian_then": 294
+    },
+    {
+     "label": 125,
+     "is_india": false,
+     "centroid": [
+      -7.241,
+      72.251
+     ],
+     "area_km2": 4,
+     "summit": [
+      -7.24,
+      72.248
+     ],
+     "relief_above_sea_m": 62,
+     "km_from_mahendragiri": 1833,
+     "km_per_yojana_if_100": 18.33,
+     "km_from_equator": 805,
+     "km_from_ujjain_meridian_then": 350
+    },
+    {
+     "label": 9,
+     "is_india": false,
+     "centroid": [
+      13.615,
+      72.31
+     ],
+     "area_km2": 3,
+     "summit": [
+      13.61,
+      72.306
+     ],
+     "relief_above_sea_m": 93,
+     "km_from_mahendragiri": 812,
+     "km_per_yojana_if_100": 8.12,
+     "km_from_equator": 1514,
+     "km_from_ujjain_meridian_then": 337
+    },
+    {
+     "label": 24,
+     "is_india": false,
+     "centroid": [
+      12.887,
+      72.613
+     ],
+     "area_km2": 3,
+     "summit": [
+      12.894,
+      72.606
+     ],
+     "relief_above_sea_m": 13,
+     "km_from_mahendragiri": 732,
+     "km_per_yojana_if_100": 7.32,
+     "km_from_equator": 1433,
+     "km_from_ujjain_meridian_then": 305
+    },
+    {
+     "label": 43,
+     "is_india": false,
+     "centroid": [
+      11.375,
+      74.856
+     ],
+     "area_km2": 3,
+     "summit": [
+      11.385,
+      74.848
+     ],
+     "relief_above_sea_m": 4,
+     "km_from_mahendragiri": 441,
+     "km_per_yojana_if_100": 4.41,
+     "km_from_equator": 1265,
+     "km_from_ujjain_meridian_then": 62
+    },
+    {
+     "label": 104,
+     "is_india": false,
+     "centroid": [
+      -4.66,
+      72.435
+     ],
+     "area_km2": 3,
+     "summit": [
+      -4.656,
+      72.431
+     ],
+     "relief_above_sea_m": 25,
+     "km_from_mahendragiri": 1556,
+     "km_per_yojana_if_100": 15.56,
+     "km_from_equator": 518,
+     "km_from_ujjain_meridian_then": 332
+    },
+    {
+     "label": 117,
+     "is_india": false,
+     "centroid": [
+      -5.685,
+      71.71
+     ],
+     "area_km2": 3,
+     "summit": [
+      -5.69,
+      71.706
+     ],
+     "relief_above_sea_m": 22,
+     "km_from_mahendragiri": 1692,
+     "km_per_yojana_if_100": 16.92,
+     "km_from_equator": 632,
+     "km_from_ujjain_meridian_then": 411
+    }
+   ]
+  },
+  "treta_plus_subsidence": {
+   "sea_level_m": -111.9,
+   "sri_lanka_joined_to_india": true,
+   "landmasses": [
+    {
+     "label": 1,
+     "is_india": true,
+     "centroid": [
+      11.313,
+      77.897
+     ],
+     "area_km2": 537103,
+     "summit": [
+      11.402,
+      76.74
+     ],
+     "relief_above_sea_m": 2675,
+     "km_from_mahendragiri": 0,
+     "km_per_yojana_if_100": 0.0,
+     "km_from_equator": 1258,
+     "km_from_ujjain_meridian_then": 269
+    },
+    {
+     "label": 110,
+     "is_india": false,
+     "centroid": [
+      -6.214,
+      72.036
+     ],
+     "area_km2": 14955,
+     "summit": [
+      -5.656,
+      72.065
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 1653,
+     "km_per_yojana_if_100": 16.53,
+     "km_from_equator": 691,
+     "km_from_ujjain_meridian_then": 375
+    },
+    {
+     "label": 70,
+     "is_india": false,
+     "centroid": [
+      6.281,
+      73.133
+     ],
+     "area_km2": 4729,
+     "summit": [
+      6.985,
+      73.173
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 498,
+     "km_per_yojana_if_100": 4.98,
+     "km_from_equator": 698,
+     "km_from_ujjain_meridian_then": 254
+    },
+    {
+     "label": 96,
+     "is_india": false,
+     "centroid": [
+      0.518,
+      73.283
+     ],
+     "area_km2": 3781,
+     "summit": [
+      0.377,
+      73.573
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 948,
+     "km_per_yojana_if_100": 9.48,
+     "km_from_equator": 58,
+     "km_from_ujjain_meridian_then": 238
+    },
+    {
+     "label": 89,
+     "is_india": false,
+     "centroid": [
+      3.249,
+      73.486
+     ],
+     "area_km2": 2889,
+     "summit": [
+      3.119,
+      73.656
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 683,
+     "km_per_yojana_if_100": 6.83,
+     "km_from_equator": 361,
+     "km_from_ujjain_meridian_then": 216
+    },
+    {
+     "label": 86,
+     "is_india": false,
+     "centroid": [
+      3.859,
+      72.832
+     ],
+     "area_km2": 2765,
+     "summit": [
+      3.485,
+      72.723
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 688,
+     "km_per_yojana_if_100": 6.88,
+     "km_from_equator": 429,
+     "km_from_ujjain_meridian_then": 288
+    },
+    {
+     "label": 78,
+     "is_india": false,
+     "centroid": [
+      5.428,
+      72.955
+     ],
+     "area_km2": 2708,
+     "summit": [
+      5.277,
+      72.956
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 569,
+     "km_per_yojana_if_100": 5.69,
+     "km_from_equator": 604,
+     "km_from_ujjain_meridian_then": 274
+    },
+    {
+     "label": 116,
+     "is_india": false,
+     "centroid": [
+      -7.091,
+      71.305
+     ],
+     "area_km2": 2139,
+     "summit": [
+      -7.273,
+      71.19
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 1829,
+     "km_per_yojana_if_100": 18.29,
+     "km_from_equator": 788,
+     "km_from_ujjain_meridian_then": 455
+    },
+    {
+     "label": 94,
+     "is_india": false,
+     "centroid": [
+      2.378,
+      73.106
+     ],
+     "area_km2": 1986,
+     "summit": [
+      2.41,
+      73.381
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 800,
+     "km_per_yojana_if_100": 8.0,
+     "km_from_equator": 264,
+     "km_from_ujjain_meridian_then": 258
+    },
+    {
+     "label": 83,
+     "is_india": false,
+     "centroid": [
+      4.46,
+      73.494
+     ],
+     "area_km2": 1861,
+     "summit": [
+      4.552,
+      73.656
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 599,
+     "km_per_yojana_if_100": 5.99,
+     "km_from_equator": 496,
+     "km_from_ujjain_meridian_then": 214
+    },
+    {
+     "label": 91,
+     "is_india": false,
+     "centroid": [
+      3.0,
+      72.933
+     ],
+     "area_km2": 1839,
+     "summit": [
+      3.319,
+      72.823
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 753,
+     "km_per_yojana_if_100": 7.53,
+     "km_from_equator": 334,
+     "km_from_ujjain_meridian_then": 277
+    },
+    {
+     "label": 95,
+     "is_india": false,
+     "centroid": [
+      1.936,
+      73.415
+     ],
+     "area_km2": 1094,
+     "summit": [
+      1.794,
+      73.281
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 820,
+     "km_per_yojana_if_100": 8.2,
+     "km_from_equator": 215,
+     "km_from_ujjain_meridian_then": 224
+    },
+    {
+     "label": 104,
+     "is_india": false,
+     "centroid": [
+      -5.31,
+      71.827
+     ],
+     "area_km2": 1059,
+     "summit": [
+      -5.481,
+      71.781
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 1631,
+     "km_per_yojana_if_100": 16.31,
+     "km_from_equator": 590,
+     "km_from_ujjain_meridian_then": 399
+    },
+    {
+     "label": 101,
+     "is_india": false,
+     "centroid": [
+      -4.926,
+      72.328
+     ],
+     "area_km2": 1021,
+     "summit": [
+      -5.081,
+      72.323
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 1556,
+     "km_per_yojana_if_100": 15.56,
+     "km_from_equator": 548,
+     "km_from_ujjain_meridian_then": 343
+    },
+    {
+     "label": 15,
+     "is_india": false,
+     "centroid": [
+      12.874,
+      72.522
+     ],
+     "area_km2": 1011,
+     "summit": [
+      13.077,
+      72.348
+     ],
+     "relief_above_sea_m": 108,
+     "km_from_mahendragiri": 700,
+     "km_per_yojana_if_100": 7.0,
+     "km_from_equator": 1432,
+     "km_from_ujjain_meridian_then": 315
+    },
+    {
+     "label": 80,
+     "is_india": false,
+     "centroid": [
+      5.399,
+      73.508
+     ],
+     "area_km2": 830,
+     "summit": [
+      5.252,
+      73.573
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 539,
+     "km_per_yojana_if_100": 5.39,
+     "km_from_equator": 600,
+     "km_from_ujjain_meridian_then": 212
+    },
+    {
+     "label": 88,
+     "is_india": false,
+     "centroid": [
+      3.977,
+      73.447
+     ],
+     "area_km2": 583,
+     "summit": [
+      4.027,
+      73.556
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 649,
+     "km_per_yojana_if_100": 6.49,
+     "km_from_equator": 442,
+     "km_from_ujjain_meridian_then": 220
+    },
+    {
+     "label": 39,
+     "is_india": false,
+     "centroid": [
+      10.926,
+      72.585
+     ],
+     "area_km2": 551,
+     "summit": [
+      11.119,
+      72.656
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 599,
+     "km_per_yojana_if_100": 5.99,
+     "km_from_equator": 1215,
+     "km_from_ujjain_meridian_then": 310
+    },
+    {
+     "label": 67,
+     "is_india": false,
+     "centroid": [
+      7.02,
+      72.923
+     ],
+     "area_km2": 434,
+     "summit": [
+      7.052,
+      73.04
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 512,
+     "km_per_yojana_if_100": 5.12,
+     "km_from_equator": 781,
+     "km_from_ujjain_meridian_then": 276
+    },
+    {
+     "label": 76,
+     "is_india": false,
+     "centroid": [
+      6.31,
+      72.62
+     ],
+     "area_km2": 405,
+     "summit": [
+      6.377,
+      72.723
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 573,
+     "km_per_yojana_if_100": 5.73,
+     "km_from_equator": 702,
+     "km_from_ujjain_meridian_then": 310
+    },
+    {
+     "label": 25,
+     "is_india": false,
+     "centroid": [
+      11.9,
+      71.793
+     ],
+     "area_km2": 272,
+     "summit": [
+      11.819,
+      71.756
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 726,
+     "km_per_yojana_if_100": 7.26,
+     "km_from_equator": 1323,
+     "km_from_ujjain_meridian_then": 395
+    },
+    {
+     "label": 119,
+     "is_india": false,
+     "centroid": [
+      -7.328,
+      72.44
+     ],
+     "area_km2": 270,
+     "summit": [
+      -7.273,
+      72.348
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 1824,
+     "km_per_yojana_if_100": 18.24,
+     "km_from_equator": 815,
+     "km_from_ujjain_meridian_then": 329
+    },
+    {
+     "label": 99,
+     "is_india": false,
+     "centroid": [
+      -0.635,
+      73.162
+     ],
+     "area_km2": 214,
+     "summit": [
+      -0.598,
+      73.123
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 1104,
+     "km_per_yojana_if_100": 11.04,
+     "km_from_equator": 71,
+     "km_from_ujjain_meridian_then": 252
+    },
+    {
+     "label": 103,
+     "is_india": false,
+     "centroid": [
+      -5.211,
+      72.458
+     ],
+     "area_km2": 201,
+     "summit": [
+      -5.256,
+      72.406
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 1604,
+     "km_per_yojana_if_100": 16.04,
+     "km_from_equator": 579,
+     "km_from_ujjain_meridian_then": 329
+    },
+    {
+     "label": 23,
+     "is_india": false,
+     "centroid": [
+      12.355,
+      71.897
+     ],
+     "area_km2": 186,
+     "summit": [
+      12.402,
+      71.856
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 750,
+     "km_per_yojana_if_100": 7.5,
+     "km_from_equator": 1374,
+     "km_from_ujjain_meridian_then": 383
+    },
+    {
+     "label": 43,
+     "is_india": false,
+     "centroid": [
+      10.855,
+      73.711
+     ],
+     "area_km2": 180,
+     "summit": [
+      10.819,
+      73.648
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 491,
+     "km_per_yojana_if_100": 4.91,
+     "km_from_equator": 1207,
+     "km_from_ujjain_meridian_then": 187
+    },
+    {
+     "label": 40,
+     "is_india": false,
+     "centroid": [
+      10.904,
+      72.238
+     ],
+     "area_km2": 174,
+     "summit": [
+      10.96,
+      72.356
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 634,
+     "km_per_yojana_if_100": 6.34,
+     "km_from_equator": 1212,
+     "km_from_ujjain_meridian_then": 348
+    },
+    {
+     "label": 18,
+     "is_india": false,
+     "centroid": [
+      13.131,
+      71.973
+     ],
+     "area_km2": 167,
+     "summit": [
+      13.185,
+      71.898
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 786,
+     "km_per_yojana_if_100": 7.86,
+     "km_from_equator": 1460,
+     "km_from_ujjain_meridian_then": 374
+    },
+    {
+     "label": 105,
+     "is_india": false,
+     "centroid": [
+      -5.354,
+      71.529
+     ],
+     "area_km2": 157,
+     "summit": [
+      -5.398,
+      71.531
+     ],
+     "relief_above_sea_m": 110,
+     "km_from_mahendragiri": 1658,
+     "km_per_yojana_if_100": 16.58,
+     "km_from_equator": 595,
+     "km_from_ujjain_meridian_then": 432
+    },
+    {
+     "label": 7,
+     "is_india": false,
+     "centroid": [
+      13.847,
+      72.245
+     ],
+     "area_km2": 147,
+     "summit": [
+      13.785,
+      72.281
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 827,
+     "km_per_yojana_if_100": 8.27,
+     "km_from_equator": 1540,
+     "km_from_ujjain_meridian_then": 344
+    },
+    {
+     "label": 113,
+     "is_india": false,
+     "centroid": [
+      -6.67,
+      71.366
+     ],
+     "area_km2": 145,
+     "summit": [
+      -6.681,
+      71.323
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 1801,
+     "km_per_yojana_if_100": 18.01,
+     "km_from_equator": 742,
+     "km_from_ujjain_meridian_then": 448
+    },
+    {
+     "label": 54,
+     "is_india": false,
+     "centroid": [
+      10.071,
+      72.293
+     ],
+     "area_km2": 135,
+     "summit": [
+      10.152,
+      72.348
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 597,
+     "km_per_yojana_if_100": 5.97,
+     "km_from_equator": 1120,
+     "km_from_ujjain_meridian_then": 343
+    },
+    {
+     "label": 82,
+     "is_india": false,
+     "centroid": [
+      4.854,
+      72.92
+     ],
+     "area_km2": 130,
+     "summit": [
+      4.885,
+      72.915
+     ],
+     "relief_above_sea_m": 111,
+     "km_from_mahendragiri": 633,
+     "km_per_yojana_if_100": 6.33,
+     "km_from_equator": 540,
+     "km_from_ujjain_meridian_then": 278
+    },
+    {
+     "label": 87,
+     "is_india": false,
+     "centroid": [
+      4.282,
+      72.983
+     ],
+     "area_km2": 130,
+     "summit": [
+      4.327,
+      72.973
+     ],
+     "relief_above_sea_m": 111,
+     "km_from_mahendragiri": 672,
+     "km_per_yojana_if_100": 6.72,
+     "km_from_equator": 476,
+     "km_from_ujjain_meridian_then": 271
+    },
+    {
+     "label": 38,
+     "is_india": false,
+     "centroid": [
+      11.152,
+      72.05
+     ],
+     "area_km2": 126,
+     "summit": [
+      11.102,
+      72.006
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 668,
+     "km_per_yojana_if_100": 6.68,
+     "km_from_equator": 1240,
+     "km_from_ujjain_meridian_then": 368
+    },
+    {
+     "label": 58,
+     "is_india": false,
+     "centroid": [
+      8.286,
+      73.039
+     ],
+     "area_km2": 126,
+     "summit": [
+      8.252,
+      72.998
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 488,
+     "km_per_yojana_if_100": 4.88,
+     "km_from_equator": 921,
+     "km_from_ujjain_meridian_then": 263
+    },
+    {
+     "label": 106,
+     "is_india": false,
+     "centroid": [
+      -5.322,
+      72.248
+     ],
+     "area_km2": 126,
+     "summit": [
+      -5.365,
+      72.19
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 1625,
+     "km_per_yojana_if_100": 16.25,
+     "km_from_equator": 592,
+     "km_from_ujjain_meridian_then": 352
+    },
+    {
+     "label": 117,
+     "is_india": false,
+     "centroid": [
+      -7.178,
+      71.018
+     ],
+     "area_km2": 118,
+     "summit": [
+      -7.24,
+      71.065
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 1871,
+     "km_per_yojana_if_100": 18.71,
+     "km_from_equator": 798,
+     "km_from_ujjain_meridian_then": 486
+    },
+    {
+     "label": 11,
+     "is_india": false,
+     "centroid": [
+      13.602,
+      72.122
+     ],
+     "area_km2": 102,
+     "summit": [
+      13.66,
+      72.09
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 820,
+     "km_per_yojana_if_100": 8.2,
+     "km_from_equator": 1513,
+     "km_from_ujjain_meridian_then": 357
+    },
+    {
+     "label": 32,
+     "is_india": false,
+     "centroid": [
+      11.358,
+      74.383
+     ],
+     "area_km2": 102,
+     "summit": [
+      11.277,
+      74.406
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 467,
+     "km_per_yojana_if_100": 4.67,
+     "km_from_equator": 1263,
+     "km_from_ujjain_meridian_then": 114
+    },
+    {
+     "label": 28,
+     "is_india": false,
+     "centroid": [
+      11.549,
+      72.165
+     ],
+     "area_km2": 88,
+     "summit": [
+      11.494,
+      72.19
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 678,
+     "km_per_yojana_if_100": 6.78,
+     "km_from_equator": 1284,
+     "km_from_ujjain_meridian_then": 355
+    },
+    {
+     "label": 125,
+     "is_india": false,
+     "centroid": [
+      -7.651,
+      70.813
+     ],
+     "area_km2": 70,
+     "summit": [
+      -7.681,
+      70.856
+     ],
+     "relief_above_sea_m": 107,
+     "km_from_mahendragiri": 1929,
+     "km_per_yojana_if_100": 19.29,
+     "km_from_equator": 851,
+     "km_from_ujjain_meridian_then": 508
+    },
+    {
+     "label": 107,
+     "is_india": false,
+     "centroid": [
+      -5.517,
+      72.252
+     ],
+     "area_km2": 67,
+     "summit": [
+      -5.515,
+      72.256
+     ],
+     "relief_above_sea_m": 107,
+     "km_from_mahendragiri": 1645,
+     "km_per_yojana_if_100": 16.45,
+     "km_from_equator": 614,
+     "km_from_ujjain_meridian_then": 351
+    },
+    {
+     "label": 71,
+     "is_india": false,
+     "centroid": [
+      6.934,
+      73.298
+     ],
+     "area_km2": 56,
+     "summit": [
+      6.91,
+      73.281
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 489,
+     "km_per_yojana_if_100": 4.89,
+     "km_from_equator": 771,
+     "km_from_ujjain_meridian_then": 235
+    },
+    {
+     "label": 102,
+     "is_india": false,
+     "centroid": [
+      -4.892,
+      72.612
+     ],
+     "area_km2": 55,
+     "summit": [
+      -4.923,
+      72.59
+     ],
+     "relief_above_sea_m": 106,
+     "km_from_mahendragiri": 1567,
+     "km_per_yojana_if_100": 15.67,
+     "km_from_equator": 544,
+     "km_from_ujjain_meridian_then": 312
+    },
+    {
+     "label": 124,
+     "is_india": false,
+     "centroid": [
+      -7.565,
+      71.589
+     ],
+     "area_km2": 54,
+     "summit": [
+      -7.531,
+      71.606
+     ],
+     "relief_above_sea_m": 109,
+     "km_from_mahendragiri": 1885,
+     "km_per_yojana_if_100": 18.85,
+     "km_from_equator": 841,
+     "km_from_ujjain_meridian_then": 423
+    },
+    {
+     "label": 53,
+     "is_india": false,
+     "centroid": [
+      10.11,
+      73.646
+     ],
+     "area_km2": 53,
+     "summit": [
+      10.127,
+      73.665
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 463,
+     "km_per_yojana_if_100": 4.63,
+     "km_from_equator": 1124,
+     "km_from_ujjain_meridian_then": 195
+    },
+    {
+     "label": 35,
+     "is_india": false,
+     "centroid": [
+      11.252,
+      74.042
+     ],
+     "area_km2": 51,
+     "summit": [
+      11.252,
+      74.073
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 492,
+     "km_per_yojana_if_100": 4.92,
+     "km_from_equator": 1251,
+     "km_from_ujjain_meridian_then": 151
+    },
+    {
+     "label": 36,
+     "is_india": false,
+     "centroid": [
+      11.211,
+      72.766
+     ],
+     "area_km2": 46,
+     "summit": [
+      11.169,
+      72.74
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 606,
+     "km_per_yojana_if_100": 6.06,
+     "km_from_equator": 1247,
+     "km_from_ujjain_meridian_then": 290
+    },
+    {
+     "label": 24,
+     "is_india": false,
+     "centroid": [
+      12.314,
+      74.424
+     ],
+     "area_km2": 44,
+     "summit": [
+      12.344,
+      74.423
+     ],
+     "relief_above_sea_m": 12,
+     "km_from_mahendragiri": 546,
+     "km_per_yojana_if_100": 5.46,
+     "km_from_equator": 1369,
+     "km_from_ujjain_meridian_then": 109
+    },
+    {
+     "label": 97,
+     "is_india": false,
+     "centroid": [
+      -0.308,
+      73.433
+     ],
+     "area_km2": 44,
+     "summit": [
+      -0.298,
+      73.448
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 1064,
+     "km_per_yojana_if_100": 10.64,
+     "km_from_equator": 34,
+     "km_from_ujjain_meridian_then": 222
+    },
+    {
+     "label": 85,
+     "is_india": false,
+     "centroid": [
+      4.439,
+      72.951
+     ],
+     "area_km2": 42,
+     "summit": [
+      4.444,
+      72.973
+     ],
+     "relief_above_sea_m": 112,
+     "km_from_mahendragiri": 665,
+     "km_per_yojana_if_100": 6.65,
+     "km_from_equator": 494,
+     "km_from_ujjain_meridian_then": 275
+    },
+    {
+     "label": 8,
+     "is_india": false,
+     "centroid": [
+      13.765,
+      72.139
+     ],
+     "area_km2": 38,
+     "summit": [
+      13.785,
+      72.106
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 835,
+     "km_per_yojana_if_100": 8.35,
+     "km_from_equator": 1531,
+     "km_from_ujjain_meridian_then": 355
+    },
+    {
+     "label": 29,
+     "is_india": false,
+     "centroid": [
+      11.532,
+      74.698
+     ],
+     "area_km2": 36,
+     "summit": [
+      11.535,
+      74.681
+     ],
+     "relief_above_sea_m": 89,
+     "km_from_mahendragiri": 460,
+     "km_per_yojana_if_100": 4.6,
+     "km_from_equator": 1282,
+     "km_from_ujjain_meridian_then": 79
+    },
+    {
+     "label": 123,
+     "is_india": false,
+     "centroid": [
+      -7.524,
+      71.691
+     ],
+     "area_km2": 35,
+     "summit": [
+      -7.531,
+      71.723
+     ],
+     "relief_above_sea_m": 107,
+     "km_from_mahendragiri": 1880,
+     "km_per_yojana_if_100": 18.8,
+     "km_from_equator": 837,
+     "km_from_ujjain_meridian_then": 412
+    },
+    {
+     "label": 77,
+     "is_india": false,
+     "centroid": [
+      5.969,
+      72.941
+     ],
+     "area_km2": 32,
+     "summit": [
+      5.952,
+      72.956
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 570,
+     "km_per_yojana_if_100": 5.7,
+     "km_from_equator": 664,
+     "km_from_ujjain_meridian_then": 275
+    },
+    {
+     "label": 60,
+     "is_india": false,
+     "centroid": [
+      7.61,
+      72.741
+     ],
+     "area_km2": 31,
+     "summit": [
+      7.61,
+      72.748
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 531,
+     "km_per_yojana_if_100": 5.31,
+     "km_from_equator": 846,
+     "km_from_ujjain_meridian_then": 296
+    },
+    {
+     "label": 41,
+     "is_india": false,
+     "centroid": [
+      10.925,
+      75.181
+     ],
+     "area_km2": 30,
+     "summit": [
+      10.952,
+      75.148
+     ],
+     "relief_above_sea_m": 16,
+     "km_from_mahendragiri": 376,
+     "km_per_yojana_if_100": 3.76,
+     "km_from_equator": 1215,
+     "km_from_ujjain_meridian_then": 27
+    },
+    {
+     "label": 121,
+     "is_india": false,
+     "centroid": [
+      -7.383,
+      70.967
+     ],
+     "area_km2": 28,
+     "summit": [
+      -7.356,
+      70.965
+     ],
+     "relief_above_sea_m": 99,
+     "km_from_mahendragiri": 1895,
+     "km_per_yojana_if_100": 18.95,
+     "km_from_equator": 821,
+     "km_from_ujjain_meridian_then": 492
+    },
+    {
+     "label": 17,
+     "is_india": false,
+     "centroid": [
+      13.237,
+      72.022
+     ],
+     "area_km2": 25,
+     "summit": [
+      13.252,
+      72.023
+     ],
+     "relief_above_sea_m": 67,
+     "km_from_mahendragiri": 801,
+     "km_per_yojana_if_100": 8.01,
+     "km_from_equator": 1472,
+     "km_from_ujjain_meridian_then": 369
+    },
+    {
+     "label": 126,
+     "is_india": false,
+     "centroid": [
+      -8.271,
+      70.74
+     ],
+     "area_km2": 25,
+     "summit": [
+      -8.273,
+      70.74
+     ],
+     "relief_above_sea_m": 105,
+     "km_from_mahendragiri": 1997,
+     "km_per_yojana_if_100": 19.97,
+     "km_from_equator": 920,
+     "km_from_ujjain_meridian_then": 516
+    },
+    {
+     "label": 14,
+     "is_india": false,
+     "centroid": [
+      13.521,
+      72.559
+     ],
+     "area_km2": 23,
+     "summit": [
+      13.527,
+      72.548
+     ],
+     "relief_above_sea_m": 40,
+     "km_from_mahendragiri": 784,
+     "km_per_yojana_if_100": 7.84,
+     "km_from_equator": 1504,
+     "km_from_ujjain_meridian_then": 310
+    },
+    {
+     "label": 27,
+     "is_india": false,
+     "centroid": [
+      11.693,
+      72.708
+     ],
+     "area_km2": 19,
+     "summit": [
+      11.685,
+      72.69
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 640,
+     "km_per_yojana_if_100": 6.4,
+     "km_from_equator": 1300,
+     "km_from_ujjain_meridian_then": 296
+    },
+    {
+     "label": 47,
+     "is_india": false,
+     "centroid": [
+      10.557,
+      72.629
+     ],
+     "area_km2": 19,
+     "summit": [
+      10.552,
+      72.615
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 587,
+     "km_per_yojana_if_100": 5.87,
+     "km_from_equator": 1174,
+     "km_from_ujjain_meridian_then": 306
+    },
+    {
+     "label": 19,
+     "is_india": false,
+     "centroid": [
+      13.001,
+      73.519
+     ],
+     "area_km2": 18,
+     "summit": [
+      13.019,
+      73.506
+     ],
+     "relief_above_sea_m": 102,
+     "km_from_mahendragiri": 670,
+     "km_per_yojana_if_100": 6.7,
+     "km_from_equator": 1446,
+     "km_from_ujjain_meridian_then": 207
+    },
+    {
+     "label": 120,
+     "is_india": false,
+     "centroid": [
+      -7.254,
+      72.272
+     ],
+     "area_km2": 16,
+     "summit": [
+      -7.24,
+      72.248
+     ],
+     "relief_above_sea_m": 84,
+     "km_from_mahendragiri": 1833,
+     "km_per_yojana_if_100": 18.33,
+     "km_from_equator": 807,
+     "km_from_ujjain_meridian_then": 348
+    },
+    {
+     "label": 51,
+     "is_india": false,
+     "centroid": [
+      10.417,
+      75.47
+     ],
+     "area_km2": 14,
+     "summit": [
+      10.41,
+      75.465
+     ],
+     "relief_above_sea_m": 67,
+     "km_from_mahendragiri": 317,
+     "km_per_yojana_if_100": 3.17,
+     "km_from_equator": 1158,
+     "km_from_ujjain_meridian_then": 5
+    },
+    {
+     "label": 74,
+     "is_india": false,
+     "centroid": [
+      6.684,
+      73.199
+     ],
+     "area_km2": 14,
+     "summit": [
+      6.677,
+      73.19
+     ],
+     "relief_above_sea_m": 81,
+     "km_from_mahendragiri": 510,
+     "km_per_yojana_if_100": 5.1,
+     "km_from_equator": 743,
+     "km_from_ujjain_meridian_then": 246
+    },
+    {
+     "label": 92,
+     "is_india": false,
+     "centroid": [
+      3.181,
+      73.602
+     ],
+     "area_km2": 14,
+     "summit": [
+      3.185,
+      73.598
+     ],
+     "relief_above_sea_m": 83,
+     "km_from_mahendragiri": 721,
+     "km_per_yojana_if_100": 7.21,
+     "km_from_equator": 354,
+     "km_from_ujjain_meridian_then": 203
+    },
+    {
+     "label": 30,
+     "is_india": false,
+     "centroid": [
+      11.483,
+      73.002
+     ],
+     "area_km2": 13,
+     "summit": [
+      11.494,
+      73.006
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 600,
+     "km_per_yojana_if_100": 6.0,
+     "km_from_equator": 1277,
+     "km_from_ujjain_meridian_then": 264
+    },
+    {
+     "label": 49,
+     "is_india": false,
+     "centroid": [
+      10.51,
+      75.188
+     ],
+     "area_km2": 12,
+     "summit": [
+      10.502,
+      75.19
+     ],
+     "relief_above_sea_m": 103,
+     "km_from_mahendragiri": 346,
+     "km_per_yojana_if_100": 3.46,
+     "km_from_equator": 1169,
+     "km_from_ujjain_meridian_then": 26
+    },
+    {
+     "label": 81,
+     "is_india": false,
+     "centroid": [
+      4.96,
+      73.458
+     ],
+     "area_km2": 9,
+     "summit": [
+      4.96,
+      73.448
+     ],
+     "relief_above_sea_m": 111,
+     "km_from_mahendragiri": 587,
+     "km_per_yojana_if_100": 5.87,
+     "km_from_equator": 552,
+     "km_from_ujjain_meridian_then": 218
+    },
+    {
+     "label": 34,
+     "is_india": false,
+     "centroid": [
+      11.319,
+      74.012
+     ],
+     "area_km2": 8,
+     "summit": [
+      11.319,
+      74.006
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 502,
+     "km_per_yojana_if_100": 5.02,
+     "km_from_equator": 1259,
+     "km_from_ujjain_meridian_then": 154
+    },
+    {
+     "label": 57,
+     "is_india": false,
+     "centroid": [
+      8.836,
+      75.503
+     ],
+     "area_km2": 8,
+     "summit": [
+      8.835,
+      75.506
+     ],
+     "relief_above_sea_m": 59,
+     "km_from_mahendragiri": 227,
+     "km_per_yojana_if_100": 2.27,
+     "km_from_equator": 983,
+     "km_from_ujjain_meridian_then": 8
+    },
+    {
+     "label": 22,
+     "is_india": false,
+     "centroid": [
+      12.884,
+      72.615
+     ],
+     "area_km2": 7,
+     "summit": [
+      12.894,
+      72.606
+     ],
+     "relief_above_sea_m": 35,
+     "km_from_mahendragiri": 731,
+     "km_per_yojana_if_100": 7.31,
+     "km_from_equator": 1433,
+     "km_from_ujjain_meridian_then": 305
+    },
+    {
+     "label": 84,
+     "is_india": false,
+     "centroid": [
+      4.626,
+      72.774
+     ],
+     "area_km2": 7,
+     "summit": [
+      4.627,
+      72.773
+     ],
+     "relief_above_sea_m": 94,
+     "km_from_mahendragiri": 670,
+     "km_per_yojana_if_100": 6.7,
+     "km_from_equator": 514,
+     "km_from_ujjain_meridian_then": 294
+    },
+    {
+     "label": 13,
+     "is_india": false,
+     "centroid": [
+      13.583,
+      72.531
+     ],
+     "area_km2": 6,
+     "summit": [
+      13.585,
+      72.531
+     ],
+     "relief_above_sea_m": 30,
+     "km_from_mahendragiri": 793,
+     "km_per_yojana_if_100": 7.93,
+     "km_from_equator": 1510,
+     "km_from_ujjain_meridian_then": 313
+    },
+    {
+     "label": 9,
+     "is_india": false,
+     "centroid": [
+      13.773,
+      73.434
+     ],
+     "area_km2": 5,
+     "summit": [
+      13.777,
+      73.431
+     ],
+     "relief_above_sea_m": 4,
+     "km_from_mahendragiri": 746,
+     "km_per_yojana_if_100": 7.46,
+     "km_from_equator": 1532,
+     "km_from_ujjain_meridian_then": 215
+    },
+    {
+     "label": 31,
+     "is_india": false,
+     "centroid": [
+      11.448,
+      74.356
+     ],
+     "area_km2": 5,
+     "summit": [
+      11.452,
+      74.356
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 485,
+     "km_per_yojana_if_100": 4.85,
+     "km_from_equator": 1273,
+     "km_from_ujjain_meridian_then": 117
+    },
+    {
+     "label": 12,
+     "is_india": false,
+     "centroid": [
+      13.612,
+      72.31
+     ],
+     "area_km2": 4,
+     "summit": [
+      13.61,
+      72.306
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 812,
+     "km_per_yojana_if_100": 8.12,
+     "km_from_equator": 1514,
+     "km_from_ujjain_meridian_then": 337
+    },
+    {
+     "label": 56,
+     "is_india": false,
+     "centroid": [
+      9.777,
+      75.648
+     ],
+     "area_km2": 4,
+     "summit": [
+      9.769,
+      75.648
+     ],
+     "relief_above_sea_m": 29,
+     "km_from_mahendragiri": 256,
+     "km_per_yojana_if_100": 2.56,
+     "km_from_equator": 1087,
+     "km_from_ujjain_meridian_then": 24
+    },
+    {
+     "label": 100,
+     "is_india": false,
+     "centroid": [
+      -0.883,
+      72.968
+     ],
+     "area_km2": 4,
+     "summit": [
+      -0.881,
+      72.965
+     ],
+     "relief_above_sea_m": 66,
+     "km_from_mahendragiri": 1147,
+     "km_per_yojana_if_100": 11.47,
+     "km_from_equator": 98,
+     "km_from_ujjain_meridian_then": 273
+    },
+    {
+     "label": 111,
+     "is_india": false,
+     "centroid": [
+      -5.677,
+      71.965
+     ],
+     "area_km2": 3,
+     "summit": [
+      -5.673,
+      71.965
+     ],
+     "relief_above_sea_m": 48,
+     "km_from_mahendragiri": 1680,
+     "km_per_yojana_if_100": 16.8,
+     "km_from_equator": 631,
+     "km_from_ujjain_meridian_then": 383
+    },
+    {
+     "label": 112,
+     "is_india": false,
+     "centroid": [
+      -5.685,
+      71.71
+     ],
+     "area_km2": 3,
+     "summit": [
+      -5.69,
+      71.706
+     ],
+     "relief_above_sea_m": 44,
+     "km_from_mahendragiri": 1692,
+     "km_per_yojana_if_100": 16.92,
+     "km_from_equator": 632,
+     "km_from_ujjain_meridian_then": 411
+    }
+   ]
+  },
+  "deepest_glacial": {
+   "sea_level_m": -127.6,
+   "sri_lanka_joined_to_india": true,
+   "landmasses": [
+    {
+     "label": 1,
+     "is_india": true,
+     "centroid": [
+      11.31,
+      77.885
+     ],
+     "area_km2": 541439,
+     "summit": [
+      11.402,
+      76.74
+     ],
+     "relief_above_sea_m": 2691,
+     "km_from_mahendragiri": 0,
+     "km_per_yojana_if_100": 0.0,
+     "km_from_equator": 1258,
+     "km_from_ujjain_meridian_then": 268
+    },
+    {
+     "label": 96,
+     "is_india": false,
+     "centroid": [
+      -6.219,
+      72.029
+     ],
+     "area_km2": 15261,
+     "summit": [
+      -6.681,
+      71.323
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 1653,
+     "km_per_yojana_if_100": 16.53,
+     "km_from_equator": 692,
+     "km_from_ujjain_meridian_then": 376
+    },
+    {
+     "label": 56,
+     "is_india": false,
+     "centroid": [
+      6.28,
+      73.133
+     ],
+     "area_km2": 4798,
+     "summit": [
+      6.985,
+      73.173
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 498,
+     "km_per_yojana_if_100": 4.98,
+     "km_from_equator": 698,
+     "km_from_ujjain_meridian_then": 254
+    },
+    {
+     "label": 82,
+     "is_india": false,
+     "centroid": [
+      0.519,
+      73.283
+     ],
+     "area_km2": 3804,
+     "summit": [
+      0.377,
+      73.573
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 948,
+     "km_per_yojana_if_100": 9.48,
+     "km_from_equator": 58,
+     "km_from_ujjain_meridian_then": 238
+    },
+    {
+     "label": 75,
+     "is_india": false,
+     "centroid": [
+      3.25,
+      73.486
+     ],
+     "area_km2": 2951,
+     "summit": [
+      3.119,
+      73.656
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 683,
+     "km_per_yojana_if_100": 6.83,
+     "km_from_equator": 361,
+     "km_from_ujjain_meridian_then": 215
+    },
+    {
+     "label": 72,
+     "is_india": false,
+     "centroid": [
+      3.861,
+      72.832
+     ],
+     "area_km2": 2809,
+     "summit": [
+      3.485,
+      72.723
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 687,
+     "km_per_yojana_if_100": 6.87,
+     "km_from_equator": 429,
+     "km_from_ujjain_meridian_then": 288
+    },
+    {
+     "label": 63,
+     "is_india": false,
+     "centroid": [
+      5.436,
+      72.955
+     ],
+     "area_km2": 2785,
+     "summit": [
+      5.277,
+      72.956
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 569,
+     "km_per_yojana_if_100": 5.69,
+     "km_from_equator": 604,
+     "km_from_ujjain_meridian_then": 274
+    },
+    {
+     "label": 101,
+     "is_india": false,
+     "centroid": [
+      -7.091,
+      71.305
+     ],
+     "area_km2": 2186,
+     "summit": [
+      -7.273,
+      71.19
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 1829,
+     "km_per_yojana_if_100": 18.29,
+     "km_from_equator": 789,
+     "km_from_ujjain_meridian_then": 455
+    },
+    {
+     "label": 80,
+     "is_india": false,
+     "centroid": [
+      2.379,
+      73.106
+     ],
+     "area_km2": 2001,
+     "summit": [
+      2.41,
+      73.381
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 800,
+     "km_per_yojana_if_100": 8.0,
+     "km_from_equator": 265,
+     "km_from_ujjain_meridian_then": 258
+    },
+    {
+     "label": 77,
+     "is_india": false,
+     "centroid": [
+      2.999,
+      72.933
+     ],
+     "area_km2": 1880,
+     "summit": [
+      3.319,
+      72.823
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 753,
+     "km_per_yojana_if_100": 7.53,
+     "km_from_equator": 333,
+     "km_from_ujjain_meridian_then": 277
+    },
+    {
+     "label": 68,
+     "is_india": false,
+     "centroid": [
+      4.461,
+      73.494
+     ],
+     "area_km2": 1875,
+     "summit": [
+      4.552,
+      73.656
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 599,
+     "km_per_yojana_if_100": 5.99,
+     "km_from_equator": 496,
+     "km_from_ujjain_meridian_then": 214
+    },
+    {
+     "label": 10,
+     "is_india": false,
+     "centroid": [
+      12.874,
+      72.523
+     ],
+     "area_km2": 1222,
+     "summit": [
+      13.077,
+      72.348
+     ],
+     "relief_above_sea_m": 124,
+     "km_from_mahendragiri": 700,
+     "km_per_yojana_if_100": 7.0,
+     "km_from_equator": 1432,
+     "km_from_ujjain_meridian_then": 315
+    },
+    {
+     "label": 81,
+     "is_india": false,
+     "centroid": [
+      1.936,
+      73.415
+     ],
+     "area_km2": 1104,
+     "summit": [
+      1.794,
+      73.281
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 820,
+     "km_per_yojana_if_100": 8.2,
+     "km_from_equator": 215,
+     "km_from_ujjain_meridian_then": 224
+    },
+    {
+     "label": 90,
+     "is_india": false,
+     "centroid": [
+      -5.311,
+      71.827
+     ],
+     "area_km2": 1092,
+     "summit": [
+      -5.481,
+      71.781
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 1631,
+     "km_per_yojana_if_100": 16.31,
+     "km_from_equator": 591,
+     "km_from_ujjain_meridian_then": 399
+    },
+    {
+     "label": 87,
+     "is_india": false,
+     "centroid": [
+      -4.928,
+      72.326
+     ],
+     "area_km2": 1052,
+     "summit": [
+      -5.081,
+      72.323
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 1555,
+     "km_per_yojana_if_100": 15.55,
+     "km_from_equator": 548,
+     "km_from_ujjain_meridian_then": 344
+    },
+    {
+     "label": 65,
+     "is_india": false,
+     "centroid": [
+      5.399,
+      73.508
+     ],
+     "area_km2": 836,
+     "summit": [
+      5.252,
+      73.573
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 539,
+     "km_per_yojana_if_100": 5.39,
+     "km_from_equator": 600,
+     "km_from_ujjain_meridian_then": 212
+    },
+    {
+     "label": 33,
+     "is_india": false,
+     "centroid": [
+      10.949,
+      72.6
+     ],
+     "area_km2": 615,
+     "summit": [
+      11.119,
+      72.656
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 599,
+     "km_per_yojana_if_100": 5.99,
+     "km_from_equator": 1217,
+     "km_from_ujjain_meridian_then": 309
+    },
+    {
+     "label": 74,
+     "is_india": false,
+     "centroid": [
+      3.976,
+      73.447
+     ],
+     "area_km2": 591,
+     "summit": [
+      4.027,
+      73.556
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 648,
+     "km_per_yojana_if_100": 6.48,
+     "km_from_equator": 442,
+     "km_from_ujjain_meridian_then": 220
+    },
+    {
+     "label": 53,
+     "is_india": false,
+     "centroid": [
+      7.019,
+      72.923
+     ],
+     "area_km2": 442,
+     "summit": [
+      7.052,
+      73.04
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 511,
+     "km_per_yojana_if_100": 5.11,
+     "km_from_equator": 781,
+     "km_from_ujjain_meridian_then": 276
+    },
+    {
+     "label": 61,
+     "is_india": false,
+     "centroid": [
+      6.311,
+      72.62
+     ],
+     "area_km2": 420,
+     "summit": [
+      6.377,
+      72.723
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 573,
+     "km_per_yojana_if_100": 5.73,
+     "km_from_equator": 702,
+     "km_from_ujjain_meridian_then": 310
+    },
+    {
+     "label": 23,
+     "is_india": false,
+     "centroid": [
+      11.901,
+      71.793
+     ],
+     "area_km2": 281,
+     "summit": [
+      11.819,
+      71.756
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 726,
+     "km_per_yojana_if_100": 7.26,
+     "km_from_equator": 1323,
+     "km_from_ujjain_meridian_then": 395
+    },
+    {
+     "label": 105,
+     "is_india": false,
+     "centroid": [
+      -7.327,
+      72.44
+     ],
+     "area_km2": 277,
+     "summit": [
+      -7.273,
+      72.348
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 1824,
+     "km_per_yojana_if_100": 18.24,
+     "km_from_equator": 815,
+     "km_from_ujjain_meridian_then": 329
+    },
+    {
+     "label": 85,
+     "is_india": false,
+     "centroid": [
+      -0.635,
+      73.161
+     ],
+     "area_km2": 216,
+     "summit": [
+      -0.598,
+      73.123
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 1104,
+     "km_per_yojana_if_100": 11.04,
+     "km_from_equator": 71,
+     "km_from_ujjain_meridian_then": 252
+    },
+    {
+     "label": 89,
+     "is_india": false,
+     "centroid": [
+      -5.21,
+      72.458
+     ],
+     "area_km2": 209,
+     "summit": [
+      -5.256,
+      72.406
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 1604,
+     "km_per_yojana_if_100": 16.04,
+     "km_from_equator": 579,
+     "km_from_ujjain_meridian_then": 329
+    },
+    {
+     "label": 4,
+     "is_india": false,
+     "centroid": [
+      13.828,
+      72.223
+     ],
+     "area_km2": 206,
+     "summit": [
+      13.785,
+      72.106
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 827,
+     "km_per_yojana_if_100": 8.27,
+     "km_from_equator": 1538,
+     "km_from_ujjain_meridian_then": 346
+    },
+    {
+     "label": 22,
+     "is_india": false,
+     "centroid": [
+      12.356,
+      71.897
+     ],
+     "area_km2": 192,
+     "summit": [
+      12.402,
+      71.856
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 750,
+     "km_per_yojana_if_100": 7.5,
+     "km_from_equator": 1374,
+     "km_from_ujjain_meridian_then": 383
+    },
+    {
+     "label": 92,
+     "is_india": false,
+     "centroid": [
+      -5.353,
+      71.531
+     ],
+     "area_km2": 184,
+     "summit": [
+      -5.398,
+      71.531
+     ],
+     "relief_above_sea_m": 126,
+     "km_from_mahendragiri": 1657,
+     "km_per_yojana_if_100": 16.57,
+     "km_from_equator": 595,
+     "km_from_ujjain_meridian_then": 431
+    },
+    {
+     "label": 13,
+     "is_india": false,
+     "centroid": [
+      13.13,
+      71.974
+     ],
+     "area_km2": 183,
+     "summit": [
+      13.185,
+      71.898
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 786,
+     "km_per_yojana_if_100": 7.86,
+     "km_from_equator": 1460,
+     "km_from_ujjain_meridian_then": 374
+    },
+    {
+     "label": 37,
+     "is_india": false,
+     "centroid": [
+      10.856,
+      73.711
+     ],
+     "area_km2": 182,
+     "summit": [
+      10.819,
+      73.648
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 491,
+     "km_per_yojana_if_100": 4.91,
+     "km_from_equator": 1207,
+     "km_from_ujjain_meridian_then": 187
+    },
+    {
+     "label": 36,
+     "is_india": false,
+     "centroid": [
+      10.903,
+      72.237
+     ],
+     "area_km2": 178,
+     "summit": [
+      10.96,
+      72.356
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 634,
+     "km_per_yojana_if_100": 6.34,
+     "km_from_equator": 1212,
+     "km_from_ujjain_meridian_then": 348
+    },
+    {
+     "label": 42,
+     "is_india": false,
+     "centroid": [
+      10.072,
+      72.294
+     ],
+     "area_km2": 139,
+     "summit": [
+      10.152,
+      72.348
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 597,
+     "km_per_yojana_if_100": 5.97,
+     "km_from_equator": 1120,
+     "km_from_ujjain_meridian_then": 343
+    },
+    {
+     "label": 73,
+     "is_india": false,
+     "centroid": [
+      4.282,
+      72.983
+     ],
+     "area_km2": 139,
+     "summit": [
+      4.327,
+      72.973
+     ],
+     "relief_above_sea_m": 127,
+     "km_from_mahendragiri": 672,
+     "km_per_yojana_if_100": 6.72,
+     "km_from_equator": 476,
+     "km_from_ujjain_meridian_then": 271
+    },
+    {
+     "label": 91,
+     "is_india": false,
+     "centroid": [
+      -5.321,
+      72.249
+     ],
+     "area_km2": 134,
+     "summit": [
+      -5.365,
+      72.19
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 1624,
+     "km_per_yojana_if_100": 16.24,
+     "km_from_equator": 592,
+     "km_from_ujjain_meridian_then": 352
+    },
+    {
+     "label": 103,
+     "is_india": false,
+     "centroid": [
+      -7.179,
+      71.02
+     ],
+     "area_km2": 134,
+     "summit": [
+      -7.24,
+      71.065
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 1871,
+     "km_per_yojana_if_100": 18.71,
+     "km_from_equator": 798,
+     "km_from_ujjain_meridian_then": 486
+    },
+    {
+     "label": 35,
+     "is_india": false,
+     "centroid": [
+      11.152,
+      72.049
+     ],
+     "area_km2": 132,
+     "summit": [
+      11.102,
+      72.006
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 667,
+     "km_per_yojana_if_100": 6.67,
+     "km_from_equator": 1240,
+     "km_from_ujjain_meridian_then": 369
+    },
+    {
+     "label": 67,
+     "is_india": false,
+     "centroid": [
+      4.854,
+      72.92
+     ],
+     "area_km2": 132,
+     "summit": [
+      4.885,
+      72.915
+     ],
+     "relief_above_sea_m": 127,
+     "km_from_mahendragiri": 633,
+     "km_per_yojana_if_100": 6.33,
+     "km_from_equator": 540,
+     "km_from_ujjain_meridian_then": 278
+    },
+    {
+     "label": 45,
+     "is_india": false,
+     "centroid": [
+      8.286,
+      73.039
+     ],
+     "area_km2": 128,
+     "summit": [
+      8.252,
+      72.998
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 488,
+     "km_per_yojana_if_100": 4.88,
+     "km_from_equator": 921,
+     "km_from_ujjain_meridian_then": 263
+    },
+    {
+     "label": 6,
+     "is_india": false,
+     "centroid": [
+      13.604,
+      72.124
+     ],
+     "area_km2": 111,
+     "summit": [
+      13.66,
+      72.09
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 820,
+     "km_per_yojana_if_100": 8.2,
+     "km_from_equator": 1513,
+     "km_from_ujjain_meridian_then": 357
+    },
+    {
+     "label": 29,
+     "is_india": false,
+     "centroid": [
+      11.358,
+      74.382
+     ],
+     "area_km2": 104,
+     "summit": [
+      11.277,
+      74.406
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 467,
+     "km_per_yojana_if_100": 4.67,
+     "km_from_equator": 1263,
+     "km_from_ujjain_meridian_then": 114
+    },
+    {
+     "label": 26,
+     "is_india": false,
+     "centroid": [
+      11.549,
+      72.166
+     ],
+     "area_km2": 92,
+     "summit": [
+      11.494,
+      72.19
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 678,
+     "km_per_yojana_if_100": 6.78,
+     "km_from_equator": 1284,
+     "km_from_ujjain_meridian_then": 355
+    },
+    {
+     "label": 94,
+     "is_india": false,
+     "centroid": [
+      -5.516,
+      72.256
+     ],
+     "area_km2": 77,
+     "summit": [
+      -5.515,
+      72.256
+     ],
+     "relief_above_sea_m": 123,
+     "km_from_mahendragiri": 1644,
+     "km_per_yojana_if_100": 16.44,
+     "km_from_equator": 613,
+     "km_from_ujjain_meridian_then": 351
+    },
+    {
+     "label": 111,
+     "is_india": false,
+     "centroid": [
+      -7.652,
+      70.815
+     ],
+     "area_km2": 75,
+     "summit": [
+      -7.681,
+      70.856
+     ],
+     "relief_above_sea_m": 123,
+     "km_from_mahendragiri": 1929,
+     "km_per_yojana_if_100": 19.29,
+     "km_from_equator": 851,
+     "km_from_ujjain_meridian_then": 508
+    },
+    {
+     "label": 110,
+     "is_india": false,
+     "centroid": [
+      -7.563,
+      71.589
+     ],
+     "area_km2": 63,
+     "summit": [
+      -7.531,
+      71.606
+     ],
+     "relief_above_sea_m": 125,
+     "km_from_mahendragiri": 1885,
+     "km_per_yojana_if_100": 18.85,
+     "km_from_equator": 841,
+     "km_from_ujjain_meridian_then": 423
+    },
+    {
+     "label": 88,
+     "is_india": false,
+     "centroid": [
+      -4.891,
+      72.614
+     ],
+     "area_km2": 62,
+     "summit": [
+      -4.923,
+      72.59
+     ],
+     "relief_above_sea_m": 122,
+     "km_from_mahendragiri": 1567,
+     "km_per_yojana_if_100": 15.67,
+     "km_from_equator": 544,
+     "km_from_ujjain_meridian_then": 312
+    },
+    {
+     "label": 57,
+     "is_india": false,
+     "centroid": [
+      6.933,
+      73.299
+     ],
+     "area_km2": 58,
+     "summit": [
+      6.91,
+      73.281
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 489,
+     "km_per_yojana_if_100": 4.89,
+     "km_from_equator": 771,
+     "km_from_ujjain_meridian_then": 235
+    },
+    {
+     "label": 41,
+     "is_india": false,
+     "centroid": [
+      10.111,
+      73.645
+     ],
+     "area_km2": 56,
+     "summit": [
+      10.127,
+      73.665
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 463,
+     "km_per_yojana_if_100": 4.63,
+     "km_from_equator": 1124,
+     "km_from_ujjain_meridian_then": 195
+    },
+    {
+     "label": 32,
+     "is_india": false,
+     "centroid": [
+      11.253,
+      74.042
+     ],
+     "area_km2": 53,
+     "summit": [
+      11.252,
+      74.073
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 492,
+     "km_per_yojana_if_100": 4.92,
+     "km_from_equator": 1251,
+     "km_from_ujjain_meridian_then": 151
+    },
+    {
+     "label": 83,
+     "is_india": false,
+     "centroid": [
+      -0.308,
+      73.432
+     ],
+     "area_km2": 45,
+     "summit": [
+      -0.298,
+      73.448
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 1064,
+     "km_per_yojana_if_100": 10.64,
+     "km_from_equator": 34,
+     "km_from_ujjain_meridian_then": 222
+    },
+    {
+     "label": 71,
+     "is_india": false,
+     "centroid": [
+      4.44,
+      72.95
+     ],
+     "area_km2": 44,
+     "summit": [
+      4.444,
+      72.973
+     ],
+     "relief_above_sea_m": 128,
+     "km_from_mahendragiri": 665,
+     "km_per_yojana_if_100": 6.65,
+     "km_from_equator": 494,
+     "km_from_ujjain_meridian_then": 275
+    },
+    {
+     "label": 109,
+     "is_india": false,
+     "centroid": [
+      -7.524,
+      71.692
+     ],
+     "area_km2": 41,
+     "summit": [
+      -7.531,
+      71.723
+     ],
+     "relief_above_sea_m": 123,
+     "km_from_mahendragiri": 1880,
+     "km_per_yojana_if_100": 18.8,
+     "km_from_equator": 837,
+     "km_from_ujjain_meridian_then": 412
+    },
+    {
+     "label": 9,
+     "is_india": false,
+     "centroid": [
+      13.521,
+      72.562
+     ],
+     "area_km2": 38,
+     "summit": [
+      13.527,
+      72.548
+     ],
+     "relief_above_sea_m": 56,
+     "km_from_mahendragiri": 782,
+     "km_per_yojana_if_100": 7.82,
+     "km_from_equator": 1503,
+     "km_from_ujjain_meridian_then": 310
+    },
+    {
+     "label": 48,
+     "is_india": false,
+     "centroid": [
+      7.611,
+      72.74
+     ],
+     "area_km2": 33,
+     "summit": [
+      7.61,
+      72.748
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 531,
+     "km_per_yojana_if_100": 5.31,
+     "km_from_equator": 846,
+     "km_from_ujjain_meridian_then": 296
+    },
+    {
+     "label": 12,
+     "is_india": false,
+     "centroid": [
+      13.239,
+      72.021
+     ],
+     "area_km2": 29,
+     "summit": [
+      13.252,
+      72.023
+     ],
+     "relief_above_sea_m": 83,
+     "km_from_mahendragiri": 801,
+     "km_per_yojana_if_100": 8.01,
+     "km_from_equator": 1472,
+     "km_from_ujjain_meridian_then": 369
+    },
+    {
+     "label": 107,
+     "is_india": false,
+     "centroid": [
+      -7.383,
+      70.967
+     ],
+     "area_km2": 28,
+     "summit": [
+      -7.356,
+      70.965
+     ],
+     "relief_above_sea_m": 115,
+     "km_from_mahendragiri": 1895,
+     "km_per_yojana_if_100": 18.95,
+     "km_from_equator": 821,
+     "km_from_ujjain_meridian_then": 492
+    },
+    {
+     "label": 113,
+     "is_india": false,
+     "centroid": [
+      -8.272,
+      70.742
+     ],
+     "area_km2": 26,
+     "summit": [
+      -8.273,
+      70.74
+     ],
+     "relief_above_sea_m": 121,
+     "km_from_mahendragiri": 1997,
+     "km_per_yojana_if_100": 19.97,
+     "km_from_equator": 920,
+     "km_from_ujjain_meridian_then": 516
+    },
+    {
+     "label": 16,
+     "is_india": false,
+     "centroid": [
+      12.999,
+      73.52
+     ],
+     "area_km2": 23,
+     "summit": [
+      13.019,
+      73.506
+     ],
+     "relief_above_sea_m": 118,
+     "km_from_mahendragiri": 670,
+     "km_per_yojana_if_100": 6.7,
+     "km_from_equator": 1445,
+     "km_from_ujjain_meridian_then": 207
+    },
+    {
+     "label": 25,
+     "is_india": false,
+     "centroid": [
+      11.694,
+      72.707
+     ],
+     "area_km2": 21,
+     "summit": [
+      11.685,
+      72.69
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 640,
+     "km_per_yojana_if_100": 6.4,
+     "km_from_equator": 1300,
+     "km_from_ujjain_meridian_then": 296
+    },
+    {
+     "label": 60,
+     "is_india": false,
+     "centroid": [
+      6.682,
+      73.197
+     ],
+     "area_km2": 20,
+     "summit": [
+      6.677,
+      73.19
+     ],
+     "relief_above_sea_m": 97,
+     "km_from_mahendragiri": 510,
+     "km_per_yojana_if_100": 5.1,
+     "km_from_equator": 743,
+     "km_from_ujjain_meridian_then": 246
+    },
+    {
+     "label": 39,
+     "is_india": false,
+     "centroid": [
+      10.556,
+      72.628
+     ],
+     "area_km2": 19,
+     "summit": [
+      10.552,
+      72.615
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 587,
+     "km_per_yojana_if_100": 5.87,
+     "km_from_equator": 1174,
+     "km_from_ujjain_meridian_then": 306
+    },
+    {
+     "label": 106,
+     "is_india": false,
+     "centroid": [
+      -7.255,
+      72.272
+     ],
+     "area_km2": 19,
+     "summit": [
+      -7.24,
+      72.248
+     ],
+     "relief_above_sea_m": 100,
+     "km_from_mahendragiri": 1833,
+     "km_per_yojana_if_100": 18.33,
+     "km_from_equator": 807,
+     "km_from_ujjain_meridian_then": 348
+    },
+    {
+     "label": 40,
+     "is_india": false,
+     "centroid": [
+      10.516,
+      75.185
+     ],
+     "area_km2": 18,
+     "summit": [
+      10.502,
+      75.19
+     ],
+     "relief_above_sea_m": 119,
+     "km_from_mahendragiri": 346,
+     "km_per_yojana_if_100": 3.46,
+     "km_from_equator": 1169,
+     "km_from_ujjain_meridian_then": 26
+    },
+    {
+     "label": 27,
+     "is_india": false,
+     "centroid": [
+      11.483,
+      73.002
+     ],
+     "area_km2": 13,
+     "summit": [
+      11.494,
+      73.006
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 600,
+     "km_per_yojana_if_100": 6.0,
+     "km_from_equator": 1277,
+     "km_from_ujjain_meridian_then": 264
+    },
+    {
+     "label": 5,
+     "is_india": false,
+     "centroid": [
+      13.745,
+      73.382
+     ],
+     "area_km2": 10,
+     "summit": [
+      13.744,
+      73.381
+     ],
+     "relief_above_sea_m": 20,
+     "km_from_mahendragiri": 746,
+     "km_per_yojana_if_100": 7.46,
+     "km_from_equator": 1528,
+     "km_from_ujjain_meridian_then": 221
+    },
+    {
+     "label": 8,
+     "is_india": false,
+     "centroid": [
+      13.576,
+      72.522
+     ],
+     "area_km2": 10,
+     "summit": [
+      13.585,
+      72.531
+     ],
+     "relief_above_sea_m": 46,
+     "km_from_mahendragiri": 793,
+     "km_per_yojana_if_100": 7.93,
+     "km_from_equator": 1510,
+     "km_from_ujjain_meridian_then": 314
+    },
+    {
+     "label": 43,
+     "is_india": false,
+     "centroid": [
+      8.834,
+      75.503
+     ],
+     "area_km2": 9,
+     "summit": [
+      8.835,
+      75.506
+     ],
+     "relief_above_sea_m": 75,
+     "km_from_mahendragiri": 226,
+     "km_per_yojana_if_100": 2.26,
+     "km_from_equator": 982,
+     "km_from_ujjain_meridian_then": 8
+    },
+    {
+     "label": 66,
+     "is_india": false,
+     "centroid": [
+      4.96,
+      73.458
+     ],
+     "area_km2": 9,
+     "summit": [
+      4.96,
+      73.448
+     ],
+     "relief_above_sea_m": 127,
+     "km_from_mahendragiri": 587,
+     "km_per_yojana_if_100": 5.87,
+     "km_from_equator": 552,
+     "km_from_ujjain_meridian_then": 218
+    },
+    {
+     "label": 31,
+     "is_india": false,
+     "centroid": [
+      11.319,
+      74.012
+     ],
+     "area_km2": 8,
+     "summit": [
+      11.319,
+      74.006
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 502,
+     "km_per_yojana_if_100": 5.02,
+     "km_from_equator": 1259,
+     "km_from_ujjain_meridian_then": 154
+    },
+    {
+     "label": 69,
+     "is_india": false,
+     "centroid": [
+      4.624,
+      72.773
+     ],
+     "area_km2": 8,
+     "summit": [
+      4.627,
+      72.773
+     ],
+     "relief_above_sea_m": 110,
+     "km_from_mahendragiri": 670,
+     "km_per_yojana_if_100": 6.7,
+     "km_from_equator": 514,
+     "km_from_ujjain_meridian_then": 294
+    },
+    {
+     "label": 97,
+     "is_india": false,
+     "centroid": [
+      -5.678,
+      71.965
+     ],
+     "area_km2": 8,
+     "summit": [
+      -5.673,
+      71.965
+     ],
+     "relief_above_sea_m": 64,
+     "km_from_mahendragiri": 1679,
+     "km_per_yojana_if_100": 16.79,
+     "km_from_equator": 631,
+     "km_from_ujjain_meridian_then": 383
+    },
+    {
+     "label": 28,
+     "is_india": false,
+     "centroid": [
+      11.45,
+      74.356
+     ],
+     "area_km2": 6,
+     "summit": [
+      11.452,
+      74.356
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 485,
+     "km_per_yojana_if_100": 4.85,
+     "km_from_equator": 1273,
+     "km_from_ujjain_meridian_then": 117
+    },
+    {
+     "label": 7,
+     "is_india": false,
+     "centroid": [
+      13.61,
+      72.31
+     ],
+     "area_km2": 5,
+     "summit": [
+      13.61,
+      72.306
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 812,
+     "km_per_yojana_if_100": 8.12,
+     "km_from_equator": 1513,
+     "km_from_ujjain_meridian_then": 337
+    },
+    {
+     "label": 14,
+     "is_india": false,
+     "centroid": [
+      13.052,
+      72.427
+     ],
+     "area_km2": 5,
+     "summit": [
+      13.052,
+      72.423
+     ],
+     "relief_above_sea_m": 11,
+     "km_from_mahendragiri": 760,
+     "km_per_yojana_if_100": 7.6,
+     "km_from_equator": 1451,
+     "km_from_ujjain_meridian_then": 325
+    },
+    {
+     "label": 86,
+     "is_india": false,
+     "centroid": [
+      -0.883,
+      72.968
+     ],
+     "area_km2": 4,
+     "summit": [
+      -0.881,
+      72.965
+     ],
+     "relief_above_sea_m": 82,
+     "km_from_mahendragiri": 1147,
+     "km_per_yojana_if_100": 11.47,
+     "km_from_equator": 98,
+     "km_from_ujjain_meridian_then": 273
+    },
+    {
+     "label": 93,
+     "is_india": false,
+     "centroid": [
+      -5.463,
+      71.51
+     ],
+     "area_km2": 4,
+     "summit": [
+      -5.465,
+      71.506
+     ],
+     "relief_above_sea_m": 59,
+     "km_from_mahendragiri": 1677,
+     "km_per_yojana_if_100": 16.77,
+     "km_from_equator": 607,
+     "km_from_ujjain_meridian_then": 434
+    },
+    {
+     "label": 24,
+     "is_india": false,
+     "centroid": [
+      12.006,
+      74.194
+     ],
+     "area_km2": 3,
+     "summit": [
+      12.002,
+      74.19
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 542,
+     "km_per_yojana_if_100": 5.42,
+     "km_from_equator": 1335,
+     "km_from_ujjain_meridian_then": 134
+    },
+    {
+     "label": 79,
+     "is_india": false,
+     "centroid": [
+      3.035,
+      73.319
+     ],
+     "area_km2": 3,
+     "summit": [
+      3.027,
+      73.315
+     ],
+     "relief_above_sea_m": 5,
+     "km_from_mahendragiri": 754,
+     "km_per_yojana_if_100": 7.54,
+     "km_from_equator": 338,
+     "km_from_ujjain_meridian_then": 234
+    },
+    {
+     "label": 98,
+     "is_india": false,
+     "centroid": [
+      -5.685,
+      71.71
+     ],
+     "area_km2": 3,
+     "summit": [
+      -5.69,
+      71.706
+     ],
+     "relief_above_sea_m": 60,
+     "km_from_mahendragiri": 1692,
+     "km_per_yojana_if_100": 16.92,
+     "km_from_equator": 632,
+     "km_from_ujjain_meridian_then": 411
+    }
+   ]
+  },
+  "deepest_plus_subsidence": {
+   "sea_level_m": -149.1,
+   "sri_lanka_joined_to_india": true,
+   "landmasses": [
+    {
+     "label": 1,
+     "is_india": true,
+     "centroid": [
+      11.307,
+      77.878
+     ],
+     "area_km2": 545190,
+     "summit": [
+      11.402,
+      76.74
+     ],
+     "relief_above_sea_m": 2712,
+     "km_from_mahendragiri": 0,
+     "km_per_yojana_if_100": 0.0,
+     "km_from_equator": 1257,
+     "km_from_ujjain_meridian_then": 267
+    },
+    {
+     "label": 97,
+     "is_india": false,
+     "centroid": [
+      -6.221,
+      72.028
+     ],
+     "area_km2": 15417,
+     "summit": [
+      -6.681,
+      71.323
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 1652,
+     "km_per_yojana_if_100": 16.52,
+     "km_from_equator": 692,
+     "km_from_ujjain_meridian_then": 376
+    },
+    {
+     "label": 54,
+     "is_india": false,
+     "centroid": [
+      6.278,
+      73.133
+     ],
+     "area_km2": 4889,
+     "summit": [
+      6.985,
+      73.173
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 498,
+     "km_per_yojana_if_100": 4.98,
+     "km_from_equator": 698,
+     "km_from_ujjain_meridian_then": 254
+    },
+    {
+     "label": 81,
+     "is_india": false,
+     "centroid": [
+      0.519,
+      73.283
+     ],
+     "area_km2": 3822,
+     "summit": [
+      0.377,
+      73.573
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 948,
+     "km_per_yojana_if_100": 9.48,
+     "km_from_equator": 58,
+     "km_from_ujjain_meridian_then": 238
+    },
+    {
+     "label": 72,
+     "is_india": false,
+     "centroid": [
+      3.25,
+      73.486
+     ],
+     "area_km2": 3017,
+     "summit": [
+      3.119,
+      73.656
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 683,
+     "km_per_yojana_if_100": 6.83,
+     "km_from_equator": 361,
+     "km_from_ujjain_meridian_then": 216
+    },
+    {
+     "label": 69,
+     "is_india": false,
+     "centroid": [
+      3.863,
+      72.833
+     ],
+     "area_km2": 2865,
+     "summit": [
+      3.485,
+      72.723
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 686,
+     "km_per_yojana_if_100": 6.86,
+     "km_from_equator": 430,
+     "km_from_ujjain_meridian_then": 288
+    },
+    {
+     "label": 60,
+     "is_india": false,
+     "centroid": [
+      5.439,
+      72.954
+     ],
+     "area_km2": 2844,
+     "summit": [
+      5.277,
+      72.956
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 569,
+     "km_per_yojana_if_100": 5.69,
+     "km_from_equator": 605,
+     "km_from_ujjain_meridian_then": 274
+    },
+    {
+     "label": 102,
+     "is_india": false,
+     "centroid": [
+      -7.097,
+      71.286
+     ],
+     "area_km2": 2401,
+     "summit": [
+      -7.273,
+      71.19
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 1828,
+     "km_per_yojana_if_100": 18.28,
+     "km_from_equator": 789,
+     "km_from_ujjain_meridian_then": 457
+    },
+    {
+     "label": 78,
+     "is_india": false,
+     "centroid": [
+      2.379,
+      73.104
+     ],
+     "area_km2": 2028,
+     "summit": [
+      2.41,
+      73.381
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 800,
+     "km_per_yojana_if_100": 8.0,
+     "km_from_equator": 265,
+     "km_from_ujjain_meridian_then": 258
+    },
+    {
+     "label": 74,
+     "is_india": false,
+     "centroid": [
+      3.001,
+      72.934
+     ],
+     "area_km2": 1936,
+     "summit": [
+      3.319,
+      72.823
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 752,
+     "km_per_yojana_if_100": 7.52,
+     "km_from_equator": 334,
+     "km_from_ujjain_meridian_then": 277
+    },
+    {
+     "label": 64,
+     "is_india": false,
+     "centroid": [
+      4.462,
+      73.493
+     ],
+     "area_km2": 1902,
+     "summit": [
+      4.552,
+      73.656
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 599,
+     "km_per_yojana_if_100": 5.99,
+     "km_from_equator": 496,
+     "km_from_ujjain_meridian_then": 214
+    },
+    {
+     "label": 8,
+     "is_india": false,
+     "centroid": [
+      12.898,
+      72.521
+     ],
+     "area_km2": 1501,
+     "summit": [
+      13.077,
+      72.348
+     ],
+     "relief_above_sea_m": 145,
+     "km_from_mahendragiri": 699,
+     "km_per_yojana_if_100": 6.99,
+     "km_from_equator": 1434,
+     "km_from_ujjain_meridian_then": 315
+    },
+    {
+     "label": 90,
+     "is_india": false,
+     "centroid": [
+      -5.309,
+      71.826
+     ],
+     "area_km2": 1127,
+     "summit": [
+      -5.481,
+      71.781
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 1631,
+     "km_per_yojana_if_100": 16.31,
+     "km_from_equator": 590,
+     "km_from_ujjain_meridian_then": 399
+    },
+    {
+     "label": 79,
+     "is_india": false,
+     "centroid": [
+      1.937,
+      73.415
+     ],
+     "area_km2": 1116,
+     "summit": [
+      1.794,
+      73.281
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 820,
+     "km_per_yojana_if_100": 8.2,
+     "km_from_equator": 215,
+     "km_from_ujjain_meridian_then": 224
+    },
+    {
+     "label": 86,
+     "is_india": false,
+     "centroid": [
+      -4.93,
+      72.325
+     ],
+     "area_km2": 1087,
+     "summit": [
+      -5.081,
+      72.323
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 1555,
+     "km_per_yojana_if_100": 15.55,
+     "km_from_equator": 548,
+     "km_from_ujjain_meridian_then": 344
+    },
+    {
+     "label": 61,
+     "is_india": false,
+     "centroid": [
+      5.399,
+      73.508
+     ],
+     "area_km2": 845,
+     "summit": [
+      5.252,
+      73.573
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 539,
+     "km_per_yojana_if_100": 5.39,
+     "km_from_equator": 600,
+     "km_from_ujjain_meridian_then": 212
+    },
+    {
+     "label": 31,
+     "is_india": false,
+     "centroid": [
+      10.95,
+      72.601
+     ],
+     "area_km2": 626,
+     "summit": [
+      11.119,
+      72.656
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 599,
+     "km_per_yojana_if_100": 5.99,
+     "km_from_equator": 1218,
+     "km_from_ujjain_meridian_then": 309
+    },
+    {
+     "label": 71,
+     "is_india": false,
+     "centroid": [
+      3.976,
+      73.446
+     ],
+     "area_km2": 599,
+     "summit": [
+      4.027,
+      73.556
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 648,
+     "km_per_yojana_if_100": 6.48,
+     "km_from_equator": 442,
+     "km_from_ujjain_meridian_then": 220
+    },
+    {
+     "label": 50,
+     "is_india": false,
+     "centroid": [
+      7.019,
+      72.924
+     ],
+     "area_km2": 452,
+     "summit": [
+      7.052,
+      73.04
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 511,
+     "km_per_yojana_if_100": 5.11,
+     "km_from_equator": 780,
+     "km_from_ujjain_meridian_then": 276
+    },
+    {
+     "label": 59,
+     "is_india": false,
+     "centroid": [
+      6.312,
+      72.62
+     ],
+     "area_km2": 440,
+     "summit": [
+      6.377,
+      72.723
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 573,
+     "km_per_yojana_if_100": 5.73,
+     "km_from_equator": 702,
+     "km_from_ujjain_meridian_then": 310
+    },
+    {
+     "label": 20,
+     "is_india": false,
+     "centroid": [
+      11.899,
+      71.793
+     ],
+     "area_km2": 292,
+     "summit": [
+      11.819,
+      71.756
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 726,
+     "km_per_yojana_if_100": 7.26,
+     "km_from_equator": 1323,
+     "km_from_ujjain_meridian_then": 395
+    },
+    {
+     "label": 105,
+     "is_india": false,
+     "centroid": [
+      -7.328,
+      72.439
+     ],
+     "area_km2": 284,
+     "summit": [
+      -7.273,
+      72.348
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 1824,
+     "km_per_yojana_if_100": 18.24,
+     "km_from_equator": 815,
+     "km_from_ujjain_meridian_then": 330
+    },
+    {
+     "label": 5,
+     "is_india": false,
+     "centroid": [
+      13.826,
+      72.222
+     ],
+     "area_km2": 223,
+     "summit": [
+      13.785,
+      72.106
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 827,
+     "km_per_yojana_if_100": 8.27,
+     "km_from_equator": 1537,
+     "km_from_ujjain_meridian_then": 346
+    },
+    {
+     "label": 89,
+     "is_india": false,
+     "centroid": [
+      -5.21,
+      72.458
+     ],
+     "area_km2": 221,
+     "summit": [
+      -5.256,
+      72.406
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 1604,
+     "km_per_yojana_if_100": 16.04,
+     "km_from_equator": 579,
+     "km_from_ujjain_meridian_then": 329
+    },
+    {
+     "label": 84,
+     "is_india": false,
+     "centroid": [
+      -0.635,
+      73.161
+     ],
+     "area_km2": 218,
+     "summit": [
+      -0.598,
+      73.123
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 1104,
+     "km_per_yojana_if_100": 11.04,
+     "km_from_equator": 71,
+     "km_from_ujjain_meridian_then": 252
+    },
+    {
+     "label": 13,
+     "is_india": false,
+     "centroid": [
+      13.128,
+      71.977
+     ],
+     "area_km2": 212,
+     "summit": [
+      13.185,
+      71.898
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 786,
+     "km_per_yojana_if_100": 7.86,
+     "km_from_equator": 1460,
+     "km_from_ujjain_meridian_then": 374
+    },
+    {
+     "label": 93,
+     "is_india": false,
+     "centroid": [
+      -5.357,
+      71.532
+     ],
+     "area_km2": 205,
+     "summit": [
+      -5.398,
+      71.531
+     ],
+     "relief_above_sea_m": 147,
+     "km_from_mahendragiri": 1657,
+     "km_per_yojana_if_100": 16.57,
+     "km_from_equator": 596,
+     "km_from_ujjain_meridian_then": 431
+    },
+    {
+     "label": 19,
+     "is_india": false,
+     "centroid": [
+      12.356,
+      71.897
+     ],
+     "area_km2": 199,
+     "summit": [
+      12.402,
+      71.856
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 750,
+     "km_per_yojana_if_100": 7.5,
+     "km_from_equator": 1374,
+     "km_from_ujjain_meridian_then": 383
+    },
+    {
+     "label": 35,
+     "is_india": false,
+     "centroid": [
+      10.856,
+      73.712
+     ],
+     "area_km2": 186,
+     "summit": [
+      10.819,
+      73.648
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 491,
+     "km_per_yojana_if_100": 4.91,
+     "km_from_equator": 1207,
+     "km_from_ujjain_meridian_then": 187
+    },
+    {
+     "label": 34,
+     "is_india": false,
+     "centroid": [
+      10.901,
+      72.236
+     ],
+     "area_km2": 183,
+     "summit": [
+      10.96,
+      72.356
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 634,
+     "km_per_yojana_if_100": 6.34,
+     "km_from_equator": 1212,
+     "km_from_ujjain_meridian_then": 348
+    },
+    {
+     "label": 70,
+     "is_india": false,
+     "centroid": [
+      4.28,
+      72.984
+     ],
+     "area_km2": 152,
+     "summit": [
+      4.327,
+      72.973
+     ],
+     "relief_above_sea_m": 148,
+     "km_from_mahendragiri": 672,
+     "km_per_yojana_if_100": 6.72,
+     "km_from_equator": 476,
+     "km_from_ujjain_meridian_then": 271
+    },
+    {
+     "label": 92,
+     "is_india": false,
+     "centroid": [
+      -5.321,
+      72.249
+     ],
+     "area_km2": 146,
+     "summit": [
+      -5.365,
+      72.19
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 1624,
+     "km_per_yojana_if_100": 16.24,
+     "km_from_equator": 592,
+     "km_from_ujjain_meridian_then": 352
+    },
+    {
+     "label": 40,
+     "is_india": false,
+     "centroid": [
+      10.074,
+      72.294
+     ],
+     "area_km2": 143,
+     "summit": [
+      10.152,
+      72.348
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 597,
+     "km_per_yojana_if_100": 5.97,
+     "km_from_equator": 1120,
+     "km_from_ujjain_meridian_then": 343
+    },
+    {
+     "label": 33,
+     "is_india": false,
+     "centroid": [
+      11.152,
+      72.049
+     ],
+     "area_km2": 136,
+     "summit": [
+      11.102,
+      72.006
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 667,
+     "km_per_yojana_if_100": 6.67,
+     "km_from_equator": 1240,
+     "km_from_ujjain_meridian_then": 369
+    },
+    {
+     "label": 63,
+     "is_india": false,
+     "centroid": [
+      4.854,
+      72.919
+     ],
+     "area_km2": 134,
+     "summit": [
+      4.885,
+      72.915
+     ],
+     "relief_above_sea_m": 148,
+     "km_from_mahendragiri": 633,
+     "km_per_yojana_if_100": 6.33,
+     "km_from_equator": 540,
+     "km_from_ujjain_meridian_then": 278
+    },
+    {
+     "label": 44,
+     "is_india": false,
+     "centroid": [
+      8.286,
+      73.038
+     ],
+     "area_km2": 130,
+     "summit": [
+      8.252,
+      72.998
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 488,
+     "km_per_yojana_if_100": 4.88,
+     "km_from_equator": 921,
+     "km_from_ujjain_meridian_then": 263
+    },
+    {
+     "label": 6,
+     "is_india": false,
+     "centroid": [
+      13.607,
+      72.126
+     ],
+     "area_km2": 129,
+     "summit": [
+      13.66,
+      72.09
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 820,
+     "km_per_yojana_if_100": 8.2,
+     "km_from_equator": 1513,
+     "km_from_ujjain_meridian_then": 357
+    },
+    {
+     "label": 27,
+     "is_india": false,
+     "centroid": [
+      11.359,
+      74.382
+     ],
+     "area_km2": 109,
+     "summit": [
+      11.277,
+      74.406
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 467,
+     "km_per_yojana_if_100": 4.67,
+     "km_from_equator": 1263,
+     "km_from_ujjain_meridian_then": 114
+    },
+    {
+     "label": 24,
+     "is_india": false,
+     "centroid": [
+      11.549,
+      72.165
+     ],
+     "area_km2": 93,
+     "summit": [
+      11.494,
+      72.19
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 678,
+     "km_per_yojana_if_100": 6.78,
+     "km_from_equator": 1284,
+     "km_from_ujjain_meridian_then": 355
+    },
+    {
+     "label": 95,
+     "is_india": false,
+     "centroid": [
+      -5.514,
+      72.258
+     ],
+     "area_km2": 87,
+     "summit": [
+      -5.515,
+      72.256
+     ],
+     "relief_above_sea_m": 144,
+     "km_from_mahendragiri": 1644,
+     "km_per_yojana_if_100": 16.44,
+     "km_from_equator": 613,
+     "km_from_ujjain_meridian_then": 351
+    },
+    {
+     "label": 113,
+     "is_india": false,
+     "centroid": [
+      -7.652,
+      70.813
+     ],
+     "area_km2": 83,
+     "summit": [
+      -7.681,
+      70.856
+     ],
+     "relief_above_sea_m": 144,
+     "km_from_mahendragiri": 1928,
+     "km_per_yojana_if_100": 19.28,
+     "km_from_equator": 851,
+     "km_from_ujjain_meridian_then": 508
+    },
+    {
+     "label": 111,
+     "is_india": false,
+     "centroid": [
+      -7.568,
+      71.587
+     ],
+     "area_km2": 77,
+     "summit": [
+      -7.531,
+      71.606
+     ],
+     "relief_above_sea_m": 146,
+     "km_from_mahendragiri": 1885,
+     "km_per_yojana_if_100": 18.85,
+     "km_from_equator": 842,
+     "km_from_ujjain_meridian_then": 423
+    },
+    {
+     "label": 88,
+     "is_india": false,
+     "centroid": [
+      -4.89,
+      72.615
+     ],
+     "area_km2": 68,
+     "summit": [
+      -4.923,
+      72.59
+     ],
+     "relief_above_sea_m": 143,
+     "km_from_mahendragiri": 1567,
+     "km_per_yojana_if_100": 15.67,
+     "km_from_equator": 544,
+     "km_from_ujjain_meridian_then": 312
+    },
+    {
+     "label": 56,
+     "is_india": false,
+     "centroid": [
+      6.934,
+      73.299
+     ],
+     "area_km2": 61,
+     "summit": [
+      6.91,
+      73.281
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 489,
+     "km_per_yojana_if_100": 4.89,
+     "km_from_equator": 771,
+     "km_from_ujjain_meridian_then": 235
+    },
+    {
+     "label": 39,
+     "is_india": false,
+     "centroid": [
+      10.112,
+      73.645
+     ],
+     "area_km2": 58,
+     "summit": [
+      10.127,
+      73.665
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 463,
+     "km_per_yojana_if_100": 4.63,
+     "km_from_equator": 1124,
+     "km_from_ujjain_meridian_then": 195
+    },
+    {
+     "label": 9,
+     "is_india": false,
+     "centroid": [
+      13.521,
+      72.567
+     ],
+     "area_km2": 57,
+     "summit": [
+      13.527,
+      72.548
+     ],
+     "relief_above_sea_m": 77,
+     "km_from_mahendragiri": 782,
+     "km_per_yojana_if_100": 7.82,
+     "km_from_equator": 1504,
+     "km_from_ujjain_meridian_then": 309
+    },
+    {
+     "label": 66,
+     "is_india": false,
+     "centroid": [
+      4.437,
+      72.949
+     ],
+     "area_km2": 55,
+     "summit": [
+      4.444,
+      72.973
+     ],
+     "relief_above_sea_m": 149,
+     "km_from_mahendragiri": 664,
+     "km_per_yojana_if_100": 6.64,
+     "km_from_equator": 493,
+     "km_from_ujjain_meridian_then": 275
+    },
+    {
+     "label": 30,
+     "is_india": false,
+     "centroid": [
+      11.253,
+      74.042
+     ],
+     "area_km2": 53,
+     "summit": [
+      11.252,
+      74.073
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 492,
+     "km_per_yojana_if_100": 4.92,
+     "km_from_equator": 1251,
+     "km_from_ujjain_meridian_then": 151
+    },
+    {
+     "label": 110,
+     "is_india": false,
+     "centroid": [
+      -7.524,
+      71.694
+     ],
+     "area_km2": 49,
+     "summit": [
+      -7.531,
+      71.723
+     ],
+     "relief_above_sea_m": 144,
+     "km_from_mahendragiri": 1880,
+     "km_per_yojana_if_100": 18.8,
+     "km_from_equator": 837,
+     "km_from_ujjain_meridian_then": 411
+    },
+    {
+     "label": 82,
+     "is_india": false,
+     "centroid": [
+      -0.309,
+      73.433
+     ],
+     "area_km2": 46,
+     "summit": [
+      -0.298,
+      73.448
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 1064,
+     "km_per_yojana_if_100": 10.64,
+     "km_from_equator": 34,
+     "km_from_ujjain_meridian_then": 222
+    },
+    {
+     "label": 11,
+     "is_india": false,
+     "centroid": [
+      13.235,
+      72.022
+     ],
+     "area_km2": 38,
+     "summit": [
+      13.252,
+      72.023
+     ],
+     "relief_above_sea_m": 104,
+     "km_from_mahendragiri": 800,
+     "km_per_yojana_if_100": 8.0,
+     "km_from_equator": 1472,
+     "km_from_ujjain_meridian_then": 369
+    },
+    {
+     "label": 46,
+     "is_india": false,
+     "centroid": [
+      7.611,
+      72.739
+     ],
+     "area_km2": 37,
+     "summit": [
+      7.61,
+      72.748
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 531,
+     "km_per_yojana_if_100": 5.31,
+     "km_from_equator": 846,
+     "km_from_ujjain_meridian_then": 296
+    },
+    {
+     "label": 15,
+     "is_india": false,
+     "centroid": [
+      12.992,
+      73.525
+     ],
+     "area_km2": 33,
+     "summit": [
+      13.019,
+      73.506
+     ],
+     "relief_above_sea_m": 139,
+     "km_from_mahendragiri": 668,
+     "km_per_yojana_if_100": 6.68,
+     "km_from_equator": 1445,
+     "km_from_ujjain_meridian_then": 206
+    },
+    {
+     "label": 107,
+     "is_india": false,
+     "centroid": [
+      -7.383,
+      70.966
+     ],
+     "area_km2": 31,
+     "summit": [
+      -7.356,
+      70.965
+     ],
+     "relief_above_sea_m": 136,
+     "km_from_mahendragiri": 1895,
+     "km_per_yojana_if_100": 18.95,
+     "km_from_equator": 821,
+     "km_from_ujjain_meridian_then": 492
+    },
+    {
+     "label": 115,
+     "is_india": false,
+     "centroid": [
+      -8.271,
+      70.742
+     ],
+     "area_km2": 31,
+     "summit": [
+      -8.273,
+      70.74
+     ],
+     "relief_above_sea_m": 142,
+     "km_from_mahendragiri": 1997,
+     "km_per_yojana_if_100": 19.97,
+     "km_from_equator": 920,
+     "km_from_ujjain_meridian_then": 516
+    },
+    {
+     "label": 58,
+     "is_india": false,
+     "centroid": [
+      6.681,
+      73.197
+     ],
+     "area_km2": 26,
+     "summit": [
+      6.677,
+      73.19
+     ],
+     "relief_above_sea_m": 118,
+     "km_from_mahendragiri": 510,
+     "km_per_yojana_if_100": 5.1,
+     "km_from_equator": 743,
+     "km_from_ujjain_meridian_then": 246
+    },
+    {
+     "label": 38,
+     "is_india": false,
+     "centroid": [
+      10.517,
+      75.184
+     ],
+     "area_km2": 23,
+     "summit": [
+      10.502,
+      75.19
+     ],
+     "relief_above_sea_m": 140,
+     "km_from_mahendragiri": 346,
+     "km_per_yojana_if_100": 3.46,
+     "km_from_equator": 1169,
+     "km_from_ujjain_meridian_then": 27
+    },
+    {
+     "label": 22,
+     "is_india": false,
+     "centroid": [
+      11.695,
+      72.707
+     ],
+     "area_km2": 22,
+     "summit": [
+      11.685,
+      72.69
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 640,
+     "km_per_yojana_if_100": 6.4,
+     "km_from_equator": 1300,
+     "km_from_ujjain_meridian_then": 296
+    },
+    {
+     "label": 106,
+     "is_india": false,
+     "centroid": [
+      -7.253,
+      72.272
+     ],
+     "area_km2": 22,
+     "summit": [
+      -7.24,
+      72.248
+     ],
+     "relief_above_sea_m": 121,
+     "km_from_mahendragiri": 1832,
+     "km_per_yojana_if_100": 18.32,
+     "km_from_equator": 807,
+     "km_from_ujjain_meridian_then": 348
+    },
+    {
+     "label": 14,
+     "is_india": false,
+     "centroid": [
+      13.047,
+      72.427
+     ],
+     "area_km2": 19,
+     "summit": [
+      13.052,
+      72.423
+     ],
+     "relief_above_sea_m": 32,
+     "km_from_mahendragiri": 756,
+     "km_per_yojana_if_100": 7.56,
+     "km_from_equator": 1451,
+     "km_from_ujjain_meridian_then": 325
+    },
+    {
+     "label": 37,
+     "is_india": false,
+     "centroid": [
+      10.556,
+      72.628
+     ],
+     "area_km2": 19,
+     "summit": [
+      10.552,
+      72.615
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 587,
+     "km_per_yojana_if_100": 5.87,
+     "km_from_equator": 1174,
+     "km_from_ujjain_meridian_then": 306
+    },
+    {
+     "label": 65,
+     "is_india": false,
+     "centroid": [
+      4.616,
+      72.768
+     ],
+     "area_km2": 17,
+     "summit": [
+      4.627,
+      72.773
+     ],
+     "relief_above_sea_m": 131,
+     "km_from_mahendragiri": 669,
+     "km_per_yojana_if_100": 6.69,
+     "km_from_equator": 513,
+     "km_from_ujjain_meridian_then": 295
+    },
+    {
+     "label": 42,
+     "is_india": false,
+     "centroid": [
+      8.836,
+      75.504
+     ],
+     "area_km2": 14,
+     "summit": [
+      8.835,
+      75.506
+     ],
+     "relief_above_sea_m": 96,
+     "km_from_mahendragiri": 226,
+     "km_per_yojana_if_100": 2.26,
+     "km_from_equator": 983,
+     "km_from_ujjain_meridian_then": 8
+    },
+    {
+     "label": 25,
+     "is_india": false,
+     "centroid": [
+      11.482,
+      73.003
+     ],
+     "area_km2": 13,
+     "summit": [
+      11.494,
+      73.006
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 600,
+     "km_per_yojana_if_100": 6.0,
+     "km_from_equator": 1277,
+     "km_from_ujjain_meridian_then": 264
+    },
+    {
+     "label": 98,
+     "is_india": false,
+     "centroid": [
+      -5.678,
+      71.965
+     ],
+     "area_km2": 10,
+     "summit": [
+      -5.673,
+      71.965
+     ],
+     "relief_above_sea_m": 85,
+     "km_from_mahendragiri": 1679,
+     "km_per_yojana_if_100": 16.79,
+     "km_from_equator": 631,
+     "km_from_ujjain_meridian_then": 383
+    },
+    {
+     "label": 62,
+     "is_india": false,
+     "centroid": [
+      4.96,
+      73.458
+     ],
+     "area_km2": 9,
+     "summit": [
+      4.96,
+      73.448
+     ],
+     "relief_above_sea_m": 148,
+     "km_from_mahendragiri": 587,
+     "km_per_yojana_if_100": 5.87,
+     "km_from_equator": 552,
+     "km_from_ujjain_meridian_then": 218
+    },
+    {
+     "label": 29,
+     "is_india": false,
+     "centroid": [
+      11.319,
+      74.012
+     ],
+     "area_km2": 8,
+     "summit": [
+      11.319,
+      74.006
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 502,
+     "km_per_yojana_if_100": 5.02,
+     "km_from_equator": 1259,
+     "km_from_ujjain_meridian_then": 154
+    },
+    {
+     "label": 76,
+     "is_india": false,
+     "centroid": [
+      3.034,
+      73.318
+     ],
+     "area_km2": 8,
+     "summit": [
+      3.027,
+      73.315
+     ],
+     "relief_above_sea_m": 26,
+     "km_from_mahendragiri": 754,
+     "km_per_yojana_if_100": 7.54,
+     "km_from_equator": 337,
+     "km_from_ujjain_meridian_then": 234
+    },
+    {
+     "label": 99,
+     "is_india": false,
+     "centroid": [
+      -5.684,
+      71.708
+     ],
+     "area_km2": 8,
+     "summit": [
+      -5.69,
+      71.706
+     ],
+     "relief_above_sea_m": 81,
+     "km_from_mahendragiri": 1691,
+     "km_per_yojana_if_100": 16.91,
+     "km_from_equator": 632,
+     "km_from_ujjain_meridian_then": 412
+    },
+    {
+     "label": 26,
+     "is_india": false,
+     "centroid": [
+      11.45,
+      74.356
+     ],
+     "area_km2": 6,
+     "summit": [
+      11.452,
+      74.356
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 485,
+     "km_per_yojana_if_100": 4.85,
+     "km_from_equator": 1273,
+     "km_from_ujjain_meridian_then": 117
+    },
+    {
+     "label": 7,
+     "is_india": false,
+     "centroid": [
+      13.61,
+      72.31
+     ],
+     "area_km2": 5,
+     "summit": [
+      13.61,
+      72.306
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 812,
+     "km_per_yojana_if_100": 8.12,
+     "km_from_equator": 1513,
+     "km_from_ujjain_meridian_then": 337
+    },
+    {
+     "label": 85,
+     "is_india": false,
+     "centroid": [
+      -0.883,
+      72.966
+     ],
+     "area_km2": 5,
+     "summit": [
+      -0.881,
+      72.965
+     ],
+     "relief_above_sea_m": 103,
+     "km_from_mahendragiri": 1147,
+     "km_per_yojana_if_100": 11.47,
+     "km_from_equator": 98,
+     "km_from_ujjain_meridian_then": 274
+    },
+    {
+     "label": 112,
+     "is_india": false,
+     "centroid": [
+      -7.538,
+      71.403
+     ],
+     "area_km2": 5,
+     "summit": [
+      -7.548,
+      71.398
+     ],
+     "relief_above_sea_m": 14,
+     "km_from_mahendragiri": 1895,
+     "km_per_yojana_if_100": 18.95,
+     "km_from_equator": 838,
+     "km_from_ujjain_meridian_then": 444
+    },
+    {
+     "label": 21,
+     "is_india": false,
+     "centroid": [
+      12.004,
+      74.193
+     ],
+     "area_km2": 4,
+     "summit": [
+      12.002,
+      74.19
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 542,
+     "km_per_yojana_if_100": 5.42,
+     "km_from_equator": 1335,
+     "km_from_ujjain_meridian_then": 134
+    },
+    {
+     "label": 73,
+     "is_india": false,
+     "centroid": [
+      3.512,
+      72.645
+     ],
+     "area_km2": 4,
+     "summit": [
+      3.51,
+      72.648
+     ],
+     "relief_above_sea_m": 152,
+     "km_from_mahendragiri": 764,
+     "km_per_yojana_if_100": 7.64,
+     "km_from_equator": 391,
+     "km_from_ujjain_meridian_then": 309
+    },
+    {
+     "label": 83,
+     "is_india": false,
+     "centroid": [
+      -0.398,
+      73.423
+     ],
+     "area_km2": 4,
+     "summit": [
+      -0.398,
+      73.423
+     ],
+     "relief_above_sea_m": 43,
+     "km_from_mahendragiri": 1077,
+     "km_per_yojana_if_100": 10.77,
+     "km_from_equator": 44,
+     "km_from_ujjain_meridian_then": 223
+    },
+    {
+     "label": 96,
+     "is_india": false,
+     "centroid": [
+      -5.631,
+      72.404
+     ],
+     "area_km2": 3,
+     "summit": [
+      -5.631,
+      72.406
+     ],
+     "relief_above_sea_m": 87,
+     "km_from_mahendragiri": 1658,
+     "km_per_yojana_if_100": 16.58,
+     "km_from_equator": 626,
+     "km_from_ujjain_meridian_then": 335
+    },
+    {
+     "label": 104,
+     "is_india": false,
+     "centroid": [
+      -7.142,
+      72.115
+     ],
+     "area_km2": 3,
+     "summit": [
+      -7.14,
+      72.106
+     ],
+     "relief_above_sea_m": 125,
+     "km_from_mahendragiri": 1827,
+     "km_per_yojana_if_100": 18.27,
+     "km_from_equator": 794,
+     "km_from_ujjain_meridian_then": 365
+    },
+    {
+     "label": 108,
+     "is_india": false,
+     "centroid": [
+      -7.452,
+      71.527
+     ],
+     "area_km2": 3,
+     "summit": [
+      -7.456,
+      71.523
+     ],
+     "relief_above_sea_m": 6,
+     "km_from_mahendragiri": 1882,
+     "km_per_yojana_if_100": 18.82,
+     "km_from_equator": 829,
+     "km_from_ujjain_meridian_then": 430
+    }
+   ]
+  }
+ },
+ "sills_to_india_m": {
+  "Lakshadweep (Kavaratti)": -1873,
+  "Maldives north (Ihavandhippolhu)": -2163,
+  "Male": -2163,
+  "Huvadhu atoll (equator, N)": -2286,
+  "Fuvahmulah (equator)": -2286,
+  "Addu atoll (equator, S)": -2286,
+  "Great Chagos Bank": -3095,
+  "Sri Lanka": -2
+ },
+ "sills_between_equatorial_atolls_m": {
+  "Huvadhu-Fuvahmulah": -1995,
+  "Fuvahmulah-Addu": -1901,
+  "Male-Huvadhu": -2286
+ },
+ "miocene_24th_mahayuga": {
+  "years_ago": 18149128,
+  "sri_lanka_centre_then_nnr_extrapolated": [
+   1.67,
+   73.25
+  ],
+  "caveat": "NNR-MORVEL56 is a present-day model; over 18 Myr use a paleomagnetic frame (error several degrees)"
+ }
+}

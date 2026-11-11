@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<meta name="description" content="Interactive map of the places of the Valmiki Ramayana on both timelines.">
+<meta property="og:title" content="Map — Lanka and the places of the Valmiki Ramayana">
+<meta property="og:description" content="Interactive map of the places of the Valmiki Ramayana on both timelines.">
+<meta property="og:image" content="assets/og.png">
+<title>Map — Lanka and the places of the Valmiki Ramayana</title>
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel='preconnect' href='https://fonts.googleapis.com'><link rel='preconnect' href='https://fonts.gstatic.com' crossorigin><link href='https://fonts.googleapis.com/css2?family=Hind:wght@400;500;600&family=Tiro+Devanagari+Sanskrit&display=swap' rel='stylesheet'>
+<link rel="stylesheet" href="assets/site.css">
+<link rel='stylesheet' href='https://unpkg.com/leaflet@1.9.4/dist/leaflet.css' crossorigin=''>
+</head>
+<body class="map-page">
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="index.html">Lanka <span>&amp;</span> the Valmiki places</a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="site-nav">Menu</button>
+    <nav class="nav" id="site-nav" aria-label="Site"><a href='index.html'>Overview</a><a href='report.html'>Historical edition</a><a href='report_treta_yuga.html'>Treta-Yuga edition</a><a href='map.html' aria-current="page">Map</a><a href='data.html'>Data</a><a href='about.html'>Method and sources</a></nav>
+  </div>
+</header>
+<main class="map-main">
+<div class="map-shell">
+  <aside class="map-panel">
+    <h1>Map of the places</h1>
+    <p>Both editions on one map. Blue markers are today's identifications of places named in the text. Ochre shows the
+    Treta-Yuga world: the shore and coastline at a sea level about 90 m lower, the equatorial candidates and the drowned
+    banks of Chagos. Select any marker for its verse and coordinates.</p>
+    <div class="layer-toggles"><label><input type='checkbox' value='valmiki'> <span class='sw' style='background:#2B7A87'></span> Places in Valmiki's text</label><label><input type='checkbox' value='tradition'> <span class='sw' style='background:#A8875A'></span> Later Sri Lankan traditions</label><label><input type='checkbox' value='rejected'> <span class='sw' style='background:#fff;box-shadow:0 0 0 2px #7C3B3B'></span> Tested and rejected locations</label><label><input type='checkbox' value='treta'> <span class='sw' style='background:#B7791F'></span> Treta-Yuga candidates and drowned islands</label><label><input type='checkbox' value='treta_shore'> <span class='sw' style='background:#F3E2C2;box-shadow:0 0 0 2px #B7791F'></span> Shore at the end of Treta</label><label><input type='checkbox' value='treta_coast'> <span class='ln' style='border-color:#B7791F'></span> Coastline at −90 m (end of Treta)</label><label><input type='checkbox' value='route'> <span class='ln' style='border-color:#0B2A45;border-top-style:dashed'></span> Narrative route</label></div>
+    <p><label for="basemap">Base map</label><br>
+    <select id="basemap"><option value="ocean">Ocean relief (Esri)</option><option value="osm">Streets (OpenStreetMap)</option></select></p>
+    <p>Go to</p>
+    <p style="display:flex;flex-wrap:wrap;gap:.4rem"><button type='button' class='btn btn-quiet' style='color:var(--abyss);border-color:var(--rule)' data-fly='25.6,81.8,6.5'>North India</button> <button type='button' class='btn btn-quiet' style='color:var(--abyss);border-color:var(--rule)' data-fly='15.34,76.48,11'>Kishkindha (Hampi)</button> <button type='button' class='btn btn-quiet' style='color:var(--abyss);border-color:var(--rule)' data-fly='9.15,79.55,9'>Palk Strait</button> <button type='button' class='btn btn-quiet' style='color:var(--abyss);border-color:var(--rule)' data-fly='0.1,73.3,8'>Equatorial Maldives</button> <button type='button' class='btn btn-quiet' style='color:var(--abyss);border-color:var(--rule)' data-fly='-6.3,71.9,8'>Chagos</button> <button type='button' class='btn btn-quiet' style='color:var(--abyss);border-color:var(--rule)' data-fly='-15,59.5,6'>Mauritius and the Mascarenes</button> <button type='button' class='btn btn-quiet' style='color:var(--abyss);border-color:var(--rule)' data-fly='10,78,4.5'>Whole region</button> </p>
+    <p class="small">Marker shade shows confidence: darker for a direct textual fit, greyer for a weaker one. Coordinates are
+    WGS84. The base map is for orientation only; every computed layer comes from GEBCO 2026.</p>
+  </aside>
+  <div id="map" role="region" aria-label="Map of the places of the Valmiki Ramayana"></div>
+</div>
+</main>
+<footer class="footer">
+  <div class="footer-inner">
+    <div>
+      <p>Bathymetry and land elevation: GEBCO Compilation Group (2026) GEBCO 2026 Grid (doi: 10.5285/4f68d5c7-45eb-f999-e063-7086abc036fa). The GEBCO Grid must not be used for navigation
+      or for any purpose involving safety at sea. This site is an independent study and is not endorsed by GEBCO,
+      the IHO or the IOC.</p>
+      <p>Planetary positions from JPL DE441/DE440s (NASA). Sea-level reconstructions from NOAA's World Data Service
+      for Paleoclimatology. Site coordinates from Wikipedia, &copy; OpenStreetMap contributors and Indian district
+      portals. Full credits on <a href="about.html">Method and sources</a>.</p>
+    </div>
+    <div>
+      <p>Two readings of one dataset: a <a href="report.html">historical edition</a> and a
+      <a href="report_treta_yuga.html">Treta-Yuga edition</a>. Every number on this site is recomputed by the scripts in
+      this repository.</p>
+      <p>Built 11 November 2026.</p>
+    </div>
+  </div>
+</footer>
+<script src='https://unpkg.com/leaflet@1.9.4/dist/leaflet.js' crossorigin=''></script><script src='assets/site.js' defer></script><script src='assets/map.js' defer></script>
+</body>
+</html>

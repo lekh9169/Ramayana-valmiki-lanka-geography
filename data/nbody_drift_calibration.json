@@ -1,0 +1,44 @@
+{
+ "emb": {
+  "deg_per_kyr": -0.022492,
+  "offset_deg": -0.00134,
+  "quadratic_deg_per_kyr2": 6.122453423605167e-05,
+  "rms_residual_deg": 0.00073,
+  "extrapolated_869ka_deg": 19.55
+ },
+ "mercury": {
+  "deg_per_kyr": 0.094995,
+  "offset_deg": -0.03675,
+  "quadratic_deg_per_kyr2": 0.0033368436970176913,
+  "rms_residual_deg": 0.21685,
+  "extrapolated_869ka_deg": -82.56
+ },
+ "venus": {
+  "deg_per_kyr": 0.047926,
+  "offset_deg": -0.00152,
+  "quadratic_deg_per_kyr2": 8.847637888011848e-05,
+  "rms_residual_deg": 0.0086,
+  "extrapolated_869ka_deg": -41.65
+ },
+ "mars": {
+  "deg_per_kyr": 0.011159,
+  "offset_deg": 0.00504,
+  "quadratic_deg_per_kyr2": -5.603173577194842e-05,
+  "rms_residual_deg": 0.00965,
+  "extrapolated_869ka_deg": -9.7
+ },
+ "jupiter": {
+  "deg_per_kyr": 0.000341,
+  "offset_deg": -6e-05,
+  "quadratic_deg_per_kyr2": 2.8178852381194128e-06,
+  "rms_residual_deg": 0.00018,
+  "extrapolated_869ka_deg": -0.3
+ },
+ "saturn": {
+  "deg_per_kyr": 0.000111,
+  "offset_deg": 7e-05,
+  "quadratic_deg_per_kyr2": -6.764551195126635e-06,
+  "rms_residual_deg": 0.00016,
+  "extrapolated_869ka_deg": -0.1
+ }
+}
