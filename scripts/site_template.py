@@ -1,6 +1,16 @@
 """Shared page shell for the website: head, top bar, footer with the required data attributions."""
+import hashlib
 import html
 from datetime import date
+from pathlib import Path
+
+ASSETS = Path(__file__).resolve().parents[1] / "assets"
+
+
+def v(name):
+    """Asset URL with a content hash, so browsers and GitHub Pages never serve a stale copy after an update."""
+    digest = hashlib.sha1((ASSETS / name).read_bytes()).hexdigest()[:10]
+    return f"assets/{name}?v={digest}"
 
 SITE_NAME = "Lanka and the places of the Valmiki Ramayana"
 NAV = [("index.html", "home", "Overview"), ("report.html", "historical", "Historical edition"),
@@ -19,7 +29,7 @@ def page(title, body, active, description, body_class="", leaflet=False, scripts
     nav = "".join(f"<a href='{href}'{' aria-current=\"page\"' if key == active else ''}>{label}</a>"
                   for href, key, label in NAV)
     head_extra = LEAFLET[0] if leaflet else ""
-    tail = (LEAFLET[1] if leaflet else "") + "".join(f"<script src='assets/{s}' defer></script>" for s in ("site.js", *scripts))
+    tail = (LEAFLET[1] if leaflet else "") + "".join(f"<script src='{v(s)}' defer></script>" for s in ("site.js", *scripts))
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -33,7 +43,7 @@ def page(title, body, active, description, body_class="", leaflet=False, scripts
 <title>{html.escape(title)}</title>
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 {FONTS}
-<link rel="stylesheet" href="assets/site.css">
+<link rel="stylesheet" href="{v('site.css')}">
 {head_extra}
 </head>
 <body class="{body_class}">
@@ -75,6 +85,7 @@ def report_shell(sections_html, edition):
     return f"""<main class="edition-{edition}">
   <div class="wrap report-grid">
     <nav class="toc" aria-label="On this page"><p>On this page</p><ol></ol></nav>
-    <article class="report-body"><span class="edition-badge">{badge}</span>{sections_html}</article>
+    <article class="report-body"><span class="edition-badge">{badge}</span>
+      <details class="toc-mobile"><summary>On this page</summary><ol></ol></details>{sections_html}</article>
   </div>
 </main>"""

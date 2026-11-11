@@ -25,7 +25,8 @@ def table(headers, rows, cls=""):
 
 
 def fig(src, caption):
-    return f'<figure><img src="maps/{src}" alt="{esc(caption)}"/><figcaption>{caption}</figcaption></figure>'
+    return (f'<figure><a href="maps/{src}" target="_blank" rel="noopener"><img src="maps/{src}" alt="{esc(caption)}" loading="lazy"/></a>'
+            f'<figcaption>{caption}</figcaption></figure>')
 
 
 def sea_level_rows():

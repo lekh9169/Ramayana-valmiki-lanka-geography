@@ -3,7 +3,9 @@
   const el = document.getElementById("map");
   if (!el || !window.L) return;
   const preview = el.dataset.preview === "true";
-  const map = L.map(el, { scrollWheelZoom: !preview, zoomSnap: 0.5 }).setView([14, 78.5], preview ? 4.5 : 5);
+  const touch = window.matchMedia("(pointer: coarse)").matches;
+  const map = L.map(el, { scrollWheelZoom: !preview, zoomSnap: 0.5, dragging: !(preview && touch), tap: !(preview && touch) })
+    .setView([14, 78.5], preview ? 4.5 : 5);
 
   const ocean = L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}", {
     maxZoom: 13, attribution: "Basemap: Esri, GEBCO, NOAA, National Geographic, Garmin, HERE and others"

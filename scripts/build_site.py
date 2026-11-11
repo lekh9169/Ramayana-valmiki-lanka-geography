@@ -52,11 +52,18 @@ def home():
     body = f"""
 <section class="hero" aria-labelledby="hero-title">
   <div class="hero-inner">
-    <div>
+    <div class="hero-title">
       <h1 id="hero-title">Lanka and the places of the Valmiki Ramayana, measured</h1>
       <p class="lede">The seafloor between India and Sri Lanka decides much of the story. Lower the sea and watch when
       Adam's Bridge stands dry, when Sri Lanka becomes an island, and what the coast looked like at the end of the
       Treta Yuga.</p>
+    </div>
+    <div class="relief">
+      <canvas id="relief" role="img" aria-label="Relief of southern India and Sri Lanka from GEBCO 2026, flooded to the chosen sea level"></canvas>
+      {tag_html}
+      <span class="credit">GEBCO 2026</span>
+    </div>
+    <div class="hero-controls">
       <div class="readout" aria-live="polite">
         <div class="level" id="level-value">0<small>m</small></div>
         <p class="when" id="level-when"></p>
@@ -74,17 +81,12 @@ def home():
           <button type="button" data-level="-128">Ice age</button>
         </div>
       </div>
-      <div class="hero-actions">
-        <a class="btn btn-primary" href="report.html">Read the historical edition</a>
+    </div>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="report.html">Read the historical edition</a>
         <a class="btn btn-quiet" href="report_treta_yuga.html">Read the Treta-Yuga edition</a>
         <a class="btn btn-quiet" href="map.html">Open the map</a>
       </div>
-    </div>
-    <div class="relief">
-      <canvas id="relief" role="img" aria-label="Relief of southern India and Sri Lanka from GEBCO 2026, flooded to the chosen sea level"></canvas>
-      {tag_html}
-      <span class="credit">GEBCO 2026</span>
-    </div>
   </div>
 </section>
 <main>

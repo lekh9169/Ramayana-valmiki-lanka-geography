@@ -11,7 +11,7 @@
 <title>Lanka and the places of the Valmiki Ramayana: a data-driven geography</title>
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 <link rel='preconnect' href='https://fonts.googleapis.com'><link rel='preconnect' href='https://fonts.gstatic.com' crossorigin><link href='https://fonts.googleapis.com/css2?family=Hind:wght@400;500;600&family=Tiro+Devanagari+Sanskrit&display=swap' rel='stylesheet'>
-<link rel="stylesheet" href="assets/site.css">
+<link rel="stylesheet" href="assets/site.css?v=c55d9e6e4b">
 <link rel='stylesheet' href='https://unpkg.com/leaflet@1.9.4/dist/leaflet.css' crossorigin=''>
 </head>
 <body class="home">
@@ -25,11 +25,18 @@
 
 <section class="hero" aria-labelledby="hero-title">
   <div class="hero-inner">
-    <div>
+    <div class="hero-title">
       <h1 id="hero-title">Lanka and the places of the Valmiki Ramayana, measured</h1>
       <p class="lede">The seafloor between India and Sri Lanka decides much of the story. Lower the sea and watch when
       Adam's Bridge stands dry, when Sri Lanka becomes an island, and what the coast looked like at the end of the
       Treta Yuga.</p>
+    </div>
+    <div class="relief">
+      <canvas id="relief" role="img" aria-label="Relief of southern India and Sri Lanka from GEBCO 2026, flooded to the chosen sea level"></canvas>
+      <span class='tag ' data-lat='9.925' data-lon='78.12'>Madurai</span><span class='tag ' data-lat='8.078' data-lon='77.55'>Kanyakumari</span><span class='tag ' data-lat='9.288' data-lon='79.317'>Rameswaram</span><span class='tag bridge' data-lat='9.13' data-lon='79.58'>Adam's Bridge</span><span class='tag ' data-lat='8.98' data-lon='79.9'>Mannar</span><span class='tag ' data-lat='9.66' data-lon='80.01'>Jaffna</span><span class='tag ' data-lat='8.58' data-lon='81.23'>Trincomalee</span><span class='tag ' data-lat='6.93' data-lon='79.86'>Colombo</span><span class='tag ' data-lat='6.81' data-lon='80.5'>Sri Pada</span>
+      <span class="credit">GEBCO 2026</span>
+    </div>
+    <div class="hero-controls">
       <div class="readout" aria-live="polite">
         <div class="level" id="level-value">0<small>m</small></div>
         <p class="when" id="level-when"></p>
@@ -47,17 +54,12 @@
           <button type="button" data-level="-128">Ice age</button>
         </div>
       </div>
-      <div class="hero-actions">
-        <a class="btn btn-primary" href="report.html">Read the historical edition</a>
+    </div>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="report.html">Read the historical edition</a>
         <a class="btn btn-quiet" href="report_treta_yuga.html">Read the Treta-Yuga edition</a>
         <a class="btn btn-quiet" href="map.html">Open the map</a>
       </div>
-    </div>
-    <div class="relief">
-      <canvas id="relief" role="img" aria-label="Relief of southern India and Sri Lanka from GEBCO 2026, flooded to the chosen sea level"></canvas>
-      <span class='tag ' data-lat='9.925' data-lon='78.12'>Madurai</span><span class='tag ' data-lat='8.078' data-lon='77.55'>Kanyakumari</span><span class='tag ' data-lat='9.288' data-lon='79.317'>Rameswaram</span><span class='tag bridge' data-lat='9.13' data-lon='79.58'>Adam's Bridge</span><span class='tag ' data-lat='8.98' data-lon='79.9'>Mannar</span><span class='tag ' data-lat='9.66' data-lon='80.01'>Jaffna</span><span class='tag ' data-lat='8.58' data-lon='81.23'>Trincomalee</span><span class='tag ' data-lat='6.93' data-lon='79.86'>Colombo</span><span class='tag ' data-lat='6.81' data-lon='80.5'>Sri Pada</span>
-      <span class="credit">GEBCO 2026</span>
-    </div>
   </div>
 </section>
 <main>
@@ -142,6 +144,6 @@
     </div>
   </div>
 </footer>
-<script src='https://unpkg.com/leaflet@1.9.4/dist/leaflet.js' crossorigin=''></script><script src='assets/site.js' defer></script><script src='assets/hero.js' defer></script><script src='assets/map.js' defer></script>
+<script src='https://unpkg.com/leaflet@1.9.4/dist/leaflet.js' crossorigin=''></script><script src='assets/site.js?v=b5991a657c' defer></script><script src='assets/hero.js?v=c3491ab3b8' defer></script><script src='assets/map.js?v=d220383d99' defer></script>
 </body>
 </html>

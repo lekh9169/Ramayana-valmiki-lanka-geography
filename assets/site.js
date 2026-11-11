@@ -20,7 +20,17 @@
     wrap.appendChild(table);
   });
 
+  // wide tables become labelled cards on phones (CSS does the layout; this adds the labels)
+  document.querySelectorAll("main table").forEach((table) => {
+    const head = table.tHead ? [...table.tHead.rows[0].cells].map((c) => c.textContent.trim()) : [];
+    if (head.length < 4) return;
+    table.classList.add("stack");
+    [...table.tBodies].forEach((tb) => [...tb.rows].forEach((row) =>
+      [...row.cells].forEach((cell, i) => cell.setAttribute("data-label", head[i] || ""))));
+  });
+
   const toc = document.querySelector(".toc ol");
+  const tocMobile = document.querySelector(".toc-mobile ol");
   const article = document.querySelector(".report-body");
   if (toc && article) {
     const heads = [...article.querySelectorAll("h2")];
@@ -32,6 +42,11 @@
       a.textContent = h.textContent.replace(/^\d+\.\s*/, "");
       li.appendChild(a);
       toc.appendChild(li);
+      if (tocMobile) {
+        const li2 = li.cloneNode(true);
+        li2.querySelector("a").addEventListener("click", () => li2.closest("details").removeAttribute("open"));
+        tocMobile.appendChild(li2);
+      }
     });
     const links = [...toc.querySelectorAll("a")];
     const spy = new IntersectionObserver((entries) => {
